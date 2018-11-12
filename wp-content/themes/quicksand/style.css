@@ -1,0 +1,38 @@
+/*
+Theme Name: Quicksand
+Theme URI: http://quicksand.cafe-serendipity.com
+Author: Cafe Serendipity - Andreas Stephan
+Author URI: http://cafe-serendipity.com
+Description: Quicksand comes with 3 ready-to-use color-schemes, one with rounded, two with cornered boxes. Its responsive design is based on Bootstrap 4, so your page will always look fine on any device. The theme is highly configurable, so you can easily adjust it to your needs, by using the theme-options inside your customizer.  Choose between masonry- and normal-, fullwidth- or boxed-layout, none, one or two sidebars and there were also added two better looking archive- & category-widgets. Quicksand also comes with a social-icon-integration, by using the fantastic FontAwesome image-library. Galleries can be displayed by the stunning Lightgallery-plugin and if you feel to use a slider on your frontpage, no worries, Flexslider is integrated.
+Version: 0.7.0
+License: GNU General Public License v3.0 
+License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
+Text Domain: quicksand
+Domain Path: /languages/
+Tags: one-column, two-columns, three-columns, left-sidebar, right-sidebar, grid-layout, flexible-header, custom-background, custom-colors, custom-header, custom-menu, custom-logo, featured-images, footer-widgets, full-width-template, post-formats, sticky-post, theme-options, threaded-comments, translation-ready, blog 
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/ 
+
+/* local fonts have to be defined at the beginning */
+@font-face {
+    font-family: Raleway;  
+    src: url(fonts/Raleway/Raleway-Regular.ttf);  
+    font-weight: normal;  
+}
+@font-face {
+    font-family: Rokkitt;  
+    src: url(fonts/Rokkitt/Rokkitt-Regular.ttf);  
+    font-weight: normal;  
+}
+@font-face {
+    font-family: Source Code Pro;  
+    src: url(fonts/Source_Code_Pro/SourceCodePro-Regular.ttf);  
+    font-weight: normal;  
+}
+@font-face {
+    font-family: Abel;  
+    src: url(fonts/Abel/Abel-Regular.ttf);  
+    font-weight: normal;  
+}

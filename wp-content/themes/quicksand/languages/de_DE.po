@@ -1,0 +1,918 @@
+# Translation of Twenty Sixteen in German
+# This file is distributed under the same license as the Twenty Sixteen package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Quicksand\n"
+"POT-Creation-Date: 2017-07-26 22:02+0200\n"
+"PO-Revision-Date: 2017-07-26 22:02+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext;_n;__ngettext_noop;_n_noop;_x;_nx;"
+"_nx_noop;_ex;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;"
+"esc_html_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: css\n"
+"X-Poedit-SearchPathExcluded-2: dev\n"
+"X-Poedit-SearchPathExcluded-3: fonts\n"
+"X-Poedit-SearchPathExcluded-4: img\n"
+"X-Poedit-SearchPathExcluded-5: js\n"
+"X-Poedit-SearchPathExcluded-6: languages\n"
+
+#: 404.php:22
+#, fuzzy
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Diese Seite konnte leider nicht gefunden werden."
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location"
+msgstr "Es sieht so aus als ob nichts gefunden wurden."
+
+#: 404.php:28
+msgid "Maybe try a search?"
+msgstr "Vielleicht willst du es mit einer Suche probieren?"
+
+#: comments.php:29
+#, php-format
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Ein Gedanke zu &ldquo;%s&rdquo;"
+
+#: comments.php:34
+#, php-format
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgstr "%1$s meinte zu &ldquo;%2$s&rdquo;"
+
+#: comments.php:58 comments.php:59
+msgid "Older Comments"
+msgstr "Ältere Kommentare"
+
+#: comments.php:60 comments.php:61
+msgid "Newer Comments"
+msgstr "Neuere Kommentare"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: functions.php:93
+msgid "Primary Menu"
+msgstr "Primäres Menü"
+
+#: functions.php:94
+msgid "Secondary Menu"
+msgstr "Sekundäres Menu"
+
+#: functions.php:181 inc/customizer.php:724
+msgid "Right Sidebar"
+msgstr "Rechte Sidebar"
+
+#: functions.php:183
+msgid "Add widgets here to appear in your right sidebar."
+msgstr "Füge Widgets zur rechten Sidebar hinzu"
+
+#: functions.php:191 inc/customizer.php:725
+msgid "Left Sidebar"
+msgstr "Linke Sidebar"
+
+#: functions.php:193
+msgid "Add widgets here to appear in your left sidebar."
+msgstr "Füge Widgets zur linken Sidebar hinzu"
+
+#: functions.php:201
+msgid "Footer Sidebar"
+msgstr "Footer Sidebar"
+
+#: functions.php:203
+msgid "Add widgets here to appear at the bottom."
+msgstr "Füge Widgets hier hinzu, damit sie im Footer erscheinen."
+
+#: functions.php:420
+msgid "Comment"
+msgstr "Kommentar"
+
+#: functions.php:455
+msgid "Name"
+msgstr "Name"
+
+#: functions.php:457
+msgid "Email"
+msgstr "Email"
+
+#: functions.php:459
+msgid "Website"
+msgstr "Webseite"
+
+#: functions.php:479
+msgid "To view this protected post, enter the password below:"
+msgstr ""
+"Geben Sie bitte Ihr Kennwort ein, um diesen geschützten Beitrag zu sehen"
+
+#: functions.php:551 inc/template-tags.php:712
+msgid "Read more"
+msgstr "Weiter lesen"
+
+#: functions.php:573
+msgid "Category"
+msgstr "Kategorie"
+
+#: functions.php:575
+msgid "Tag"
+msgstr "Tag"
+
+#: functions.php:577 inc/customizer.php:479
+msgid "Author"
+msgstr "Autor"
+
+#: functions.php:579
+msgid "Month"
+msgstr "Monat"
+
+#: functions.php:579
+msgid "F Y"
+msgstr "F Y"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "Zum Inhalt springen"
+
+#: image.php:63
+msgid "Full size"
+msgstr "Volle Größe"
+
+#: image.php:72
+msgid ""
+"<i class=\"fa fa-long-arrow-left\" aria-hidden=\"true\"></i> Previous Image"
+msgstr ""
+"<i class=\"fa fa-long-arrow-left\" aria-hidden=\"true\"></i> Voriges Bild"
+
+#: image.php:73
+msgid "Next Image <i class=\"fa fa-long-arrow-right\" aria-hidden=\"true\"></i>"
+msgstr ""
+"Nächstes Bild <i class=\"fa fa-long-arrow-right\" aria-hidden=\"true\"></i>"
+
+#: image.php:89
+msgid ""
+"<span class=\"meta-nav\">Published in </span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+"<span class=\"meta-nav\">Veröffentlicht in</span><span class=\"post-title\">"
+"%title</span>"
+
+#: inc/QuicksandNavwalker.php:209
+msgid "Add a menu"
+msgstr "Menü hinzufügen"
+
+#: inc/back-compat.php:40 inc/back-compat.php:52 inc/back-compat.php:69
+#, php-format
+msgid ""
+"Quicksand requires at least WordPress version %1$s. You are running version "
+"%2$s. Please upgrade and try again."
+msgstr ""
+"Quicksand benötigt mindestens WordPress Version%1$s. Sie betreiben Version"
+"%2$s. Bitte aktualisieren Sie und versuchen Sie es erneut."
+
+#: inc/class.QuicksandCustomizeCategoryControl.php:11
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Wähle &mdash;"
+
+#: inc/color-schemes.php:32
+msgid "Asteroid Blues"
+msgstr "Asteroid Blues"
+
+#: inc/color-schemes.php:91
+msgid "Jupiter Jazz"
+msgstr "Jupiter Jazz"
+
+#: inc/color-schemes.php:150
+msgid "Ganymede Elegy"
+msgstr "Ganymede Elegy"
+
+#: inc/customizer.php:49
+msgid "Theme Options"
+msgstr "Theme Einstellungen"
+
+#: inc/customizer.php:59 inc/customizer.php:71
+msgid "Color Schemes"
+msgstr "Farb-Schematas"
+
+#: inc/customizer.php:82
+msgid "Navigation"
+msgstr "Navigation"
+
+#: inc/customizer.php:95
+msgid "Logo Text"
+msgstr "Logo Text"
+
+#: inc/customizer.php:98
+msgid "Appears when no logo is selected"
+msgstr "Wird angezeigt wenn kein Logo gewählt ist"
+
+#: inc/customizer.php:110
+msgid "Navigation Fullwidth"
+msgstr "Navigation volle Breite"
+
+#: inc/customizer.php:124
+msgid "Navbar Link Color"
+msgstr "Navbar Linkfarbe"
+
+#: inc/customizer.php:136
+msgid "Navbar Link Hover Background Color"
+msgstr "Navbar Link Hover Hintergrund Farbe"
+
+#: inc/customizer.php:149
+msgid "Navbar Background Color"
+msgstr "Navbar Hintergrundfarbe"
+
+#: inc/customizer.php:158
+msgid "Header"
+msgstr "Header"
+
+#: inc/customizer.php:174
+msgid "Enable Header"
+msgstr "Aktiviere Header"
+
+#: inc/customizer.php:178
+msgid ""
+"Note that all options in here do only work when 'Display Site Title and "
+"Tagline' in 'Site Identity' is enabled."
+msgstr ""
+"Bitte beachten Sie, dass hier alle Option nur dann funktionieren, wenn sie  ' "
+"Titel und Untertitel der Website anzeigen' in 'Website "
+"Informationen'‚ aktiviert haben."
+
+#: inc/customizer.php:191
+msgid "Hide when Slider is enabled"
+msgstr "Verstecke wenn Slider aktiviert ist"
+
+#: inc/customizer.php:207
+msgid "Show only on front-page"
+msgstr "Nur auf der Front-Seite anzeigen"
+
+#: inc/customizer.php:223
+msgid "Header Fullwidth"
+msgstr "Header volle Breite"
+
+#: inc/customizer.php:238
+msgid "Header Background Color"
+msgstr "Header Hintergrundfarbe"
+
+#: inc/customizer.php:251
+msgid "Slider"
+msgstr "Slider"
+
+#: inc/customizer.php:266
+msgid "Enable Slider"
+msgstr "Aktivere Slider"
+
+#: inc/customizer.php:270
+msgid "Is only shown on front-page. You also have to select a category below."
+msgstr ""
+"Wird nur auf der Front-Seite angezeigt. Sie müssen ebenfalls eine Kategorie "
+"unten wählen."
+
+#: inc/customizer.php:283
+msgid "Slider Fullwidth"
+msgstr "Slider Fullwidth"
+
+#: inc/customizer.php:299
+msgid "Hide in mobile-mode"
+msgstr "In Mobile-Mode verstecken"
+
+#: inc/customizer.php:319
+msgid "Only posts including a featured image will be exposed"
+msgstr "Nur Posts mit einem Features Image werden angezeigt"
+
+#: inc/customizer.php:329
+msgid "Number of posts"
+msgstr "Anzahl der Posts"
+
+#: inc/customizer.php:348 inc/customizer.php:371
+msgid "Height"
+msgstr "Höhe"
+
+#: inc/customizer.php:349
+msgid "Set the height of the slider"
+msgstr "Setze die Höhe des Spiders"
+
+#: inc/customizer.php:372
+msgid "Margin to the top"
+msgstr "Abstand nach oben"
+
+#: inc/customizer.php:389
+msgid "Content"
+msgstr "Inhalt"
+
+#: inc/customizer.php:404
+msgid "Content Fullwidth"
+msgstr "Inhalt Fullwidth"
+
+#: inc/customizer.php:420
+msgid "List-Views Masonry-like"
+msgstr "List-Views wie Masonry"
+
+#: inc/customizer.php:424
+msgid "Shown when there are more than 2 posts"
+msgstr "Wird angezeigt wenn es mer als 2 Beiträge gibt"
+
+#: inc/customizer.php:438
+msgid "Use LightGallery"
+msgstr "Aktiviere Lightgallery"
+
+#: inc/customizer.php:460
+msgid "Font Size"
+msgstr "Font Größe"
+
+#: inc/customizer.php:477
+msgid "Show Meta"
+msgstr "Zeige Meta-Informationen"
+
+#: inc/customizer.php:478
+msgid "Date"
+msgstr "Datum"
+
+#: inc/customizer.php:480
+msgid "Post-Format"
+msgstr "Beitrags-Format"
+
+#: inc/customizer.php:481
+msgid "Taxonomies"
+msgstr "Taxonomien"
+
+#: inc/customizer.php:482
+msgid "Comments"
+msgstr "Kommentare"
+
+#: inc/customizer.php:493
+msgid "Content Background Color"
+msgstr "Inhalt Hintergrundfarbe"
+
+#: inc/customizer.php:509
+msgid "Content Link Color"
+msgstr "Inhalt Linkfarbe"
+
+#: inc/customizer.php:523
+msgid "Content Text Color"
+msgstr "Inhalt Textfarbe"
+
+#: inc/customizer.php:536
+msgid "Secondary Text Color"
+msgstr "Zweite Textfarbe"
+
+#: inc/customizer.php:549
+msgid "Title Background Color"
+msgstr "Titel Hintergrund Farbe"
+
+#: inc/customizer.php:562
+msgid "Post Background Color"
+msgstr "Beitrag Hintergrund Farbe"
+
+#: inc/customizer.php:575
+msgid "Post Border Color"
+msgstr "Titel Rahmen Farbe"
+
+#: inc/customizer.php:585
+msgid "Buttons"
+msgstr "Buttons"
+
+#: inc/customizer.php:597
+msgid "Button Primary Color"
+msgstr "Button Primär Farbe"
+
+#: inc/customizer.php:611
+msgid "Button Secondary Color"
+msgstr "Button Sekundär Farbe"
+
+#: inc/customizer.php:626
+msgid "Tag Background Color"
+msgstr "Tag Hintergrund Farbe"
+
+#: inc/customizer.php:639
+msgid "Tag Font Color"
+msgstr "Tag Font Farbe"
+
+#: inc/customizer.php:651
+msgid "Biography"
+msgstr "Biografie"
+
+#: inc/customizer.php:665
+msgid "Show Author Biography"
+msgstr "Zeige Autoren Biografie"
+
+#: inc/customizer.php:679
+msgid "Background Color"
+msgstr "Hintergrund Farbe"
+
+#: inc/customizer.php:692
+msgid "Font Color"
+msgstr "Font Farbe"
+
+#: inc/customizer.php:704
+msgid "Sidebar"
+msgstr "Seitenleiste"
+
+#: inc/customizer.php:719
+msgid "Sidebar Numbers"
+msgstr "Anzahl Tidebars"
+
+#: inc/customizer.php:723
+msgid "No Sidebar"
+msgstr "Keine Sidebar"
+
+#: inc/customizer.php:726
+msgid "Left & right Sidebar"
+msgstr "Linke & rechte Sidebar"
+
+#: inc/customizer.php:739
+msgid "Widget Background Color"
+msgstr "Widget Backgroundfarbe"
+
+#: inc/customizer.php:751
+msgid "Widget Text Color"
+msgstr "Widget Textfarbe"
+
+#: inc/customizer.php:763
+msgid "Widget Link Color"
+msgstr "Widget Linkfarbe"
+
+#: inc/customizer.php:779
+msgid "Widget Border Color"
+msgstr "Widget Rahmenfarbe"
+
+#: inc/customizer.php:782
+#, php-format
+msgid "For a nice effect choose the same color like Content-Background (%s) ..."
+msgstr ""
+"Um einen netten Effekt zu erzielen, wähle dieselbe Farbe wie die Inhalt-"
+"Hintergrund-Farbe (%s) …"
+
+#: inc/customizer.php:797
+msgid "Border width"
+msgstr "Rahmen Breite"
+
+#: inc/customizer.php:812
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/customizer.php:824
+msgid "Footer Background Color"
+msgstr "Footer Hintergrundfarbe"
+
+#: inc/customizer.php:836
+msgid "Footer Text Color"
+msgstr "Footer Textfarbe"
+
+#: inc/customizer.php:848
+msgid "Footer Link Color"
+msgstr "Footer Linkfarbe"
+
+#: inc/customizer.php:860
+msgid "Footer Link Hover Color"
+msgstr "Footer Link-Hover-Farbe"
+
+#: inc/customizer.php:1009
+msgid "Social Media Icons"
+msgstr "Social Media Icons"
+
+#: inc/customizer.php:1083 inc/customizer.php:1095
+#, php-format
+msgid "%s icon"
+msgstr "%s icon"
+
+#: inc/template-tags.php:44
+msgid "Format"
+msgstr "Format"
+
+#: inc/template-tags.php:58
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+"Schreiben Sie einen Kommentar<span class=\"screen-reader-text\"> zu %s</span> "
+
+#: inc/template-tags.php:107
+msgid "Posted on"
+msgstr "Veröffentlicht am"
+
+#: inc/template-tags.php:127
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:129 inc/widgets/class.QuicksandWidgetCategories.php:92
+msgid "Categories"
+msgstr "Categories"
+
+#: inc/template-tags.php:135
+msgid "Tags"
+msgstr "Tags"
+
+#: inc/template-tags.php:202 inc/template-tags.php:239 inc/template-tags.php:271
+#: inc/template-tags.php:303 inc/template-tags.php:389 inc/template-tags.php:460
+#: inc/template-tags.php:493
+msgid "Featured"
+msgstr "Empfohlen"
+
+#: inc/template-tags.php:581
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: inc/template-tags.php:585 inc/template-tags.php:611
+msgid "Page"
+msgstr "Seite"
+
+#: inc/template-tags.php:639
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "<span class=\"screen-reader-text\">&#8222;%s&#8220;</span> bearbeiten"
+
+#: inc/widgets/class.QuicksandWidgetArchives.php:10
+msgid "Quicksand Archives"
+msgstr "Quicksand Archive"
+
+#: inc/widgets/class.QuicksandWidgetArchives.php:92
+msgid "Archives"
+msgstr "Archive"
+
+#: inc/widgets/class.QuicksandWidgetArchives.php:100
+#: inc/widgets/class.QuicksandWidgetCategories.php:100
+msgid "Title "
+msgstr "Title"
+
+#: inc/widgets/class.QuicksandWidgetArchives.php:107
+msgid "Limit Archives "
+msgstr "Limitiere Archive"
+
+#: inc/widgets/class.QuicksandWidgetArchives.php:119
+#: inc/widgets/class.QuicksandWidgetCategories.php:119
+msgid "Enable Posts Count"
+msgstr "Zähler anzeigen"
+
+#: inc/widgets/class.QuicksandWidgetCategories.php:10
+msgid "Quicksand Categories"
+msgstr "Quicksand Kategorien"
+
+#: inc/widgets/class.QuicksandWidgetCategories.php:107
+msgid "Limit Categories "
+msgstr "Limitiere Kategorien"
+
+#: search.php:30
+msgid "Search Results for:"
+msgstr "Suche-Resultate für:"
+
+#: searchform.php:13 template-parts/searchform_nav.php:6
+#: template-parts/searchform_nav_mobile.php:8
+msgid "Search ..."
+msgstr "Suche …"
+
+#: single.php:46
+msgid ""
+"<span class=\"meta-nav btn btn-outline-secondary\">Published in </span><span "
+"class=\"post-title\">%title</span>"
+msgstr ""
+"<span class=\"meta-nav btn btn-outline-secondary\">Veröffentlicht in </"
+"span><span class=\"post-title\">%title</span>"
+
+#: single.php:51
+msgid "Previous Post"
+msgstr "Vorheriger Beitrag"
+
+#: single.php:52
+msgid "Previous post:"
+msgstr "Vorheriger Beitrag:"
+
+#: single.php:53
+msgid "Next Post"
+msgstr "Nächster Beitrag"
+
+#: single.php:54
+msgid "Next post:"
+msgstr "Nächster Beitrag:"
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: template-parts/content-none.php:23
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Bereit, um Ihren ersten Beitrag zu veröffentlichen? <a href=\"%1$s\">Starten "
+"Sie hier </a>."
+
+#: template-parts/content-none.php:27
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Es gibt keine passenden Suchergebnisse. Bitte versuchen Sie es mit anderen "
+"Suchbegriffen."
+
+#: template-parts/content-none.php:32
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching "
+"can help."
+msgstr ""
+"Es sieht so aus, als ob wir nicht das finden könnten, wonach Sie gesucht "
+"haben. Möglicherweise hilft eine Suche."
+
+#: template-parts/navigation-primary.php:16
+msgid "toggle navigation"
+msgstr "Navigation umschalten"
+
+#: template-parts/navigation-primary.php:21
+msgid "close"
+msgstr "schließen"
+
+#: template-parts/navigation-primary.php:24
+#: template-parts/navigation-primary.php:58
+msgid "search"
+msgstr "suchen"
+
+#: template-parts/searchform_nav_mobile.php:10
+msgid "Search"
+msgstr "Suche"
+
+#~ msgid "Google API Key"
+#~ msgstr "Google API Key"
+
+#~ msgid ""
+#~ "You need an API-Key to use Google Fonts. Create one <a href=\"https://"
+#~ "console.developers.google.com/\" target=\"_blank\">here</a>, save it & "
+#~ "reload the page."
+#~ msgstr ""
+#~ "Du benötigst einen API-Schlüssel um Google-Fonts nutzen zu können. "
+#~ "Erstelle einen <a href=\"https://console.developers.google.com/\" target="
+#~ "\"_blank\">here</a>, speichere ihn und lade die Seite neu."
+
+#~ msgid ""
+#~ "Quicksand requires at least WordPress version %1s. You are running version "
+#~ "%2s. Please upgrade and try again."
+#~ msgstr ""
+#~ "Quicksand benötigt mindestens WordPress version %1s. Sie benutzen Version "
+#~ "%2s. Bitte upgraden und nochmals versuchen."
+
+#~ msgid "Is only shown on front-page"
+#~ msgstr "Wird nur auf der Front-Seite angezeigt"
+
+#~ msgid "... and set the border-width higher than 1"
+#~ msgstr "… uns setze die Rahmenbreite höher als 1"
+
+#~ msgid "Slider settings"
+#~ msgstr "Slider Einstellungen"
+
+#~ msgid "on"
+#~ msgstr "am"
+
+#~ msgid ""
+#~ "Quicksand requires at least WordPress version %s. You are running version "
+#~ "%s. Please upgrade and try again."
+#~ msgstr ""
+#~ "Quicksand benötigt mindestens die WordPress Version %s. Sie haben die "
+#~ "Version %s. Bitte updaten und nochmals versuchen. "
+
+#~ msgid "Continue reading"
+#~ msgstr "Weiter lesen\t"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+#~ msgstr ""
+#~ "<span class=\"screen-reader-text\">&#8222;%s&#8220; </span>weiterlesen"
+
+#~ msgid "Add widgets here to appear in your sidebar."
+#~ msgstr "Widgets hier hinzufügen, um sie in die Seitenleiste einzubauen."
+
+#~ msgid "Sidebar-Footer"
+#~ msgstr "Seitenleiste-Footer"
+
+#~ msgid "For a nice effect choose the same color like Content-Background ("
+#~ msgstr ""
+#~ "Um einen netten Effekt zu erzielen, wähle dieselbe Farbe wie die Inhalts-"
+#~ "Hintergrundfarbe ("
+
+#~ msgid "It looks like nothing was found at this location. Maybe try a search?"
+#~ msgstr ""
+#~ "Wie es aussieht, wurde an dieser Stelle nichts gefunden. Möchten Sie eine "
+#~ "Suche starten?"
+
+#~ msgid "Previous Image"
+#~ msgstr "Vorheriges Bild"
+
+#~ msgid "Next Image"
+#~ msgstr "Nächstes Bild"
+
+#~ msgid "Panel to update theme options"
+#~ msgstr "Panel um Theme-Einstellungen zu bearbeiten"
+
+#~ msgid "Default used if no color is selected"
+#~ msgstr "Default-Farbe, wenn keine andere selektiert ist"
+
+#~ msgid "For a nice effect choose the same color like Content-Background"
+#~ msgstr ""
+#~ "Für einen netten Effekt, wähle dieselbe Farbe wie der Hintergrund von "
+#~ "Inhalt."
+
+#~ msgid "Default"
+#~ msgstr "Standard"
+
+#~ msgid "Dune"
+#~ msgstr "Dune"
+
+#~ msgid "Search Results for: %s"
+#~ msgstr "Suchergebnisse für: %s"
+
+#~ msgid "..."
+#~ msgstr "…"
+
+#~ msgid "Author:"
+#~ msgstr "Autor:"
+
+#~ msgid "View all posts by %s"
+#~ msgstr "Zeige alle Beiträge von %s"
+
+#~ msgid "Appears at the bottom of the content on posts and pages."
+#~ msgstr "Erscheint unterhalb des Inhalts von Beiträgen und Seiten."
+
+#~ msgid "Quicksand"
+#~ msgstr "Quicksand"
+
+#~ msgid "Base Color Scheme"
+#~ msgstr "Basis-Farbvorlage"
+
+#~ msgid "Navigation Fullwidth:"
+#~ msgstr "Navigation volle Breite"
+
+#~ msgid "Header Fullwidth:"
+#~ msgstr "Header volle Breite"
+
+#~ msgid ""
+#~ "Twenty Sixteen is a modernized take on an ever-popular WordPress layout — "
+#~ "the horizontal masthead with an optional right sidebar that works "
+#~ "perfectly for blogs and websites. It has custom color options with "
+#~ "beautiful default color schemes, a harmonious fluid grid using a mobile-"
+#~ "first approach, and impeccable polish in every detail. Twenty Sixteen will "
+#~ "make your WordPress look beautiful everywhere."
+#~ msgstr ""
+#~ "Quicksand ist die moderne Interpretation eines allzeit beliebten WordPress-"
+#~ "Layouts – einer horizontalen Kopfzeile mit einer optionalen rechten "
+#~ "Sidebar die gleichermaßen bei Blogs wie klassischen Websites perfekt "
+#~ "funktioniert. Das Theme bietet Einstellungsmöglichkeiten für individuelle​ "
+#~ "Farben mit schönen Standard-Farbvorlagen​, ein harmonisches, flexibles​ "
+#~ "Raster mit einem Mobile-First-Ansatz und einem makellosen Schliff in jedem "
+#~ "Detail. Quicksand sorgt für einen tollen Look ​bei​ all Ihren WordPress-"
+#~ "Websites."
+
+#~ msgid "Twenty Sixteen"
+#~ msgstr "Quicksand"
+
+#~ msgid "Red"
+#~ msgstr "Rot"
+
+#~ msgctxt "comments title"
+#~ msgid "One thought on &ldquo;%s&rdquo;"
+#~ msgstr "Ein Gedanke zu &#8222;%s&#8220;"
+
+#~ msgctxt "submit button"
+#~ msgid "Search"
+#~ msgstr "Suche"
+
+#~ msgctxt "placeholder"
+#~ msgid "Search &hellip;"
+#~ msgstr "Suche&#160;&hellip;"
+
+#~ msgctxt "label"
+#~ msgid "Search for:"
+#~ msgstr "Suche nach:"
+
+#~ msgid "Footer Primary Menu"
+#~ msgstr "Footer-Hauptmenü"
+
+#~ msgid "Footer Social Links Menu"
+#~ msgstr "Footer-Social-Links-Menü"
+
+#~ msgid "Previous"
+#~ msgstr "Zurück"
+
+#~ msgid "Next"
+#~ msgstr "Weiter"
+
+#~ msgctxt "Used before tag names."
+#~ msgid "Tags"
+#~ msgstr "Tags"
+
+#~ msgctxt "Used before category names."
+#~ msgid "Categories"
+#~ msgstr "Kategorien"
+
+#~ msgctxt "Used between list items, there is a space after the comma."
+#~ msgid ", "
+#~ msgstr ", "
+
+#~ msgctxt "Used before publish date."
+#~ msgid "Posted on"
+#~ msgstr "Veröffentlicht am"
+
+#~ msgctxt "Used before post format."
+#~ msgid "Format"
+#~ msgstr "Format"
+
+#~ msgctxt "Used before post author name."
+#~ msgid "Author"
+#~ msgstr "Autor"
+
+#~ msgid "Yellow"
+#~ msgstr "Gelb"
+
+#~ msgid "Gray"
+#~ msgstr "Grau"
+
+#~ msgid "Dark"
+#~ msgstr "Dunkel"
+
+#~ msgid "Main Text Color"
+#~ msgstr "Textfarbe"
+
+#~ msgid "Page Background Color"
+#~ msgstr "Hintergrundfarbe"
+
+#~ msgid "Link Color"
+#~ msgstr "Linkfarbe"
+
+#~ msgid ""
+#~ "Twenty Sixteen requires at least WordPress version 4.4. You are running "
+#~ "version %s. Please upgrade and try again."
+#~ msgstr ""
+#~ "Quicksand benötigt mindestens WordPress-Version 4.4. Sie verwenden Version "
+#~ "%s. Bitte aktualisieren Sie WordPress und versuchen Sie es erneut."
+
+#~ msgctxt "Parent post link"
+#~ msgid ""
+#~ "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+#~ "%title</span>"
+#~ msgstr ""
+#~ "<span class=\"meta-nav\">Veröffentlicht in</span><span class=\"post-title"
+#~ "\">%title</span>"
+
+#~ msgctxt "Used before full size attachment link."
+#~ msgid "Full size"
+#~ msgstr "Volle Größe"
+
+#~ msgid "Menu"
+#~ msgstr "Menü"
+
+#~ msgid "collapse child menu"
+#~ msgstr "Untermenü verbergen"
+
+#~ msgid "expand child menu"
+#~ msgstr "Untermenü anzeigen"
+
+#~ msgctxt "Montserrat font: on or off"
+#~ msgid "on"
+#~ msgstr "on"
+
+#~ msgctxt "Merriweather font: on or off"
+#~ msgid "on"
+#~ msgstr "on"
+
+#~ msgid "Content Bottom 2"
+#~ msgstr "Unterhalb des Inhalts 2"
+
+#~ msgid "Content Bottom 1"
+#~ msgstr "Unterhalb des Inhalts 1"
+
+#~ msgctxt "Inconsolata font: on or off"
+#~ msgid "on"
+#~ msgstr "on"
+
+#~ msgid "Social Links Menu"
+#~ msgstr "Social-Links-Menü"
+
+#~ msgid "Proudly powered by %s"
+#~ msgstr "Stolz präsentiert von %s"
+
+#~ msgctxt "comments title"
+#~ msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+#~ msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+#~ msgstr[0] "%1$s Gedanke zu &#8222;%2$s&#8220;"
+#~ msgstr[1] "%1$s Gedanken zu &#8222;%2$s&#8220;"
+
+#~ msgid "Next page"
+#~ msgstr "Nächste Seite"
+
+#~ msgid "Previous page"
+#~ msgstr "Vorherige Seite"
+
+#~ msgid "the WordPress team"
+#~ msgstr "dem WordPress Team"
+
+#~ msgid "https://wordpress.org/themes/twentysixteen/"
+#~ msgstr "https://wordpress.org/themes/twentysixteen/"
+
+#~ msgid "https://wordpress.org/"
+#~ msgstr "https://wordpress.org/"

@@ -1,0 +1,19 @@
+
+ #customize-theme-controls #accordion-panel-placid_panel h3.accordion-section-title,
+  #customize-theme-controls #accordion-section-colors h3.accordion-section-title
+{
+   background-color:#286090;
+   color: #FFF;
+}
+
+
+#customize-theme-controls #accordion-panel-placid_panel h3.accordion-section-title:after,
+#customize-theme-controls #accordion-section-colors h3.accordion-section-title:after
+{
+   color: #FFF;
+}
+
+.description p
+{
+  color: #000;
+}

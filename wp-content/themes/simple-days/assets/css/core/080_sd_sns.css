@@ -1,0 +1,282 @@
+.sns_user_c:not(.icon_bt) {
+  background: var(--user_bc, #000); }
+
+.sns_user_hc:not(.icon_bt):hover,
+.sns_user_hc.sns_tooltip:hover:after {
+  background: var(--user_hbc, #000); }
+
+.sns_amazon, .sns_amazon:hover, .sns_amazon:hover:before, .sns_amazon:hover:after {
+  background: #f90;
+  color: #f90; }
+
+.sns_buffer, .sns_buffer:hover, .sns_buffer:hover:before, .sns_buffer:hover:after {
+  background: #323b43;
+  color: #323b43; }
+
+.sns_digg, .sns_digg:hover, .sns_digg:hover:before, .sns_digg:hover:after,
+.sns_mail, .sns_mail:hover, .sns_mail:hover:before, .sns_mail:hover:after,
+.sns_codepen, .sns_codepen:hover, .sns_codepen:hover:before, .sns_codepen:hover:after {
+  background: #000;
+  color: #000; }
+
+.sns_evernote, .sns_evernote:hover, .sns_evernote:hover:before, .sns_evernote:hover:after {
+  background: #2dbe60;
+  color: #2dbe60; }
+
+.sns_facebook, .sns_facebook:hover, .sns_facebook:hover:before, .sns_facebook:hover:after {
+  background: #3b5998;
+  color: #3b5998; }
+
+.sns_feedly, .sns_feedly:hover, .sns_feedly:hover:before, .sns_feedly:hover:after {
+  background: #2bb24c;
+  color: #2bb24c; }
+
+.sns_github, .sns_github:hover, .sns_github:hover:before, .sns_github:hover:after {
+  background: #181717;
+  color: #181717; }
+
+.sns_googleplus, .sns_googleplus:hover, .sns_googleplus:hover:before, .sns_googleplus:hover:after {
+  background: #db4437;
+  color: #db4437; }
+
+.sns_hatenabookmark, .sns_hatenabookmark:hover, .sns_hatenabookmark:hover:before, .sns_hatenabookmark:hover:after {
+  background: #00A4DE;
+  color: #00A4DE; }
+
+.sns_instagram, .sns_instagram:hover, .sns_instagram:hover:before, .sns_instagram:hover:after {
+  background: #c32aa3;
+  color: #c32aa3; }
+
+.sns_line, .sns_line:hover, .sns_line:hover:before, .sns_line:hover:after {
+  background: #19bc03;
+  color: #19bc03; }
+
+.sns_linkedin, .sns_linkedin:hover, .sns_linkedin:hover:before, .sns_linkedin:hover:after {
+  background: #0077b5;
+  color: #0077b5; }
+
+.sns_meetup, .sns_meetup:hover, .sns_meetup:hover:before, .sns_meetup:hover:after {
+  background: #ed1c40;
+  color: #ed1c40; }
+
+.sns_messenger, .sns_messenger:hover, .sns_messenger:hover:before, .sns_messenger:hover:after {
+  background: #0084ff;
+  color: #0084ff; }
+
+.sns_pinterest, .sns_pinterest:hover, .sns_pinterest:hover:before, .sns_pinterest:hover:after {
+  background: #bd081c;
+  color: #bd081c; }
+
+.sns_pocket, .sns_pocket:hover, .sns_pocket:hover:before, .sns_pocket:hover:after {
+  background: #ee4056;
+  color: #ee4056; }
+
+.sns_reddit, .sns_reddit:hover, .sns_reddit:hover:before, .sns_reddit:hover:after {
+  background: #ff4500;
+  color: #ff4500; }
+
+.sns_rss, .sns_rss:hover, .sns_rss:hover:before, .sns_rss:hover:after {
+  background: #ffa500;
+  color: #ffa500; }
+
+.sns_soundcloud, .sns_soundcloud:hover, .sns_soundcloud:hover:before, .sns_soundcloud:hover:after {
+  background: #f50;
+  color: #f50; }
+
+.sns_tumblr, .sns_tumblr:hover, .sns_tumblr:hover:before, .sns_tumblr:hover:after {
+  background: #35465d;
+  color: #35465d; }
+
+.sns_twitter, .sns_twitter:hover, .sns_twitter:hover:before, .sns_twitter:hover:after {
+  background: #1da1f2;
+  color: #1da1f2; }
+
+.sns_whatsapp, .sns_whatsapp:hover, .sns_whatsapp:hover:before, .sns_whatsapp:hover:after {
+  background: #25d366;
+  color: #25d366; }
+
+.sns_vimeo, .sns_vimeo:hover, .sns_vimeo:hover:before, .sns_vimeo:hover:after {
+  background: #1ab7ea;
+  color: #1ab7ea; }
+
+.sns_youtube, .sns_youtube:hover, .sns_youtube:hover:before, .sns_youtube:hover:after {
+  background: #ff0000;
+  color: #ff0000; }
+
+.sns_flickr, .sns_flickr:hover, .sns_flickr:hover:before, .sns_flickr:hover:after {
+  background: #fff;
+  color: #fff; }
+
+.sns_flickr {
+  position: relative;
+  text-align: center; }
+  .sns_flickr.icon_rec i {
+    margin-left: 10px; }
+
+.icon-flickr_l,
+.icon-flickr_r {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  -webkit-transform: translate(0, -50%);
+  transform: translate(0, -50%); }
+
+a:not(.sns_user_c).sns_flickr .icon-flickr_l,
+a:not(.sns_user_hc).sns_flickr:hover .icon-flickr_l {
+  color: #f40083; }
+a:not(.sns_user_c).sns_flickr .icon-flickr_r, a:not(.sns_user_c).sns_flickr:not(.sns_tooltip):after,
+a:not(.sns_user_hc).sns_flickr:hover .icon-flickr_r,
+a:not(.sns_user_hc).sns_flickr:hover:not(.sns_tooltip):after {
+  color: #006add; }
+
+.sns_flickr.icon_rec:not(.sns_user_hc):hover:after {
+  color: #006add; }
+
+.sns_flickr.sns_tooltip:hover:not(.sns_user_hc):before {
+  border-top-color: #000; }
+
+.sns_flickr.sns_tooltip:hover:not(.sns_user_hc):after {
+  background: #000; }
+
+.sns_user_c,
+.sns_user_c.sns_flickr:not(.icon_nh) i {
+  color: var(--user_c, #000); }
+
+.sns_user_c.sns_flickr.icon_nh i,
+.sns_flickr.icon_rec.sns_user_hc:hover:after {
+  color: #fff; }
+
+.sns_user_hc:hover,
+.sns_user_hc.sns_flickr:not(.icon_nh):hover i,
+.sns_user_hc.sns_flickr.icon_hollow_rectangle:hover:after,
+.sns_user_hc.sns_tooltip:hover:before,
+.sns_user_hc.icon_hollow_rectangle:hover:after {
+  color: var(--user_hc, #000); }
+
+.sns_user_hc.sns_flickr.icon_nh:hover i {
+  color: #fff; }
+
+.icon_base {
+  width: 32px;
+  height: 32px;
+  font-size: 21px;
+  text-decoration: none; }
+
+.icon_bt, .icon_bt:hover {
+  background: transparent; }
+
+.icon_square, .icon_square:hover {
+  color: #fff;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  -webkit-box-shadow: inset 0 -4px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: inset 0 -4px 0 rgba(0, 0, 0, 0.15); }
+
+.icon_circle, .icon_circle:hover {
+  color: #fff;
+  -webkit-border-radius: 50px;
+  border-radius: 50px; }
+
+.icon_hollow_square, .icon_hollow_square:hover {
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 2px; }
+
+.icon_hollow_circle, .icon_hollow_circle:hover {
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  border-style: solid;
+  border-width: 2px; }
+
+.icon_small {
+  width: 28px;
+  height: 28px;
+  font-size: 18px; }
+
+.icon_large {
+  width: 40px;
+  height: 40px;
+  font-size: 25px; }
+
+.icon_xlarge {
+  width: 50px;
+  height: 50px;
+  font-size: 30px; }
+
+.icon_rec {
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  border-style: solid;
+  border-width: 2px;
+  width: 120px;
+  text-align: left;
+  padding-left: 10px; }
+  .icon_rec:after {
+    font-size: 12px;
+    content: attr(title);
+    padding-left: 6px; }
+  .icon_rec:hover:after {
+    background: transparent; }
+
+.icon_rectangle:after, .icon_rectangle i, .icon_rectangle:hover:after {
+  color: #fff; }
+
+ul.sns_link_icon {
+  margin-left: 0; }
+  ul.sns_link_icon li {
+    list-style: none;
+    margin: 0;
+    padding: 4px 8px 4px 0;
+    border: none; }
+    ul.sns_link_icon li:last-child {
+      padding-right: 0; }
+
+.sns_tooltip {
+  position: relative; }
+
+.sns_tooltip:hover:before {
+  content: "";
+  top: -12px;
+  left: 5px;
+  border: 5px solid;
+  background: transparent;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+  display: block;
+  position: absolute;
+  z-index: 1; }
+
+.sns_tooltip:hover:after {
+  left: 0;
+  top: -40px;
+  width: auto;
+  line-height: 25px;
+  font-size: .875rem;
+  color: #fff;
+  content: attr(title);
+  display: block;
+  padding: 2px 10px;
+  position: absolute;
+  white-space: nowrap;
+  -webkit-border-radius: 3px;
+  border-radius: 3px; }
+
+.sns_link_icon li:last-child .sns_tooltip:hover:before {
+  left: auto;
+  right: 5px; }
+
+.sns_link_icon li:last-child .sns_tooltip:hover:after {
+  right: 0;
+  left: auto; }
+
+.sns_opacity a:hover {
+  opacity: 0.7; }
+
+.sns_flickr > i.icon-no {
+  color: transparent;
+  margin-left: 0; }
+
+

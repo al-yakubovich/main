@@ -1,0 +1,9 @@
+<wpml-config>
+  <admin-texts>
+    <key name="theme_mods_loose">
+      <key name="single_post_navigation_next_label"/>
+      <key name="single_post_navigation_previous_label"/>
+      <key name="footer_text"/>
+    </key>
+  </admin-texts>
+</wpml-config>

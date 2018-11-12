@@ -1,0 +1,207 @@
+/**
+
+Theme Name: Polar Lite
+Description: Polar Lite is a minimal and responsive Sueva child theme, based on Bootstrap framework, with a different layout for elements and sidebar. Now is ecommerce ready and is optimized to work with WooCommerce and Contact Form 7 plugins. 
+Author: ThemeinProgress.
+Author URI: http://themeinprogress.com
+Version: 3.0.3
+Template: suevafree
+Tags: blog, custom-background, custom-colors, custom-header, custom-logo, custom-menu, e-commerce, featured-images, flexible-header, footer-widgets, post-formats, right-sidebar, sticky-post, theme-options, threaded-comments, translation-ready, one-column, two-columns, three-columns, grid-layout, food-and-drink, news, photography
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
+*/
+
+#header-wrapper.header-1 #logo,
+#header-wrapper.header-1 #logo a span,
+#header-wrapper.header-1 .suevafree-menu ,
+#header-wrapper.header-2 #logo,
+#header-wrapper.header-2 #logo a span,
+#header-wrapper.header-2 .suevafree-menu ,
+#header-wrapper.header-3 #logo,
+#header-wrapper.header-3 #logo a span,
+#header-wrapper.header-3 .suevafree-menu {
+	text-align:left !important;
+}
+
+#header-wrapper.header-1 #logo a span.cart-count,
+#header-wrapper.header-2 #logo a span.cart-count,
+#header-wrapper.header-3 #logo a span.cart-count {
+	text-align:center !important;
+}
+
+#header-wrapper.header-1 .suevafree-menu ul li a ,
+#header-wrapper.header-2 .suevafree-menu ul li a {
+	margin:15px 30px 15px 0 !important;
+}
+
+#header-wrapper.header-3 .suevafree-menu ul li a {
+	margin:15px 15px 15px 0 !important;
+}
+
+#header-wrapper.header-1 .suevafree-menu ul ul ,
+#header-wrapper.header-2 .suevafree-menu ul ul ,
+#header-wrapper.header-3 .suevafree-menu ul ul {
+	left:0 !important;
+}
+
+#header-wrapper.header-1 .suevafree-menu ul ul ul ,
+#header-wrapper.header-2 .suevafree-menu ul ul ul ,
+#header-wrapper.header-3 .suevafree-menu ul ul ul {
+	top:0 !important;
+	left:190px !important;
+}
+
+#header-wrapper.header-1 .suevafree-menu ul ul li a ,
+#header-wrapper.header-2 .suevafree-menu ul ul li a ,
+#header-wrapper.header-3 .suevafree-menu ul ul li a {
+	margin:0 !important;
+}
+
+#logo .header-cart a span {
+	text-align:center !important;
+}
+
+.wp-pagenavi, 
+.suevafree-pagination {
+    text-align: left !important;
+}
+
+/* ===============================================
+   SIDEBAR
+   =============================================== */
+
+h3.comments ,
+h3#reply-title, 
+#sidebar h4.title,
+.post-article .title,
+.full-width .post-article .title ,
+.left-sidebar .post-article .title ,
+.right-sidebar .post-article .title {
+    text-align: left !important;
+}
+
+#sidebar-wrapper #scroll-sidebar .post-article .title {
+    text-align: center !important;
+}
+
+.line,
+.entry-date,
+.entry-category,
+.logged-in-as, 
+.comment-notes, 
+.comment-form-comment, 
+.comment-form-author, 
+.comment-form-email, 
+.comment-form-url, 
+.form-submit {
+	text-align:left !important;
+}
+
+.entry-info {
+	margin: -12px 0 0 0 !important;
+	text-align:left !important;
+	padding:0 10px 0 25px !important;
+}
+
+.post-container.col-md-12 .entry-info {
+	padding-left:0 !important;
+}
+
+.entry-info span span {
+	padding:0 !important;
+}
+
+.pin-container:after {
+	left: 45px !important;
+	margin-left: 0 !important;
+}
+
+.entry-info .entry-date i {
+	margin-left:0 !important;
+}
+
+.read-more {
+	text-align:left !important;
+}
+
+.button,
+.wpcf7-form input[type=submit],
+.contact-form input[type=submit] {
+	margin-left:0 !important;
+	margin-right:0 !important;
+}
+
+.col-md-4 .entry-info .entry-date, 
+.col-md-4 .entry-info .entry-comments,
+.col-md-4 .entry-info .entry-audio, 
+.col-md-4 .entry-info .entry-aside,
+.col-md-4 .entry-info .entry-quote,
+.col-md-4 .entry-info .entry-link,
+.col-md-4 .entry-info .entry-video,
+.col-md-4 .entry-info .entry-standard,
+.col-md-4 .entry-info .entry-gallery{
+	text-align: left !important;
+}
+
+.masonry .col-md-4 .entry-info .entry-date, 
+.masonry .col-md-4 .entry-info .entry-comments,
+.masonry .col-md-4 .entry-info .entry-audio, 
+.masonry .col-md-4 .entry-info .entry-aside,
+.masonry .col-md-4 .entry-info .entry-quote,
+.masonry .col-md-4 .entry-info .entry-link,
+.masonry .col-md-4 .entry-info .entry-video,
+.masonry .col-md-4 .entry-info .entry-standard,
+.masonry .col-md-4 .entry-info .entry-gallery{
+	margin-left:25px !important
+}
+
+.col-md-4 .entry-info i  {
+	left:inherit !important;
+	right: 0 !important;
+}
+
+.masonry .col-md-4 .entry-info i  {
+	left:0 !important;
+}
+
+@media screen and (min-width : 0px) and (max-width : 992px)  {	
+
+	.pin-container:after {
+		left: 20px !important;
+	}
+
+	.entry-info {
+		padding-left:0 !important;
+	}
+
+	.entry-info span,
+	.entry-info .entry-date, 
+	.entry-info .entry-comments,
+	.entry-info .entry-audio, 
+	.entry-info .entry-video,
+	.entry-info .entry-standard,
+	.entry-info .entry-article,
+	.entry-info .entry-gallery {
+		text-align:left !important;
+		padding-left:25px !important
+	}
+	
+	.entry-info i  {
+		left: 0 !important;
+	}
+
+	#sidebar .sidebar-box {
+		padding:0 !important;
+	}
+	
+	.row.copyright .col-md-5, 
+	.row.copyright .col-md-5{
+		text-align: left !important;
+	}
+
+	#footer .copyright {
+		padding: 20px !important;
+	}
+	
+}

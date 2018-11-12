@@ -1,0 +1,403 @@
+/*
+Theme Name:  Minamaze Boxed
+Theme URI:   https://www.thinkupthemes.com/free/minamaze/
+Author:      Think Up Themes
+Author URI:  https://www.thinkupthemes.com
+Description: Minamaze Boxed is the free version of the multi-purpose professional theme (Minamaze Pro) ideal for a business or blog website. The theme has a responsive layout, HD retina ready and comes with a powerful theme options panel with can be used to make awesome changes without touching any code. The theme also comes with a full width easy to use slider. Easily add a logo to your site and create a beautiful homepage using the built-in homepage layout. Compatible with WooCommerce, WPML, Polylang, Flat Parallax Slider, Photo Gallery and Travel Map, Elementor, Page Builder, Beaver Builder, Visual Composer, SiteOrigin, Divi, etc. It's a perfect theme for small businesses (restaurants, wedding planners, sport/medical shops), startups, corporate businesses, online agencies and firms, portfolios, ecommerce (WooCommerce), and freelancers.
+Template:    minamaze
+Version:     1.0.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Tags:        one-column, two-columns, three-columns, right-sidebar, left-sidebar, custom-header, custom-menu, full-width-template, theme-options, threaded-comments, editor-style, featured-images, featured-image-header, post-formats, sticky-post, translation-ready, flexible-header, custom-background, grid-layout, footer-widgets, blog, e-commerce, portfolio, rtl-language-support
+Text Domain: minamaze-boxed
+*/
+
+/* Pre-Header Style */
+#pre-header {
+	background-color: #fff;
+	border-bottom: 1px solid #eee;
+}
+#pre-header .header-links > ul > li > a {
+	color: #aaa;
+}
+#pre-header .header-links .menu-hover > a,
+#pre-header .header-links > ul > li > a:hover {
+	color: #f33f3f;
+}
+#pre-header .header-links li a,
+#pre-header-social li.message {
+	padding-top: 9px;
+	padding-bottom: 9px;
+}
+#pre-header-social li {
+	border-right: 1px solid #eee;
+}
+#pre-header-social li:first-child {
+	border-left: 1px solid #eee;
+}
+#pre-header-social li a {
+	color: #aaa;
+	width: 30px;
+	height: 30px;
+	background-color: transparent;
+}
+#pre-header-social li a:hover {
+	background-color: transparent!important;
+	color: #f33f3f;
+}
+#pre-header-search .search {
+	color: #aaa;
+	background: #fff;
+	border: 1px solid #eee;
+}
+
+/* Search input placeholder text color */
+#pre-header-search ::-webkit-input-placeholder { color: #aaa; }
+#pre-header-search :-moz-placeholder { color: #aaa; }
+#pre-header-search ::-moz-placeholder { color: #aaa; }
+#pre-header-search :-ms-input-placeholder { color: #aaa; }
+
+/* Header Style */
+#header .menu > li.menu-hover > a,
+#header .menu > li.current_page_item > a,
+#header .menu > li.current-menu-ancestor > a,
+#header .menu > li > a:hover {
+	color: #fff;
+	background-color: #f33f3f;
+}
+#header .header-links .sub-menu {
+	background-color: #fff;
+	border: 1px solid #eee;
+}
+#header .header-links .sub-menu a {
+	color: #7a7a7a;
+	border-bottom: 1px solid #eee;
+}
+#header .header-links .sub-menu a:hover {
+	color: #f33f3f;
+}
+
+/* Intro Page Style */
+#introaction-core,
+#outroaction-core {
+	background-color: #f4f4f4;
+	border-bottom: none;
+	border-top: 3px solid #f33f3f;
+	padding: 20px 15px;
+}
+.action-button h4, .attention_button h4 {
+	margin-top: 8px;
+}
+
+/* Featured Style */
+#section-home .section {
+	background-color: #f4f4f4;
+	padding: 0px;
+	border: none;
+}
+#section-home .entry-header {
+	border-bottom: 3px solid #f33f3f;
+}
+#section-home .entry-content {
+	padding: 20px 30px;
+	text-align: left;
+}
+
+/* Footer Style */
+#footer {
+	background-color: #f4f4f4;
+	border-bottom: 1px solid #ddd;
+	border-top: none;
+}
+#footer-core h3 {
+	color: #232323;
+	border-bottom: 1px solid #ddd;
+	box-shadow: none;
+}
+#footer .widget_recent_entries li,
+#footer .widget_recent_comments li {
+	margin-bottom: 10px;
+}
+#footer .widget_recent_comments li span {
+	display: inline!important;
+}
+#footer .widget_categories li a:before,
+#footer .widget_archive li a:before,
+#footer .widget_meta li a:before {
+	content: '\f105';
+	font-family: 'FontAwesome';
+	margin-right: 7px;
+	font-size: 13px;
+}
+#footer .widget li a {
+	color: #7a7a7a;
+	font-size: 14px;
+}
+#footer .widget li a:hover {
+	color: #f33f3f;
+}
+#footer .widget li span {
+	display: block;
+	color: #aaa;
+	font-weight: 500;
+}
+#footer .widget_search .search {
+	background-color: #fff;
+	border: none;
+	outline: none;
+}
+
+/* Sub-Footer Style */
+#sub-footer {
+	background-color: #f4f4f4;
+	border-top: none;
+}
+#sub-footer-core a {
+	color: #7a7a7a;
+}
+#footer-menu li:after {
+	display: none;
+}
+
+/* Page Heading Style */
+#intro.option1 {
+	background-color: #f4f4f4;
+	border-bottom: 3px solid #f33f3f;
+}
+#intro.option1 #intro-core {
+	padding: 30px 20px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	box-sizing: border-box;
+}
+#intro.option1 #intro-core:before {
+	display: none;
+}
+#intro.option1 #intro-core:after {
+	display: none;
+}
+
+/* Blog Posts Style */
+.blog-article {
+	padding: 0px;
+	border: none;
+	background-color: #f4f4f4;
+}
+.blog-article .two_fifth {
+	margin-right: 0;
+}
+.blog-article .three_fifth {
+	width: 52%;
+	margin-bottom: 0px;
+}
+.blog-article .entry-content {
+	padding: 30px;
+}
+.blog-article .blog-title {
+	font-size: 18px;
+}
+.entry-meta span {
+	border-right: 1px solid #ddd;
+	padding-right: 10px;
+	margin-right: 10px;
+}
+.entry-meta span:last-child {
+	border-right: none;
+	margin-right: 0px;
+}
+.entry-meta a {
+	color: #aaa;
+	font-weight: 700;
+}
+.entry-meta i {
+	padding-right: 7px;
+	color: #f33f3f;
+	font-size: 13px;
+}
+
+/* Blog Paginaton Style */
+.pag {
+	text-align: left;
+}
+.pag li a,
+.pag li span {
+	padding: 7px 14px;
+	border: none;
+	background-color: #333;
+	color: #fff;
+	font-size: 13px;
+}
+.pag li.current span {
+	border: none;
+}
+.pag li {
+	margin-right: 5px;
+}
+.pag li:last-child {
+	margin-right: 0px;
+}
+
+/* Sidebar Style */
+#sidebar .widget_search {
+	border-top: none!important;
+	background-color: transparent!important;
+	margin-bottom: 15px;
+}
+.widget_search .search {
+	outline: none;
+	padding: 6px 10px;
+}
+#sidebar .widget {
+	border-bottom: none;
+	background-color: #f4f4f4;
+	border-top: 3px solid #f33f3f;
+	padding-bottom: 20px;
+}
+#sidebar h3.widget-title {
+	padding: 15px 20px;
+	font-size: 15px;
+	border-bottom: 1px solid #ddd;
+}
+#sidebar h3.widget-title:before {
+	display: none;
+}
+#sidebar h3.widget-title:after {
+	display: none;
+}
+#sidebar .widget .tagcloud {
+	padding-left: 20px;
+}
+.widget li a {
+	font-size: 14px;
+	padding: 0px;
+}
+.widget li {
+	border-bottom: none;
+}
+.widget ul {
+	border: none;
+	padding: 0px 20px;
+}
+#sidebar .widget_categories li a:before,
+#sidebar .widget_archive li a:before,
+#sidebar .widget_meta li a:before {
+	content: '\f105';
+	font-family: 'FontAwesome';
+	margin-right: 7px;
+	font-size: 13px;
+}
+#sidebar .widget_tag_cloud a {
+	border: none;
+	background-color: #fff;
+}
+#sidebar .widget_tag_cloud a:hover {
+	color: #f33f3f;
+}
+#sidebar .widget_recent_entries li,
+#sidebar .widget_recent_comments li {
+	margin-bottom: 10px;
+}
+#sidebar .widget_recent_entries li:last-child,
+#sidebar .widget_recent_comments li:last-child {
+	margin-bottom: 0px;
+}
+#sidebar .widget li span {
+	display: block;
+	color: #aaa;
+	font-weight: 600;
+}
+#sidebar .widget_recent_comments li span {
+	display: inline!important;
+	font-weight: 400;
+}
+#sidebar .widget .tagcloud {
+	padding: 0px 20px;
+}
+
+/* Single Post Style */
+.single article {
+	padding: 30px;
+	background-color: #f4f4f4;
+}
+.comment {
+	background-color: transparent!important;
+}
+.commentlist article {
+	display: inline-block;
+}
+#comments {
+	margin-top: 40px;
+	border-top: 3px solid #f33f3f;
+}
+.commentlist {
+	background-color: #f4f4f4;
+	margin: 0 0 40px 0;
+}
+#comments-title,
+#reply-title {
+	padding: 15px 20px;
+	font-size: 15px;
+	background-color: #f4f4f4;
+	margin-bottom: 0px;
+	border-bottom: 1px solid #ddd;
+}
+.commentlist article footer {
+	border: none;
+}
+.commentlist article footer:before {
+	display: none;
+}
+.commentlist article footer:after {
+	display: none;
+}
+.comment {
+	border-bottom: 1px solid #ddd;
+}
+.commentlist article {
+	border-bottom: none;
+}
+.commentlist li:last-child {
+	margin-bottom: 0px;
+	border-bottom: none;
+}
+.commentlist li:last-child .comment {
+	margin-bottom: 0px;
+	border-bottom: none;
+}
+#respond {
+	background-color: #f4f4f4;
+	margin-bottom: 40px;
+}
+#respond form {
+	padding: 30px;
+}
+#respond .form-submit {
+	margin-bottom: 0px;
+}
+
+/* Single Post Navigation */
+#nav-above,
+#nav-below {
+	margin-top: 30px;
+}
+.nav-next a,
+.nav-previous a {
+	background-color: #333;
+}
+.nav-next a:hover,
+.nav-previous a:hover {
+	background-color: #f33f3f;
+}
+
+/* Widgets - Tag Cloud */
+#footer .widget_tag_cloud a {
+	color: inherit;
+	border: 1px solid #ddd;
+}
+#footer .widget_tag_cloud a:hover {
+	color: #fff;
+	background: #F33F3F;
+	border: 1px solid #F33F3F;
+}

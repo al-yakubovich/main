@@ -1,0 +1,120 @@
+.shuban-help-bar {
+  background: #1e88e5 !important;
+  margin-right: 10px !important;
+}
+
+.shuban-help-bar a {
+  padding-right: 10px !important;
+  padding-left: 10px !important;
+}
+
+.shuban-help-bar a:before {
+  content: "\f468";
+  top: 2px;
+}
+
+.shuban-about-next-icon {
+  color: #82878c;
+  padding: 0 10px 0 0;
+  vertical-align: middle;
+}
+
+.shuban-wrap h2, .shuban-wrap h3 {
+  letter-spacing: .25px;
+}
+
+.shuban-text-center {
+  text-align: center;
+}
+
+.shuban-d-iblock {
+  display: inline-block;
+}
+
+.img-responsive {
+    max-width: 100%;
+}
+
+
+/*--------------------------------------------------------------
+# Table On About us page css
+--------------------------------------------------------------*/
+#customize-control-shuban_footer_text_right {
+  pointer-events: none;
+}
+
+/* Premium Code Stripped by Freemius */
+
+
+.table-panel table {
+  width: 60%;
+  margin: auto;
+}
+
+.table-panel td,
+.table-panel th {
+  text-align: center;
+  border: solid 1px #ccc;
+  padding: 6px;
+  word-wrap: break-word;
+      font-size: 14px;
+    font-weight: 400;
+}
+
+.table-panel td {
+  color: red;
+  font-weight: bold;
+}
+
+.table-panel .check {
+  color: limegreen;
+  font-size: 30px;
+}
+.table-panel .panel-text-center{
+  text-align: center !important;
+}
+.table-panel .table-title{
+  padding-bottom: 20px;
+}
+.table-panel .welcome-panel-content{
+  margin:auto;
+}
+.table-panel .welcome-panel-column-table{
+   padding-bottom: 20px;
+}
+.table-panel .check {
+    color: limegreen;
+  }
+
+.table-panel th:first-child,
+.table-panel td:first-child {
+  font-weight: normal;
+  color: #323232;
+  text-align: left;
+}
+
+@media screen and (max-width: 768px) {
+ .table-panel  .check {
+    color: limegreen;
+    font-size: 20px;
+  }
+ .table-panel  tr {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+  }
+  .table-panel td,
+  .table-panel th {
+    display: block;
+    width: 33.333333333333%;
+    font-size: 20px;
+  }
+  .table-panel th:first-child,
+  .table-panel td:first-child {
+    background: #efefef;
+    width: 100%;
+  }
+ .table-panel th:first-child {
+    display: none;
+  }
+}

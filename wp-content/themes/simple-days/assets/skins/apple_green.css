@@ -1,0 +1,193 @@
+body {
+  color: #555;
+  background: #f3f7f3; }
+
+a {
+  color: #8fc186; }
+  a:hover:not(.non_hover) {
+    color: #2d3e4b; }
+
+blockquote {
+  background: #d1e2bd;
+  border: 1px solid #8fc186; }
+
+table, th, td {
+  border: 1px solid #8fc186; }
+
+tbody tr:nth-child(odd) {
+  background: #d1e2bd; }
+
+input[type="text"], input[type="email"], input[type="url"], input[type="password"], input[type="number"], input[type="tel"], input[type="range"], input[type="date"], input[type="month"], input[type="week"], input[type="time"], input[type="datetime"], input[type="datetime-local"], input[type="color"], textarea {
+  color: #555;
+  background: #fff;
+  border: 1px solid #8fc186; }
+
+button, input[type="button"], input[type="submit"] {
+  background: #8fc186; }
+  button:hover, input[type="button"]:hover, input[type="submit"]:hover {
+    background: #4f9044; }
+
+.widget {
+  background: #fff; }
+
+.widget_calendar tbody a {
+  background: #8fc186;
+  color: #fff; }
+
+.widget_calendar tbody a:hover, .widget_calendar tbody a:focus {
+  background: #2d3e4b; }
+
+.search_field {
+  border: solid 1px #8fc186; }
+
+.search_submit {
+  color: #fff;
+  background: #8fc186; }
+
+.wp-caption {
+  border: 1px solid #8fc186;
+  background: #f3f7f3; }
+
+.page-links > span {
+  background: #8fc186;
+  color: #fff; }
+
+.page-links a, .page-links > span {
+  border: 1px solid #8fc186; }
+
+.contents_bg {
+  background: #fff; }
+
+#oh_wrap {
+  background: #4f9044; }
+
+#h_wrap {
+  background: #8fc186; }
+
+.nav_h2, .f_menu_wrap {
+  background: #d1e2bd; }
+
+.site_title a {
+  color: #fff; }
+
+.menu_base a {
+  color: #fff; }
+
+.humberger:before, .humberger:after {
+  background: #fff; }
+
+.humberger:before {
+  -webkit-box-shadow: #fff 0 9px 0;
+  box-shadow: #fff 0 9px 0; }
+
+.search_m {
+  color: #fff; }
+
+.f_widget_wrap {
+  background: #8fc186;
+  color: #fff; }
+  .f_widget_wrap a:not(.icon_base):not(.to_top) {
+    color: #fff; }
+    .f_widget_wrap a:not(.icon_base):not(.to_top):hover:not(.non_hover) {
+      color: #2d3e4b; }
+
+.credit_wrap {
+  background: #4f9044;
+  color: #f3f7f3; }
+  .credit_wrap a {
+    color: #fff; }
+    .credit_wrap a:hover {
+      color: #2d3e4b; }
+
+.to_top {
+  background: #d1e2bd;
+  color: #4f9044; }
+  .to_top:hover {
+    color: #fff; }
+
+#menu_f > li > a,
+.nav_h2 #menu_h > li > a {
+  color: #4f9044; }
+
+.post_card_category {
+  background: #8fc186;
+  color: #fff;
+  border: 1px solid #8fc186; }
+
+.post_date_circle {
+  background: #8fc186;
+  color: #fff; }
+
+.post_date_circle span:nth-of-type(3) {
+  border-top: 1px solid #fff; }
+
+.more_read {
+  background: #fff;
+  border: 1px solid #8fc186;
+  color: #8fc186; }
+  .more_read:hover {
+    background: #8fc186;
+    border-color: #8fc186;
+    color: #fff; }
+
+.cat_tag_wrap:hover {
+  border-color: #2d3e4b; }
+
+.nav_link_pre, .nav_link_next {
+  color: #4f9044;
+  background: #d1e2bd; }
+  .nav_link_pre:hover, .nav_link_next:hover {
+    border-color: #2d3e4b; }
+
+.tab_item {
+  border-bottom: 3px solid #f3f7f3;
+  background: #f3f7f3; }
+
+.tab_content {
+  background: #d1e2bd; }
+
+.tabs input:checked + .tab_item {
+  background: #d1e2bd;
+  border-bottom: 3px solid #d1e2bd; }
+
+.author_lp a {
+  color: #4f9044; }
+
+.s_d_toc {
+  background: #d1e2bd; }
+
+.labbel_hide, .labbel_view {
+  color: #8fc186; }
+
+.s_d_bc {
+  background: #d1e2bd; }
+
+@media screen and (min-width: 980px) {
+  .nav_base li[class*="children"] > ul {
+    background: #8fc186; }
+
+  .nav_base > ul > li > a:hover {
+    color: #2d3e4b; }
+
+  .menu_base .sub-menu li:hover,
+  .menu_base .children li:hover {
+    background: #4f9044; }
+
+  .menu_base > li[class*="children"] > ul:after {
+    border-bottom: 10px solid #f3f7f3; }
+
+  .nav_base .sub-menu > li[class*="children"] > ul:before,
+  .nav_base .children > li[class*="children"] > ul:before {
+    border-left-color: #f3f7f3; }
+
+  .menu_base > li[class*="children"] > ul:after {
+    border-bottom: 10px solid #4f9044; }
+
+  #menu_f > li[class*="children"] > ul:after {
+    border-bottom: none;
+    border-top: 10px solid #4f9044; }
+
+  .nav_base .menu_base > li[class*="children"]:last-child ul li ul:before {
+    border-right-color: #f3f7f3; } }
+
+

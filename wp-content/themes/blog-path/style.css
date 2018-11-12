@@ -1,0 +1,243 @@
+/**
+ * Theme Name:     Blog Path
+ * Author:         candidthemes
+ * Template:       gist
+ * Text Domain:	   blog-path
+ * Description:    Blog Path is the Child Theme of Gist. This theme is best ever crafted free WordPress theme for Blog, news and Magazine. It is a simple, easy to use, modern and creative, user friendly WordPress theme with typography, fonts and color options. In addition Gist Gird is responsive, cross browser compatible and child theme ready. Gist comes with added custom widgets for social and author, sticky sidebar options, footer widget, sidebar options, meta option, copyright option, social options etc. 
+ * Theme URI:      https://www.candidthemes.com/themes/blog-path-free-wordpress-theme/
+ * Author URI:     https://www.candidthemes.com/
+ * Version:        1.0.1
+ * License:        GNU General Public License v2 or later
+ * License URI:    http://www.gnu.org/licenses/gpl-2.0.html
+ * Tags:           two-columns, right-sidebar, custom-background, custom-colors, custom-menu, featured-images, theme-options, threaded-comments, translation-ready, blog
+ */
+.p-15 .entry-content {
+    display: block;
+    overflow: hidden;
+}
+.p-15 .entry-content p{
+	margin-bottom: 15px;
+}
+.btn-primary {
+    border: none;
+    padding: 0;
+}
+.btn-primary:hover {
+    color: #555;
+}
+.btn-primary:hover {
+    background-color: #fff;
+}
+a.btn-primary::after {
+	content: "\f101";
+    font-family: FontAwesome;
+    position: relative;
+}
+.widget-title {
+    text-align: initial;
+}
+.widget-title:after {
+    left: 0;
+    margin-left: 0;
+}
+.p-15 .entry-content {
+    margin: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Playfair Display', sans-serif;
+}
+.site-title {
+    font-family: 'Playfair Display', sans-serif;
+}
+#mainnav-wrap:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+.main-navigation {
+    background: red;
+    box-shadow: 0px 1px 5px rgba(0,0,0, 0.1);
+    background-color: #fafafa;
+}
+.widget-title {
+    margin-bottom: 20px;
+    border: 1px solid #dddddd;
+    background: #fafafa;
+    font-size: 12px;
+    padding: 7px 5px 5px;
+    text-align: center;
+    margin-top: 12px;
+}
+.widget-title::after {
+    content: "";
+    width: 0;
+    height: 0;
+    position: absolute;
+    bottom: -10px;
+    left: 48%;
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-top: 10px solid #dddddd;
+    background: none;
+}
+.widget.widget_recent_entries ul li:before, .widget.widget_categories ul li:before, .widget.widget_recent_comments ul li:before, .widget.widget_archive ul li:before, .widget.widget_meta ul li:before, .widget.widget_nav_menu ul li:before, .widget.widget_pages ul li:before {
+    content: "";
+    position: absolute;
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-top: 10px solid #dddddd;
+    background: none;
+    transform: rotate(-90deg);
+    top: 10px;
+}
+ul.blog-related-post-entries.clear {
+    margin: 0;
+    padding: 0;
+}
+.blog-related-pots-block ul.blog-related-post-entries li {
+    display: inline-block;
+    width: 33.33%;
+    float: left;
+    padding: 10px;
+}
+h3.blog-related-post-title {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+#secondary .widget {
+    background: #fff;
+    padding: 5px 15px;
+}
+.blog-related-pots-block {
+    box-shadow: 0px 1px 5px rgba(0,0,0, 0.1);
+}
+.blog-related-pots-block h4.related-title {
+    margin-bottom: 0;
+}
+.btn-primary {
+    display: inline-block;
+    padding: 13px 25px;
+    border: 1px solid;
+    line-height: 1;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.main-nav-search {
+  position: relative;
+  cursor: pointer;
+}
+
+.main-nav-search i {
+  position: relative;
+  z-index: 10;
+}
+
+.main-nav-search .search-form {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+}
+
+.main-nav-search .search-form i {
+  display: none;
+}
+
+.main-nav-search label,
+.main-nav-search #searchsubmit {
+  display: none;
+}
+
+.main-nav-search div {
+  line-height: 1;
+}
+.main-nav-search i:last-of-type {
+  display: none;
+}
+.main-nav-search {
+  font-size: 14px;
+  line-height: 44px;
+}
+.main-navigation input.search-submit {
+    display: none;
+}
+.main-navigation form.search-form {
+    top: -49px;
+    z-index: 999;
+}
+.main-navigation .fa-times{
+    z-index: 9999;
+}
+
+/* Style the navbar */
+#navbar {
+  background-color: #fafafa;
+  z-index: 999;
+}
+
+/* Navbar links */
+#navbar a {
+  color: #d6002a;
+
+}
+
+/* Page content */
+.content {
+  padding: 16px;
+}
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+  top: 0;
+  width: 100%;
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+  padding-top: 60px;
+}
+.container-inner {
+	position: relative;
+}
+
+.main-navigation form.search-form {
+    top: 10px;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+}
+
+.main-nav-search {
+  line-height: 70px;
+}
+
+.container-inner .main-nav-icons {
+    position: absolute;
+    top: 0;
+    right: 20px;
+    line-height: 65px;
+}
+#navbar input.search-field {
+    text-align: center;
+    border-color: #eee; 
+}
+@media only screen and (max-width: 1023px) {
+    .main-nav-search {
+      line-height: 50px;
+    }
+    .container-inner .main-nav-icons {
+      left: 20px;
+      right: auto;
+    }
+}

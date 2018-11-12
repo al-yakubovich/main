@@ -1,0 +1,402 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Our Blog\n"
+"POT-Creation-Date: 2018-10-12 18:42+0545\n"
+"PO-Revision-Date: 2018-10-12 18:42+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:23
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:39
+msgid "All Right Reserved "
+msgstr ""
+
+#: functions.php:51
+msgid "Primary"
+msgstr ""
+
+#: functions.php:112
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:114
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:122
+msgid "Footer Widget"
+msgstr ""
+
+#: functions.php:124
+msgid "Add widgets here it Support 3 Widgets in footer."
+msgstr ""
+
+#: functions.php:163
+msgid "Next Page"
+msgstr ""
+
+#: header.php:42
+msgid "close"
+msgstr ""
+
+#: header.php:79 header.php:113
+msgid "Add a menu"
+msgstr ""
+
+#: inc/customizer/customizer.php:39
+msgid "Go Pro"
+msgstr ""
+
+#: inc/customizer/customizer.php:40
+msgid "Buy OurBlog Pro"
+msgstr ""
+
+#: inc/customizer/our-blog-general-panel.php:31
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/our-blog-theme-options-panel.php:26
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/our-blog-theme-options-panel.php:43
+msgid "Social Section"
+msgstr ""
+
+#: inc/customizer/our-blog-theme-options-panel.php:44
+msgid "Managed the content display at top header section."
+msgstr ""
+
+#: inc/customizer/our-blog-theme-options-panel.php:62
+#: inc/customizer/our-blog-theme-options-panel.php:82
+#: inc/customizer/our-blog-theme-options-panel.php:124
+msgid "Social Links"
+msgstr ""
+
+#: inc/customizer/our-blog-theme-options-panel.php:63
+msgid "Enable/Disable social links in top header."
+msgstr ""
+
+#: inc/customizer/our-blog-theme-options-panel.php:83
+msgid "Enable/Disable social links in Bottom Footer."
+msgstr ""
+
+#: inc/customizer/our-blog-theme-options-panel.php:128
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: inc/customizer/our-blog-theme-options-panel.php:129
+msgid "Example: fa-facebook"
+msgstr ""
+
+#: inc/customizer/our-blog-theme-options-panel.php:133
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/our-blog-theme-options-panel.php:134
+msgid "Example: http://facebook.com"
+msgstr ""
+
+#: inc/customizer/our-blog-theme-options-panel.php:139
+msgid "links"
+msgstr ""
+
+#: inc/customizer/our-blog-theme-options-panel.php:160
+#: inc/customizer/our-blog-theme-options-panel.php:178
+msgid "Homepage Slider Section"
+msgstr ""
+
+#: inc/customizer/our-blog-theme-options-panel.php:161
+msgid "Managed the content display at Homepage slider section."
+msgstr ""
+
+#: inc/customizer/our-blog-theme-options-panel.php:179
+msgid "Enable/Disable slider section."
+msgstr ""
+
+#: inc/customizer/our-blog-theme-options-panel.php:196
+msgid "Select Category for Homepage Slider image and title"
+msgstr ""
+
+#: inc/customizer/our-blog-theme-options-panel.php:211
+msgid "Number of slider to Show in front Page"
+msgstr ""
+
+#: inc/customizer/our-blog-theme-options-panel.php:212
+msgid "input 3,4,5,6,7,8,9"
+msgstr ""
+
+#: inc/demo/demo.php:14
+msgid "Import Our Blog Demo"
+msgstr ""
+
+#: inc/demo/demo.php:18
+msgid "It will overwrite your settings"
+msgstr ""
+
+#: inc/repeater/class-control-repeater.php:74
+msgid "row"
+msgstr ""
+
+#. translators: %s: Add new Text.
+#: inc/repeater/class-control-repeater.php:83
+#, php-format
+msgid "Add new %s"
+msgstr ""
+
+#. translators: %s: Limit Number.
+#: inc/repeater/class-control-repeater.php:239
+#, php-format
+msgid "Limit: %s rows"
+msgstr ""
+
+#: inc/repeater/class-control-repeater.php:371
+msgid "Hex Value"
+msgstr ""
+
+#: inc/repeater/class-control-repeater.php:396
+#: inc/repeater/class-control-repeater.php:401
+msgid "No Image Selected"
+msgstr ""
+
+#: inc/repeater/class-control-repeater.php:406
+#: inc/repeater/class-control-repeater.php:471
+msgid "Remove"
+msgstr ""
+
+#: inc/repeater/class-control-repeater.php:407
+#: inc/repeater/class-control-repeater.php:411
+msgid "Add Image"
+msgstr ""
+
+#: inc/repeater/class-control-repeater.php:407
+#: inc/repeater/class-control-repeater.php:409
+msgid "Change Image"
+msgstr ""
+
+#: inc/repeater/class-control-repeater.php:432
+#: inc/repeater/class-control-repeater.php:437
+msgid "No File Selected"
+msgstr ""
+
+#: inc/repeater/class-control-repeater.php:443
+#: inc/repeater/class-control-repeater.php:447
+msgid "Add File"
+msgstr ""
+
+#: inc/repeater/class-control-repeater.php:443
+#: inc/repeater/class-control-repeater.php:445
+msgid "Change File"
+msgstr ""
+
+#. translators: %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:69
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:72
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:82
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:99 template-parts/content-page.php:42
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/widgets/our-blog-about-me-widget.php:17
+msgid "Display about me in sidebar"
+msgstr ""
+
+#: inc/widgets/our-blog-about-me-widget.php:20
+msgid "Our Blog: About me"
+msgstr ""
+
+#: inc/widgets/our-blog-about-me-widget.php:32
+msgid "Select Page"
+msgstr ""
+
+#: inc/widgets/our-blog-get-connected-widget.php:16
+msgid "Display Get Connected in sidebar"
+msgstr ""
+
+#: inc/widgets/our-blog-get-connected-widget.php:19
+msgid "Our Blog: Get Connected"
+msgstr ""
+
+#: inc/widgets/our-blog-popular-posts-widget.php:16
+msgid "Display Popular Posts"
+msgstr ""
+
+#: inc/widgets/our-blog-popular-posts-widget.php:19
+msgid "Our Blog: Popular Posts"
+msgstr ""
+
+#: inc/widgets/our-blog-recent-posts-widget.php:16
+msgid "Display Latest Posts"
+msgstr ""
+
+#: inc/widgets/our-blog-recent-posts-widget.php:19
+msgid "Our Blog: Latest Posts"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:126
+msgid "- - Select Page - -"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:25
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:2
+msgid "s"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:36
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:43
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. translators: %s: Comments Number.
+#: template-parts/content-search.php:30 template-parts/content-single.php:30
+#: template-parts/content-single.php:82 template-parts/content.php:33
+#, php-format
+msgid "Comments %s"
+msgstr ""
+
+#: template-parts/content-search.php:40
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single.php:38
+msgid "Author"
+msgstr ""
+
+#: template-parts/content-single.php:56
+msgid "Related Posts"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Our Blog"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://scorpionthemes.com/downloads/our-blog-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Our Blog is a WordPress theme dedicated to blogs. It provides a responsive "
+"layout with unlimited colors. It allows you to change the way you introduce "
+"posts for pictures and texts for an appealing look. It is modern, clean, "
+"colorful and responsive."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "scorpionthemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.scorpionthemes.com/"
+msgstr ""

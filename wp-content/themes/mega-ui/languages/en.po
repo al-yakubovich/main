@@ -1,0 +1,277 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-09-30 13:54+0530\n"
+"PO-Revision-Date: 2018-09-30 13:55+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_attr__;esc_attr_e;esc_html__;esc_html_e;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:14 index.php:52 search.php:37
+msgid "oops, sorry we can't find that page"
+msgstr ""
+
+#: 404.php:15 index.php:53 search.php:38
+msgid "home page"
+msgstr ""
+
+#: author.php:36 category.php:33 index.php:41 search.php:25 single.php:20
+#: tag.php:33
+msgid " ago"
+msgstr ""
+
+#: author.php:39 category.php:36 index.php:43 search.php:28 tag.php:36
+msgid "Read More"
+msgstr ""
+
+#: comment-function.php:7
+msgid "Reply"
+msgstr ""
+
+#: comment-function.php:19
+msgid "at"
+msgstr ""
+
+#: comment-function.php:31
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:3
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:17
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:18
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:28
+msgid "Your name"
+msgstr ""
+
+#: comments.php:29
+msgid "Your e-mail"
+msgstr ""
+
+#: comments.php:30
+msgid "Website"
+msgstr ""
+
+#: comments.php:38
+msgid "Your comment"
+msgstr ""
+
+#: comments.php:39
+msgid "Logged in as "
+msgstr ""
+
+#: comments.php:39
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:39
+msgid " Log out?"
+msgstr ""
+
+#: comments.php:41
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:44
+msgid "Leave Your Comment Here"
+msgstr ""
+
+#: customizer.php:20
+msgid "Header"
+msgstr ""
+
+#: customizer.php:22
+msgid "Header settings "
+msgstr ""
+
+#: customizer.php:31
+msgid "Display TopBar"
+msgstr ""
+
+#: customizer.php:44
+msgid "Email:"
+msgstr ""
+
+#: customizer.php:57
+msgid "Contact Number:"
+msgstr ""
+
+#: customizer.php:69
+msgid "Display Social Icons"
+msgstr ""
+
+#: customizer.php:83
+msgid "Header Social Icon "
+msgstr ""
+
+#: customizer.php:84
+msgid ""
+"Please add <strong>FontAwesome</strong> Class of respective social. Like  "
+"<strong>fa fa-facebook</strong>"
+msgstr ""
+
+#: customizer.php:97
+msgid "Social Icon Link "
+msgstr ""
+
+#: customizer.php:98
+msgid "Please add Social Icon Link"
+msgstr ""
+
+#: customizer.php:107
+msgid "Footer"
+msgstr ""
+
+#: customizer.php:109
+msgid "Footer Option"
+msgstr ""
+
+#: customizer.php:118
+msgid "Display Footer Manu"
+msgstr ""
+
+#: customizer.php:131
+msgid "Footer Credit Text:"
+msgstr ""
+
+#: customizer.php:143
+msgid "Footer Company Name:"
+msgstr ""
+
+#: customizer.php:155
+msgid "Footer Company Link:"
+msgstr ""
+
+#: footer.php:57
+msgid "Mega UI Theme by"
+msgstr ""
+
+#: footer.php:57
+msgid "Darshan Saroya"
+msgstr ""
+
+#: functions.php:44
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:45
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:64
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:66
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:74
+msgid "Footer Widget Area 1"
+msgstr ""
+
+#: functions.php:76
+msgid "Footer widget area 1"
+msgstr ""
+
+#: functions.php:83
+msgid "Footer Widget Right"
+msgstr ""
+
+#: functions.php:85
+msgid "Footer widget area"
+msgstr ""
+
+#: functions.php:142 inc/breadcrumbs.php:266
+msgid "Home"
+msgstr ""
+
+#: functions.php:308
+msgid "Older Entries &raquo;"
+msgstr ""
+
+#: functions.php:309
+msgid "&laquo; Newer Entries "
+msgstr ""
+
+#: functions.php:317
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:323
+msgid "Next page"
+msgstr ""
+
+#: functions.php:324
+msgid "Previous page"
+msgstr ""
+
+#: inc/breadcrumbs.php:264
+msgid "Browse:"
+msgstr ""
+
+#: inc/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/breadcrumbs.php:268
+msgid "Archives"
+msgstr ""
+
+#: inc/breadcrumbs.php:270
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:272
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:274
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:276
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:278
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: searchform.php:3
+msgid "What do you want to find?"
+msgstr ""
+
+#: searchform.php:6
+msgid "Search"
+msgstr ""
+
+#: single.php:39
+msgid "About author"
+msgstr ""
+
+#: single.php:69
+msgid "Related Posts"
+msgstr ""

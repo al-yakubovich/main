@@ -1,0 +1,135 @@
+#site-header-container {
+  padding: $padding/2 0;
+  background: $header-bg;
+}
+
+.site-title {
+  font-size: 2.75em;
+  margin: 0;
+  line-height: 1.2em;
+}
+
+.site-title a {
+  text-decoration: none;
+  color: $site-title-color
+}
+
+.site-description {
+  margin: 0;
+  color: $site-description-color;
+  font-style: italic;
+}
+
+.custom-logo {
+  display: block
+}
+
+@if $logo-position=='left' {
+
+  .logo-left {
+    #site-header {
+      float: left;
+    }
+    .ps-header-ad {
+      float: right;
+    }
+    #header-nav-container {
+      float: right;
+    }
+  }
+}
+
+@if $logo-position=='center' {
+  .logo-center {
+    #site-header {
+      text-align: center;
+    }
+    #logo, .custom-logo {
+      display: block;
+      margin: auto
+    }
+
+    .ps-header-ad {
+      float: right;
+    }
+  }
+
+  @if $is_sleek_header==1 {
+    #site-header {
+      display: inline-block;
+      position: absolute;
+      margin: auto;
+      left: 0;
+      right: 0;
+    }
+    @media only screen and (max-width: $mobile_portrait_width) {
+      #site-header { position: static;}
+    }
+  }
+}
+
+@if $logo-position=='right' {
+
+  .logo-right {
+    #site-header {
+      float: right;
+    }
+
+    .ps-header-ad {
+      float: left;
+    }
+
+    #header-nav-container {
+      float: left;
+    }
+  }
+}
+
+.custom-logo-mobile {
+  float: left
+}
+
+.sticky-logo {
+  float: left;
+}
+
+.sticky-logo img {
+  max-height: 32px;
+
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  //left: $padding;
+}
+
+.rtl {
+  .sticky-logo {
+    float: right
+  }
+}
+
+// Remove description when sticky
+.is-sticky, .sleek-header {
+  .site-title {
+    font-size: 1.8em;
+    //padding: 10px 0; removing because no padding is required. Line height takes care of it.
+  }
+  .site-description {
+    display: none;
+  }
+}
+
+#below-header-ad-container,
+#above-footer-ad-container {
+  background: $light-1;
+  padding: .1*$padding 0;
+}
+
+#below-header-ad-container {
+  border-bottom: solid 1px $border-color;
+}
+
+#above-footer-ad-container {
+  border-top: solid 1px $border-color;
+}

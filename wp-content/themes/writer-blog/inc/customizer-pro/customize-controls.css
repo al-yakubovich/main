@@ -1,0 +1,26 @@
+#customize-controls .control-section-writer .accordion-section-title:hover,
+#customize-controls .control-section-writer .accordion-section-title:focus {
+	background-color: #fff;
+}
+
+.control-section-writer .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+}
+
+	.rtl .control-section-writer .accordion-section-title .button {
+		margin-left:  0;
+		margin-right: 8px;
+	}
+	.at-pro {
+		background: #00BC87!important;
+		color: #fff!important;
+		border-color: #00BC87 !important;
+		font-weight: 600 !important;
+		box-shadow: 0 1px 0 #ccc !important;
+	}
+.at-pro:hover {
+	background: #00BC87!important;
+	color: #fff!important;
+}

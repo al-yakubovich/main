@@ -1,0 +1,198 @@
+$comment-borders-color: $light-4;
+.comment-list {
+  padding: 0
+}
+
+li.comment {
+  list-style: none;
+  position: relative;
+  margin-left: 64px;
+  margin-bottom: $vr;
+  //border: solid 1px $comment-borders-color;
+}
+
+li.comment .comment {
+  margin-left: 32px;
+  //margin-right: $padding;
+}
+
+li.comment a {
+  color: $primary;
+}
+
+li.comment .comment-metadata {
+  position: relative;
+  top: -8px
+}
+
+li.comment .comment-metadata a {
+  text-decoration: none;
+  color: $dark-3;
+  font-size: .8em;
+}
+
+li.comment .comment-metadata a:hover {
+  color: $primary;
+}
+
+.comment-list .reply a {
+  background: $light-3;
+  position: absolute;
+  top: 18px;
+  right: 10px;
+  border: solid 1px $light-4;
+  padding: 0 .25*$padding;
+  text-decoration: none;
+  @include border-radius(3px);
+}
+
+.reply a:hover {
+  background: $primary;
+  color: $light-1;
+}
+
+.comment-meta {
+  font-family: $headings-font-stack;
+  border: solid 1px $comment-borders-color;
+  border-radius: 3px;
+  background: $light-2;
+  padding: .125*$padding .5*$padding 0;
+  .avatar {
+    float: left;
+    position: absolute;
+    left: -64px;
+    top: -2px;
+    border-radius: 50%
+  }
+  .says {
+    display: none
+  }
+  a:hover {
+    text-decoration: none;
+    color: darken($primary, .2)
+  }
+}
+
+.comment-meta:before {
+  content: '';
+  width: 0;
+  height: 0;
+  display: block;
+  border-top: 10px solid transparent;
+  border-right: 10px solid $comment-borders-color;
+  border-bottom: 10px solid transparent;
+  position: absolute;
+  left: -9px;
+  top: 10px
+}
+
+li.comment.bypostauthor {
+  .reply {
+    color: #FFF;
+  }
+  .comment-meta {
+    background: $primary;
+    color: $light-3
+  }
+  .comment-meta a {
+    color: $light-1
+  }
+  .comment-meta a:hover {
+    color: $light-3
+  }
+  .comment-meta:before {
+    border-right-color: $primary;
+  }
+  .comment-metadata a {
+    color: $light-3
+  }
+  .comment-metadata a:hover {
+    color: $light-1
+  }
+}
+
+.comment-content {
+  padding: .25*$padding .5*$padding;
+}
+
+/* Comment form */
+#respond {
+  border-top: double 5px $light-4;
+  padding-top: $vr;
+}
+
+.comment-form-author,
+.comment-form-email,
+.comment-form-url,
+.comment-form-comment {
+  label {
+    display: none;
+  }
+}
+
+.comment-subscription-form p {
+  margin-bottom: 0
+}
+
+.comment-form-author,
+.comment-form-email,
+.comment-form-url,
+.comment-form-comment {
+  width: 100%;
+  display: block;
+}
+
+.comment-form-author input,
+.comment-form-email input,
+.comment-form-url input,
+.comment-form-comment textarea {
+  width: 100%;
+  border: solid 1px $light-4;
+  border-radius: 2px
+}
+
+#commentform #submit {
+  float: right;
+  background: $primary;
+  color: $light-1;
+  border: 0;
+  font-weight: bold;
+  @include border-radius(3px)
+}
+
+#commentform #submit:hover {
+  text-shadow: 1px 1px 1px $dark-2;
+
+}
+
+.rtl {
+
+  li.comment {
+    margin-left: 0;
+    margin-right: 64px;
+  }
+  .reply {
+    right: auto;
+    left: 10px;
+  }
+  .comment-list {
+
+    .comment-meta {
+
+      .avatar {
+        float: right;
+        position: absolute;
+        right: -64px;
+        top: -2px;
+      }
+
+    }
+  }
+
+  .comment-meta:before {
+    border-right: 10px solid transparent;;
+    border-left: 10px solid $comment-borders-color;
+    left: auto;
+    right: -18px;
+  }
+}

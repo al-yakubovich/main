@@ -1,0 +1,318 @@
+@media only screen and (max-width: 320px){    
+    
+    .blog-wrapper .meta{
+        margin-bottom: 5px;
+    }
+
+    .blog-wrapper .meta-wrapper{
+        font-size: 11px;        
+    }
+}
+
+
+@media only screen and (max-width: 480px) {  
+
+    .dropdown-menu{
+        -webkit-box-shadow:none;
+        box-shadow:none;
+        border: 0;
+    }
+
+    .dropdown-menu a:hover{
+        color: #555;
+    }
+
+    .dropdown-menu > .active > a, 
+    .dropdown-menu > .active > a:hover, 
+    .dropdown-menu > .active > a:focus{
+        background: none;
+        color: #555;
+    }
+
+    .slide-bg-section h1{
+        font-size: 20px !important
+    }
+
+    .slide-bg-section p{
+        width: 100% !important;
+    }
+
+    .slide-bg-section .read-more{
+        text-align: center;
+        margin-right: 0;
+    }
+
+    .slide-bg-section .read-more:last-child {
+       margin-left: 0;
+    }
+
+    .flexslider .slides img{
+        height: 100vh;
+        object-fit: cover;
+    }
+
+    .slider .captions{
+        top: 40%;        
+    }
+
+    .slider .captions h1{
+        font-size: 20px !important;
+    }
+
+    .slider .captions p{
+        width: 100%;
+    }
+
+    .cat-name .meta-item{
+        display: block;
+    }
+
+    .blog-wrapper .meta .share{
+        float: none;
+        display: block;
+        margin-top: 15px;
+    }
+
+    .blog-wrapper .meta .share i{
+        padding-right: 25px;
+    }
+
+    .blog-wrapper .meta{
+        margin-top: 30px;
+        text-align: center;
+    }
+
+    .blog-wrapper .content {
+        margin-top: 25px;
+    }
+
+    .author-whitespace{
+        margin-top: 0;
+    }
+
+    article.post{
+        width: 100% !important;
+        display: block !important;
+    }
+
+    .post-tags a{
+        margin-bottom: 10px;
+    }
+
+    .footer-widgets-wrapper .section{
+        margin-bottom: 50px;
+    }
+
+    #main .content-inner {
+        margin-top: 50px;
+    }
+
+    .top-left-sidebar {
+        text-align: center;
+    }
+
+    .top-right-sidebar {
+        text-align: center;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    article{
+        padding: 0 !important;
+    }
+
+    header.elvinaa-menu-wrapper.fixed{
+        display:none !important;
+    } 
+    
+}
+
+@media only screen and (max-width: 767px) {    
+
+    header .custom-logo-link img{
+        width: 125px;
+        height: auto;
+        margin-top: 10px !important;
+    } 
+
+    .dropdown-menu > li > a{
+        padding: 10px 10px;
+    }
+
+    header .custom-logo-link img{
+        margin: 0;
+    }
+
+    header .navbar-collapse li{
+        padding: 0;
+    }
+  
+    .site-description{
+        margin-left: 20px;
+    }
+
+    .site-title{
+        margin-left: 20px !important
+    }   
+
+    .style1 nav ul.nav{
+        display: block;
+    }
+
+    #elvinaa-main-menu-wrapper .nav>li {
+        padding: 0;
+    }
+
+    .flexslider .slides img{
+        height: 100vh;
+        object-fit: cover;
+    }
+
+    .flexslider .slides li:before {
+        height: 100%;
+    }
+
+    header.elvinaa-menu-wrapper #elvinaa-main-menu-wrapper .nav>li>a {
+        z-index: 0;
+    }
+}    
+
+
+@media (max-width: 991px) {
+
+    #elvinaa-main-menu-wrapper .navbar-toggle {
+        display: block;
+        margin: 0 0 20px 0;
+        padding: 0;
+        min-height: 28px;
+    }
+
+    #elvinaa-main-menu-wrapper .nav li.dropdown .fa {
+        display: block;
+    }
+
+    #elvinaa-main-menu-wrapper .navbar-toggle .icon-bar {
+        width: 26px;
+        margin-top: 5px;
+        -webkit-transition: all 0.3s ease-in-out;
+        -o-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out;
+    }
+
+    .menu-style-three #elvinaa-main-menu-wrapper .navbar-toggle .icon-bar {
+        background: #0dda8f;
+    }
+    
+    #elvinaa-main-menu-wrapper .navbar-toggle .icon-bar:nth-child(3) {
+        opacity: 0;
+    }
+  
+    #elvinaa-main-menu-wrapper .navbar-toggle.collapsed .icon-bar:nth-child(3) {
+        opacity: 1;
+    }
+  
+    #elvinaa-main-menu-wrapper .navbar-toggle .icon-bar:nth-child(2) {
+        transform:rotate(45deg);
+        transform-origin:0%;
+        margin: 0 0 9px 0;
+    }
+
+    #elvinaa-main-menu-wrapper .navbar-toggle .icon-bar:nth-child(4) {
+        transform:rotate(-45deg);
+        transform-origin:0%;
+    }
+
+    #elvinaa-main-menu-wrapper .navbar-toggle.collapsed .icon-bar:nth-child(2) {
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
+    #elvinaa-main-menu-wrapper .navbar-toggle.collapsed .icon-bar {
+        transform:none !important;
+        margin-top: 5px;
+    }
+  
+    #elvinaa-main-menu-wrapper .navbar-collapse {
+        border: none;
+        background: #fff;
+        padding: 0;
+        max-height: 400px;
+        -webkit-box-shadow: 0px 13px 25px -12px rgba(0,0,0,0.25);
+        -moz-box-shadow: 0px 13px 25px -12px rgba(0,0,0,0.25);
+        box-shadow: 0px 13px 25px -12px rgba(0,0,0,0.25);
+    }
+
+    #elvinaa-main-menu-wrapper .navbar-collapse.collapse {
+        overflow-y:auto !important;
+    }
+
+    #elvinaa-main-menu-wrapper .navbar-collapse.collapse {
+        display: none!important;
+    }
+  
+    #elvinaa-main-menu-wrapper .collapse.in{
+        display:block !important;
+    }
+
+    #elvinaa-main-menu-wrapper .navbar-header {
+        float: none;
+    }
+
+    #elvinaa-main-menu-wrapper .nav>li {
+        float: none;
+        display: block;
+    }
+
+    #elvinaa-main-menu-wrapper .nav>li.dropdown .dropdown-menu,
+    #elvinaa-main-menu-wrapper .nav>li.dropdown .dropdown-menu .dropdown-menu{
+        width: 100%;
+        opacity: 1;
+        display: none;
+        position: static;
+        -webkit-transform:none;
+        transform:none;
+        -webkit-transition:none;
+        transition:none;
+    }
+
+    #elvinaa-main-menu-wrapper .nav>li>a {
+        border-top: 1px solid rgba(0,0,0,0.05);
+        padding: 0 15px;
+        line-height: 50px;
+        font-weight: normal;
+    }
+
+    #elvinaa-main-menu-wrapper .nav>li:last-child>a {
+        border-bottom:none;
+    }
+
+    #elvinaa-main-menu-wrapper .nav>li {
+        padding: 0;
+    }
+
+      #elvinaa-main-menu-wrapper {
+        float: none;
+        width: 100%;
+    }
+
+    .style1 nav ul.nav{
+        margin-left: 0;
+    }
+
+    .flexslider .slides img{
+        height: 100vh;
+        object-fit: cover;
+    }
+
+}
+
+@media (min-width: 992px) {
+    
+    #elvinaa-main-menu-wrapper .nav>li.dropdown:hover .dropdown-menu {
+        opacity: 1;
+        -webkit-transform:scale(1);
+        transform:scale(1);
+    }
+}
+
+

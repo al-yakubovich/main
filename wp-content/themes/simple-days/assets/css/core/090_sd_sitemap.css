@@ -1,0 +1,11 @@
+.sitemap_list {
+  margin: 0;
+  list-style: none; }
+  .sitemap_list li {
+    list-style: none; }
+  .sitemap_list > li {
+    margin: 0 0 5px 0; }
+    .sitemap_list > li > a {
+      font-weight: bold; }
+
+

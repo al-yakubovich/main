@@ -1,0 +1,54 @@
+.menu_base, .title_wrap, .post_card, .nav_link, .nav_link a, .author_profile_box, #related_posts, .rp_box_title, .sns_link_icon, .on_pagi, .comment_main, .comment_pager, .credit, .s_d_bc, .s_d_bc_info, .cta_box_wrap, .cta_box_like_wrap, .copyright_wordpress, .copyright_info, .pp_ranking_title, .s_d_pl_li, .s_d_pl_title, .s_d_pl_li_thum_title, .index_contents, .s_d_pl_center, .contents, .nav_base, .icon_base, .index_contents article, .a_w, .h_widget, .site_title, #h_wrap, .oh_con, #oh_L, #oh_R, #h_flex, #nav_s, #menu_s, .title_tag, .tagline, #sidebar, .w_rectangle {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex; }
+
+.title_wrap, .nav_link a, .rp_box_title, .s_d_pl_li_thum_title, .s_d_pl_title, .s_d_pl_center, .nav_base, .icon_base, .h_widget, .site_title, #menu_s, .tagline {
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center; }
+
+.menu_base, .post_card, .credit, .s_d_bc, .cta_box_like_wrap, .on_pagi, .a_w, #h_wrap, #h_flex, .title_tag, #sidebar {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  -webkit-flex-direction: column;
+  flex-direction: column; }
+
+.sns_link_icon, .rp_box_title, .credit, .copyright_info, .pf_sns_wrap ul, .s_d_pl_li_thum_title, .s_d_pl_center, .icon_jc, #nav_f, #oh_L, #oh_R, .h_widget, .site_title {
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center; }
+
+.comment_pager, .title_wrap, .nav_link, .sh_con, .w_rectangle {
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  -webkit-justify-content: space-between;
+  justify-content: space-between; }
+
+.sns_ap, .sns_share_icon {
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  -webkit-justify-content: flex-start;
+  justify-content: flex-start; }
+
+.oh_con, .index_contents, #oh_L, #oh_R, .h_widget, .sns_link_icon, .nav_link, .copyright_wordpress, .copyright_info, .w_rectangle {
+  -ms-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap; }
+
+#nav_h {
+  -webkit-box-align: start;
+  -ms-flex-align: start;
+  -webkit-align-items: flex-start;
+  align-items: flex-start; }
+
+#menu_s li {
+  -webkit-box-flex: 1;
+  -ms-flex: 1 0 auto;
+  flex: 1 0 auto; }
+
+

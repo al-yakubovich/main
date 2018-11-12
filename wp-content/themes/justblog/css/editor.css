@@ -1,0 +1,418 @@
+body {
+    background: #fff;
+    color: #656565;
+	font-family: "Open Sans", Arial, sans-serif;
+    font-size: 100%;
+    line-height: 1.6;
+}
+
+
+/*--------------------------------------------------------------
+# Typography
+--------------------------------------------------------------*/
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Playfair Display", Georgia, Serif;
+	color: #484848;
+	clear: both;
+	line-height: 1.2;
+    margin: 0 0 1.5rem;	
+}
+h1 {
+	font-size: 2rem;
+}
+h2 {
+	font-size: 1.75rem;
+}
+h3 {
+	font-size: 1.5rem;
+}
+h4 {
+	font-size: 1.25rem;
+}
+h5 {
+	font-size: 1.063rem;
+}
+h6 {
+	font-size: 1rem;
+}
+p {
+	margin: 0 0 1.6rem;
+}
+
+dfn, cite, em, i {
+	font-style: italic;
+}
+
+blockquote {
+	margin: 0 1.5em;
+}
+
+address {
+	margin: 0 0 1.5em;
+}
+
+pre {
+	background: #eee;
+	font-family: "Courier 10 Pitch", Courier, monospace;
+	font-size: 15px;
+	font-size: 0.9375rem;
+	line-height: 1.6;
+	margin-bottom: 1.6em;
+	max-width: 100%;
+	overflow: auto;
+	padding: 1.6em;
+}
+
+code, kbd, tt, var {
+	font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+	font-size: 15px;
+	font-size: 0.9375rem;
+}
+
+abbr, acronym {
+	border-bottom: 1px dotted #666;
+	cursor: help;
+}
+
+mark, ins {
+	background: #fff9c0;
+	text-decoration: none;
+}
+
+big {
+	font-size: 125%;
+}
+
+hr {
+	background-color: #dedede;
+	border: 0;
+	height: 1px;
+	margin-bottom: 1.5em;
+}
+
+ul, ol {
+    margin: 0 0 1.5rem;
+}
+
+ul {
+	list-style: disc;
+}
+
+ol {
+	list-style: decimal;
+}
+
+li > ul,
+li > ol {
+    margin-bottom: 0;
+    margin-left: 1.5rem;
+    padding:0;
+}
+
+
+dt {
+	font-weight: bold;
+}
+
+dd {
+	margin: 0 1.5em 1.5em;
+}
+
+img {
+	height: auto;
+	/* Make sure images are scaled correctly. */
+	max-width: 100%;
+	/* Adhere to container width. */
+}
+
+figure {
+	margin: 1em 0;
+	/* Extra wide images within figure tags don't overflow the content area. */
+}
+
+
+
+dfn,
+cite,
+em,
+i {
+    font-style: italic;
+}
+cite,
+blockquote cite {
+    font-size: 0.75rem;
+}
+blockquote {
+    border-left: 0.75rem solid #dcdcdc;
+    font-style: italic;
+    margin: 2rem;
+    padding: 0 1rem;
+    border-radius: 12px 0 0 12px;
+}
+blockquote p {
+    margin: 0;
+}
+blockquote cite {
+    display: block;
+    margin: 1rem 0;
+	opacity: 0.6;
+}
+
+address {
+    margin: 0 0 1.5em;
+}
+
+/* TABLES */
+table {
+	border-bottom: 1px solid #efefef;
+	border-color: #ebebeb;
+	margin: 1rem 0 2rem;
+	text-align: left;
+	width: 100%;
+}
+table caption {
+	color: #989898;
+    padding: 0 0 5px 0;
+    width: auto;
+    font-style: italic;
+    text-align: right;
+    font-size: 12px;
+}
+thead th {
+    background-color: #dcdcdc;
+	color: #222;
+}
+th, td {
+	padding: 6px
+}
+
+th {
+	font-size: 0.75rem;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    text-align: left;
+    padding: 9px 12px;
+	border: 1px solid #ebebeb;	
+    border-left: none;
+    border-top: none;
+}
+tr:nth-child(odd) {
+    background: #f8f8f8;
+}
+tr th:first-child, 
+tr td:first-child {
+	border-color: #ebebeb;
+    border-left-style: solid;
+    border-left-width: 1px;
+}
+tr:first-child th, 
+tr:first-child td {
+	border-color: #ebebeb;
+    border-top-style: solid;
+    border-top-width: 1px;
+}
+
+td {
+    font-size: 13px;
+    padding: 9px 12px;
+	border: 1px solid #ebebeb;	
+    border-left: none;
+    border-top: none;
+}
+tr th:first-child, 
+tr td:first-child {
+	border-color: #ebebeb;	
+    border-left-style: solid;
+    border-left-width: 1px;	
+}
+
+/* CODE */
+code {
+	font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+	font-size: 15px;
+	font-size: 0.9375rem;
+    padding: 0 0.5rem;	
+}
+code {
+    background-color: #eeeeee;
+    color: #b74747;
+}
+pre {
+    position: relative;
+    max-width: 800px;
+    padding: 30px 15px;
+    background: #f7f7f7;
+    word-break: break-all;
+    word-wrap: break-word;
+    white-space: pre;
+    font-size: 14px;
+    color: #656565;
+    border-left: 10px solid #d4dee2;
+}
+pre code {
+	padding: 0;
+    color: #3f3b36;
+    background-color: transparent;
+    font-size: 1rem;
+}
+
+/*--------------------------------------------------------------
+## Links
+--------------------------------------------------------------*/
+a {
+	color: #c0a127;
+	text-decoration: none;
+}
+.button {
+    background: #1a1a1a;
+    border: 0;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 0.875rem;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    line-height: 1;
+    padding: 0.84375em 0.875em 0.78125em;
+    text-transform: uppercase;
+}
+
+/*--------------------------------------------------------------
+# Alignments
+--------------------------------------------------------------*/
+
+.alignleft {
+    display: inline;
+    float: left;
+    margin: 0.5rem 2.5rem 1rem 0;
+}
+
+.alignright {
+    display: inline;
+    float: right;
+    margin: 0.5rem 0 1rem 2.5rem;
+}
+
+.aligncenter {
+    clear: both;
+    display: block;
+    margin: 2rem auto;
+}
+
+.alignnone {
+    clear: both;
+    display: block;
+    margin: 2rem 0;
+}
+blockquote.alignleft,
+blockquote.alignright {
+    max-width: 45%;
+}
+
+/* Make sure embeds and iframes fit their containers. */
+embed,
+iframe,
+object {
+	max-width: 100%;
+}
+
+/*--------------------------------------------------------------
+## Captions
+--------------------------------------------------------------*/
+.wp-caption {
+	margin-bottom: 1.5em;
+	max-width: 100%;
+}
+
+.wp-caption img[class*="wp-image-"] {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.wp-caption .wp-caption-text {
+	margin: 0.8075em 0;
+}
+
+.wp-caption-text {
+	text-align: center;
+}
+
+/*--------------------------------------------------------------
+## Galleries
+--------------------------------------------------------------*/
+.entry-content .gallery {
+    margin: 3rem 0 1rem;
+}
+.gallery-item {
+	display: inline-block;
+	text-align: left;
+	vertical-align: top;
+	margin: 0 0 1.5em;
+	padding: 0 1em 0 0;
+	width: 50%;
+}
+
+.gallery-columns-1 .gallery-item {
+	width: 100%;
+}
+.gallery-columns-2 .gallery-item {
+	width: 50%;
+}
+.gallery-columns-3 .gallery-item {
+	width: 33.3333%;
+}
+.gallery-columns-4 .gallery-item {
+	width: 25%;
+}
+.gallery-columns-5 .gallery-item {
+	width: 20%;
+}
+.gallery-columns-6 .gallery-item {
+	width: 16.6666%;
+}
+.gallery-columns-7 .gallery-item {
+	width: 14.28%;
+}
+.gallery-columns-8 .gallery-item {
+	width: 12.5%;
+}
+.gallery-columns-9 .gallery-item {
+	width: 11.1111%;
+}
+
+.gallery-item a,
+.gallery-item a:hover,
+.gallery-item a:focus,
+.widget-area .gallery-item a,
+.widget-area .gallery-item a:hover,
+.widget-area .gallery-item a:focus {
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	background: none;
+	display: inline-block;
+	max-width: 100%;
+}
+
+.gallery-item a img {
+	display: block;
+	-webkit-transition: -webkit-filter 0.2s ease-in;
+	transition: -webkit-filter 0.2s ease-in;
+	transition: filter 0.2s ease-in;
+	transition: filter 0.2s ease-in, -webkit-filter 0.2s ease-in;
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+}
+
+.gallery-item a:hover img,
+.gallery-item a:focus img {
+	-webkit-filter: opacity(60%);
+	filter: opacity(60%);
+}
+
+.gallery-caption {
+	display: block;
+	padding: 0.5rem 0 0 0;
+	margin-bottom: 0;
+}

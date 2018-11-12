@@ -1,0 +1,1007 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ForDummies\n"
+"POT-Creation-Date: 2018-08-28 17:16-0000\n"
+"PO-Revision-Date: 2018-08-28 17:16-0000\n"
+"Last-Translator: Bill <sergiominozzi@gmail.com>\n"
+"Language-Team: Bill Minozzi <sergiominozzi@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_x;_nx;_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: F:\\themefordummies\\fordummies_126\\fordummies\n"
+
+#: F:\themefordummies\fordummies_126\fordummies/404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/404.php:23
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/archive.php:49
+#: F:\themefordummies\fordummies_126\fordummies/index.php:46
+#: F:\themefordummies\fordummies_126\fordummies/search.php:40
+msgid "Previous page"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/archive.php:50
+#: F:\themefordummies\fordummies_126\fordummies/index.php:47
+#: F:\themefordummies\fordummies_126\fordummies/search.php:41
+msgid "Next page"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/archive.php:51
+#: F:\themefordummies\fordummies_126\fordummies/image.php:60
+#: F:\themefordummies\fordummies_126\fordummies/index.php:48
+#: F:\themefordummies\fordummies_126\fordummies/search.php:42
+#: F:\themefordummies\fordummies_126\fordummies/template-parts/content-page.php:27
+#: F:\themefordummies\fordummies_126\fordummies/template-parts/content-single.php:29
+#: F:\themefordummies\fordummies_126\fordummies/template-parts/content.php:37
+msgid "Page"
+msgstr ""
+
+#. translators: %s: post title
+#: F:\themefordummies\fordummies_126\fordummies/comments.php:31
+#, php-format
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/comments.php:36
+#, php-format
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/footer.php:51
+msgid "Powered by ThemeForDummies.com"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/functions.php:153
+#: F:\themefordummies\fordummies_126\fordummies/header.php:131
+msgid "Primary Menu"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/functions.php:154
+#: F:\themefordummies\fordummies_126\fordummies/header.php:80
+msgid "Social Links Menu"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/functions.php:215
+msgid "Sidebar"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/functions.php:217
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/functions.php:224
+msgid "First Footer Widget"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/functions.php:226
+msgid "Add widgets here to appear in your left footer."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/functions.php:233
+msgid "Second Footer Widget"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/functions.php:235
+msgid "Add widgets here to appear in your center footer."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/functions.php:242
+msgid "Third Footer Widget"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/functions.php:244
+msgid "Add widgets here to appear in your right footer."
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language.
+#. translators: If there are characters in your language that are not supported by Montserrat, translate this to 'off'. Do not translate into your own language.
+#. translators: If there are characters in your language that are not supported by Inconsolata, translate this to 'off'. Do not translate into your own language.
+#: F:\themefordummies\fordummies_126\fordummies/functions.php:267
+#: F:\themefordummies\fordummies_126\fordummies/functions.php:271
+#: F:\themefordummies\fordummies_126\fordummies/functions.php:275
+msgid "on"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/functions.php:331
+msgid "expand child menu"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/functions.php:332
+msgid "collapse child menu"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/header.php:128
+msgid "Menu"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/image.php:24
+msgid "Previous Image"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/image.php:25
+msgid "Next Image"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/image.php:56
+#: F:\themefordummies\fordummies_126\fordummies/template-parts/content-page.php:23
+#: F:\themefordummies\fordummies_126\fordummies/template-parts/content-single.php:25
+#: F:\themefordummies\fordummies_126\fordummies/template-parts/content.php:33
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: F:\themefordummies\fordummies_126\fordummies/image.php:84
+#: F:\themefordummies\fordummies_126\fordummies/template-parts/content-page.php:37
+#: F:\themefordummies\fordummies_126\fordummies/template-parts/content-search.php:28
+#: F:\themefordummies\fordummies_126\fordummies/template-parts/content-search.php:43
+#: F:\themefordummies\fordummies_126\fordummies/template-parts/content-single.php:45
+#: F:\themefordummies\fordummies_126\fordummies/template-parts/content.php:49
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/image.php:102
+#: F:\themefordummies\fordummies_126\fordummies/single.php:29
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/activated-manager.php:230
+#: F:\themefordummies\fordummies_126\fordummies/inc/feedback-last.php:150
+msgid "Hi, my name is Bill Minozzi, and I am developer of"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/activated-manager.php:239
+#: F:\themefordummies\fordummies_126\fordummies/inc/feedback-last.php:157
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:245
+msgid "Thank You!"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/activated-manager.php:242
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:217
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:258
+msgid "Yes, Submit"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/activated-manager.php:244
+msgid "Skip"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/back-compat.php:41
+#: F:\themefordummies\fordummies_126\fordummies/inc/back-compat.php:53
+#: F:\themefordummies\fordummies_126\fordummies/inc/back-compat.php:68
+#, php-format
+msgid ""
+"For dummies requires at least WordPress version 4.4. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:386
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:387
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#. translators: %s: version number
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2342
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2388
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2482
+msgid "unknown"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2723
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:173
+msgid "Update"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: F:\themefordummies\fordummies_126\fordummies/inc/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:113
+msgid "Logo Margin From Top"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:116
+msgid "Choose from -20px to 100px"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:128
+msgid "Layout"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:131
+msgid "Change General options here."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:144
+msgid "Show entry-title"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:162
+msgid "Website Layout"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:178
+msgid "Background transparency (opacity)"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:179
+msgid "Choose from .6 to 1"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:191
+msgid "Top Header Settings"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:208
+msgid "Show Top Header?"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:209
+msgid ""
+"Show or Hide Top Header Info (email, phone, hours) and Social Media Menu at "
+"top header."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:212
+msgid "Yes"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:213
+msgid "No"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:222
+msgid "Top Info Phone"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:231
+msgid "Top Info eMail"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:240
+msgid "Top Info Hours"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:254
+msgid "Top Page Info Color"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:257
+msgid "White"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:258
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:710
+msgid "Gray"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:259
+msgid "Black"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:268
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:410
+msgid "Footer Copyright"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:280
+msgid "Copyright Footer Text Here"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:291
+msgid "Copyright Background Color"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:305
+msgid "Copyright Text Color"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:317
+msgid "Main Navigation Design"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:321
+msgid "Change Navigation detais here."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:333
+msgid "Menu Margin Top"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:334
+msgid "Choose from 0 to 50 Pixels."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:349
+msgid "Menu Font Size"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:350
+msgid "Choose from 12 to 20 Pixels."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:365
+msgid "Background Navigation Color"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:379
+msgid "Menu Text Color"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:393
+msgid "Menu Text Hover Color"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:407
+msgid "Sub Menu Background"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:421
+msgid "Sub Menu Text Color"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:435
+msgid "Sub Menu Hover color"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:449
+msgid "Sub Menu Hover Background"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:576
+msgid "Base Color Scheme"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:589
+msgid "Page Background Color"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:601
+msgid "Link Color"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:611
+msgid "Main Text Color"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:621
+msgid "Secondary Text Color"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:688
+msgid "Default"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:699
+msgid "Dark"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:721
+msgid "Orange"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/customizer.php:732
+msgid "Blue"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/faq.php:30
+msgid "type here your question ..."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/faq.php:36
+#: F:\themefordummies\fordummies_126\fordummies/inc/feedback-last.php:161
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:170
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:255
+msgid "(In this case, we are unable to email you)"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/faq.php:39
+msgid "Submit"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/feedback-last.php:149
+msgid ""
+"If you have a moment, Please, let us know you and why you are deactivating."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/feedback-last.php:155
+msgid ""
+"If you Kindly tell us the reason so we can improve it and maybe give some "
+"support by email to you."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/feedback-last.php:159
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:247
+msgid "type here yours sugestions ..."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/feedback-last.php:163
+msgid "Yes, Submit and Deactivate"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/feedback-last.php:165
+msgid "Cancel Deactivation"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/feedback-last.php:166
+msgid "No, Just Deactivate it"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/feedback.php:156
+msgid "Bill Minozzi"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/feedback.php:160
+msgid "Hello, my name is Bill Minozzi, and I am developer of"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/feedback.php:163
+msgid ""
+"If you like this product, please write a few words about it. It will help "
+"other people find this useful plugin more quickly.<br><b>Thank you!</b>"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/feedback.php:165
+msgid "Rate or Share"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/feedback.php:166
+msgid "No, dismiss"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/feedback.php:167
+msgid "or"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/feedback.php:168
+msgid "Remind me later"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:174
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:219
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:260
+msgid "Cancel"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:195
+msgid "Send  messages to our Technical Support"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:196
+msgid "Please, follow this instructions:"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:198
+msgid "1- No javascript, php or html code."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:200
+msgid ""
+"2- Try to explain as clearly as you can the issue you are having and what "
+"you were trying to do when the problem occurred."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:202
+msgid ""
+"Our support center works Monday - Friday (9:00 to 17:00) and we are in "
+"Europe (London time zone) Please give us 1 business day to answer."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:207
+msgid "* Check your email account"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:209
+msgid "(also SPAM FOLDER) for our response."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:214
+msgid "type here your question..."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:238
+msgid "Please, let us know you, your site and your feedback."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:239
+msgid "Hi, my name is Bill Minozzi, and I am developer of theme fordummies."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:241
+msgid "We appreciate your help in making our theme better."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:243
+msgid ""
+"We are building the best service we can for you but we can't promise it will "
+"be perfect or if we will include all suggestions."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:336
+msgid ""
+"For Dummies is a responsive and not intimidating, easy-to-use WordPress "
+"theme."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:339
+msgid "You can find also our complete Theme OnLine Guide"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:341
+msgid "here"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:344
+msgid "Theme For Dummies has an advanced panel that is loaded with options."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:346
+msgid ""
+"Go to Appearance > Customize and take a look. We've organized them into "
+"logical sets and have given  descriptions for items that need it, most "
+"things are self explanatory. Be sure to hit Save Changes to save your "
+"settings once you are done."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:349
+msgid ""
+"Once you have created your home page, you need to select it to show up as "
+"the home page. To do this, follow the steps below."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:351
+msgid "Navigate to Settings > Reading"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:353
+msgid "Select A Static Page for Front Page Displays"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:355
+msgid "Select your new home page for the Front Page"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:357
+msgid "This is also the same spot you select the Blog page"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:359
+msgid "Save"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:362
+msgid "Go to Dashboard  Appearence => Customize  => Menus and setup the menu."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:364
+msgid "Here is the wordpress help:"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:367
+msgid "https://codex.wordpress.org/WordPress_Menu_User_Guide"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:370
+msgid ""
+"Go to Dashboard  Appearence => Customize  => Site Identity and setup the "
+"logo."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:373
+msgid ""
+"Go to Dashboard  Appearence => Customize => Theme  Options => Top Page "
+"Settings."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:376
+msgid ""
+"Go to Dashboard  Appearence => Customize => Theme Options => Footer "
+"Copyright."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:380
+msgid "Overview"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:385
+msgid "Theme Options"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:390
+msgid "Setting up the Home"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:395
+msgid "Setting up the Menu"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:400
+msgid "Setting up te Logo"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/help.php:405
+msgid "Setting Top Info"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/pinstaller.php:99
+msgid "fordummies"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/template-tags.php:25
+msgid "Author"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/template-tags.php:38
+msgid "Format"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/template-tags.php:50
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/template-tags.php:79
+msgid "Posted on"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/template-tags.php:95
+#: F:\themefordummies\fordummies_126\fordummies/inc/template-tags.php:103
+msgid ", "
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/template-tags.php:98
+msgid "Categories"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/inc/template-tags.php:106
+msgid "Tags"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: F:\themefordummies\fordummies_126\fordummies/inc/template-tags.php:184
+#: F:\themefordummies\fordummies_126\fordummies/template-parts/content.php:28
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/searchform.php:13
+msgid "Search for:"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/searchform.php:16
+msgid "Search"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/single.php:34
+msgid "Next"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/single.php:35
+msgid "Next post:"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/single.php:37
+msgid "Previous"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/single.php:38
+msgid "Previous post:"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/template-parts/biography.php:28
+msgid "Author:"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/template-parts/biography.php:33
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/template-parts/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/template-parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: F:\themefordummies\fordummies_126\fordummies/template-parts/content.php:14
+msgid "Featured"
+msgstr ""

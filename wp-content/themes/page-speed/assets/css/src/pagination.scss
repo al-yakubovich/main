@@ -1,0 +1,24 @@
+.pagination{
+  text-align: center;
+  margin-bottom: $vr;
+  .nav-links{display: inline-block;border-radius: 5px;overflow: hidden}
+  .nav-links .page-numbers{
+    background: $light-2;
+  }.nav-links .page-numbers:nth-child(2n){
+    background: $light-3;
+  }
+  .nav-links .current,
+  .page-numbers:hover{background: $primary!important;color:$light-1;}
+  .page-numbers:hover{background: rgba($primary,.8)!important;}
+  .page-numbers span{display: none}
+  .page-numbers,
+  .page-numbers a{display: inline-block;text-decoration: none}
+  .page-numbers{padding:2px 10px 4px;float: left}
+  .page-numbers.next{border:none}
+
+  .nav-links{
+  -webkit-box-shadow: 0 8px 6px -6px $dark-3;
+  -moz-box-shadow: 0 8px 6px -6px $dark-3;
+  box-shadow: 0 1px 2px -1px $dark-2;
+  }
+}

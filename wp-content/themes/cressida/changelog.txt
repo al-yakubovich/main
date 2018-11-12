@@ -1,0 +1,26 @@
+== Changelog ==
+
+= 1.1
+* 9/29/2018
+* Updated: Sample images - according to new wordpress.org requirements
+* Updated: Center main menu on smaller screens
+* Updated: Dropdown menu - parent nodes enabled
+* Fixed: Mobile menu alignment with social media menu
+
+= 1.0.3
+* 8/4/2018
+* Added: Fallback for no featured images
+* Updated: Translators for gettext calls with placeholders
+* Updated: False escaping error in comments.php and prefix bootstrap nav walker class
+* Updated: Removed wp_reset_query()
+* Updated: Admin area - unhighlight welcome page menu item
+* Fixed: Static home page - page heading missing
+
+= 1.0.2 =
+* 7/30/2018
+* Updated defaults to comply with wordpress.org requirements
+
+= 1.0.1 =
+* 7/29/2018
+* Initial release
+

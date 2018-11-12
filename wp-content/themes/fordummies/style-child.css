@@ -1,0 +1,29 @@
+/*
+
+Theme Name: fordummies child
+
+Theme URI: themefordummies.com
+
+Description: Theme for Dummies
+
+Author: Bill Minozzi
+
+Author URI: www.BillMinozzi.com
+
+Version: 1.34
+
+License: GNU General Public License v2 or later
+
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Text Domain: fordummies
+
+Tags: fixed-layout, responsive-layout,custom-background, custom-colors, custom-header, custom-menu
+
+Template: fordummies
+
+--------------------------------------------------------------
+
+*/
+
+@import url("../fordummies/style.css");

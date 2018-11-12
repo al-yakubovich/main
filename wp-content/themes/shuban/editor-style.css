@@ -1,0 +1,32 @@
+/*
+Theme Name: shuban
+Description: Used to style the TinyMCE editor.
+*/
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #383838;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400;
+}
+h1 {
+    font-size: 36px
+}
+h2 {
+    font-size: 30px;
+}
+h3 {
+    font-size: 24px;
+}
+h4 {
+    font-size: 18px;
+}
+h5 {
+    font-size: 14px;
+}
+h6 {
+    font-size: 12px;
+}

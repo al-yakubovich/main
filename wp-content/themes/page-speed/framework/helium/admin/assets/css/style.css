@@ -1,0 +1,381 @@
+.theme-options {
+    background: #FFF;
+    padding: 40px;
+    border: solid 1px #DDD;
+    max-width:960px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.greet {
+    font-size: 16px;
+    line-height: 1.6em;
+    max-width: 960px
+}
+
+.greet h3 {
+    color: #999;
+    font-weight: normal;
+    margin: 0;
+    text-transform: capitalize
+}
+
+.greet h1 {
+    font-weight: bold;
+    font-size: 48px;
+    padding: 20px 0;
+    margin: 0;
+}
+
+#tabs {
+    max-width: 960px
+}
+
+.ui-tabs-nav {
+    border-bottom: solid 1px #CCC;
+    margin-bottom: 0;
+}
+
+.ui-tabs-nav li {
+    display: inline;
+    margin: 0 5px;
+}
+
+.ui-tabs-nav a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 24px;
+    font-weight: 300;
+    color: #444;
+    padding: 10px;
+    border: solid 1px #CCC;
+    border-width: 1px 1px 0;
+    display: inline-block;
+    background: #F1F1F1;
+
+}
+
+.ui-tabs-active a {
+    padding-bottom: 11px;
+    margin-bottom: -1px;
+    z-index: 3;
+    background: #FFF;
+}
+
+.ui-tabs-panel {
+    padding: 10px;
+    border: solid 1px #CCC;
+    border-width: 0;
+}
+
+.clear {
+    clear: both
+}
+
+.option {
+    padding: 10px;
+    margin: 0 -10px;
+}
+
+.separator {
+    line-height: 0;
+    font-size: 24px;
+    font-weight: 100;
+    color: #CCC;
+    letter-spacing: -3px;
+}
+
+#helium_theme_options .option:nth-child(2n+1) {
+    background: #f8f8f8;
+}
+
+#helium-options-footer {
+    padding: 10px;
+    margin: 10px -10px -10px;
+}
+
+.options-status {
+    line-height: 46px !important;
+    display: none;
+    font-weight: lighter;
+    font-size: 24px;
+    text-transform: capitalize;
+}
+
+.options-status:before {
+    font-family: dashicons;
+    font-size: 46px;
+    line-height: 1em;
+    float: left;
+    margin-right: 5px
+}
+
+#options-changed {
+    color: orange;
+}
+
+#options-changed:before {
+    content: "\f534";
+}
+
+#options-saved,
+#can-write {
+    color: green;
+}
+
+#options-saved:before,
+#can-write:before {
+    content: "\f147";
+}
+
+#options-save-error,
+#can-not-write {
+    color: red;
+}
+
+#options-save-error:before,
+#can-not-write:before {
+
+    content: "\f158";
+}
+
+.about {
+    font-size: 16px;
+    line-height: 26px;
+    color: #444;
+}
+
+/*.about h2:before {content: "\f487";font-family: dashicons;color:rgb(0, 122, 255);padding-right: 10px}*/
+.about h2 {
+    margin-bottom: 10px;
+    font-weight: 400;
+}
+
+.license {
+    font-size: 1.2em;
+
+    margin-bottom: 30px;
+}
+
+.license label {
+    position: relative
+}
+
+.license .button {
+    position: absolute;
+    right: 6px;
+    top: -5px;
+}
+
+.license-key {
+    width: 340px;
+    padding: 10px 80px 10px 4px;
+    border-radius: 5px;
+}
+
+.license-info {
+    padding: 10px;
+    border-radius: 10px;
+    border: solid;
+    border-width: 3px;
+    background: #FFF;
+
+    display: inline;
+
+    margin-bottom: 40px;
+
+}
+
+.he-error {
+    color: red;
+}
+
+.he-success {
+    color: green
+}
+
+.he-warning {
+    color: orange
+}
+
+table {
+    empty-cells: show;
+    border: 1px solid #DDD;
+    border-collapse: collapse;
+    text-align: center;
+    width: 100%;
+    margin: 40px 0;
+}
+
+table caption {
+    font: italic 85%/1 arial, sans-serif;
+    padding: 1em 0;
+    text-align: center
+}
+
+th {
+    font-size: 18px !important;
+    text-align: center !important;
+}
+
+td, th {
+    border-left: 1px solid #DDD;
+    border-width: 0 0 0 1px;
+    font-size: inherit;
+    margin: 0;
+    overflow: visible;
+    padding: 16px 10px;
+
+}
+
+td.pad {
+    padding: .5em 1em
+}
+
+table thead, table th, table tfoot {
+    background-color: #EEE;
+    text-align: left;
+    vertical-align: bottom
+}
+
+table td {
+    background-color: transparent;
+    border-bottom: 1px solid #DDD
+
+}
+
+table tr:nth-child(2n) td {
+    background-color: #F6F6F6
+}
+
+.pure-table-bordered td {
+    border-bottom: 1px solid #DDD
+}
+
+table tbody > tr:last-child > td {
+    border-bottom-width: 0
+}
+
+table td, table th {
+    border-bottom: 1px solid #DDD
+}
+
+table tbody > tr:last-child > td {
+    border-bottom-width: 0
+}
+
+.tg .dashicons {
+    width: 24px;
+    height: 24px;
+    font-size: 24px;
+    line-height: 24px;
+    border-radius: 50%;
+    background: #24B24B;
+    color: #FFF;
+}
+
+.tg .dashicons-no {
+    background: #FA2337;
+}
+
+.tg tr  td:first-child {
+    text-align: left;
+}
+
+
+
+
+
+#ps-sb {
+    margin: 0 20px 0 0;
+    max-width: 200px;
+    float: left;
+}
+#ps-sb a{
+    text-decoration: none;
+}
+#ps-sb h1,
+#ps-sb h3{color:#FFF}
+
+#ps-sb .card {
+    border-radius: 6px;
+    padding: 10px;
+    border: solid 3px #FFF;
+    background: #FFF;
+    color: #FFF;
+}
+
+#ps-sb .tweet a {
+    color: #FFF;
+}
+
+
+#ps-sb .support{
+    background: #3256d9;
+
+}
+
+#ps-sb .support:hover{
+    background: #6207D9;
+
+}
+
+#ps-subscribe.card {
+    background: #3256d9;
+}
+
+#ps-subscribe input {
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    border: solid 1px #EEE;
+    padding: 6px 0;
+}
+
+#ps-subscribe input[type='submit'] {
+    background: #fd6763;
+    border: none;
+    border-radius: 5px;
+    color: #FFF;
+    font-weight: bold;
+    padding: 10px 0;
+    text-transform: uppercase;
+}
+
+#ps-subscribe input[type='submit']:hover {
+    background: #FD3A4D;
+    cursor: pointer;
+}
+
+#ps-subscribe h3 {
+    font-weight: bold;
+    color: #FFF !important;
+}
+
+/**/
+/**
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    contenteditable attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that are clearfixed.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear: both;
+}
+
+/**
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+.cf {
+    *zoom: 1;
+}

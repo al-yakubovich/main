@@ -1,0 +1,90 @@
+/*
+Theme Name: Shuban
+
+Adding support for languages written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right-to-Left_Language_Support
+
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+.pull-right {
+    float: left;
+}
+.pull-left {
+    float: right;
+}
+.text-left {
+    text-align: right;
+}
+.text-right {
+    text-align: left;
+}
+body {
+    overflow-x: hidden;
+}
+.widget ul {
+    margin-right: 0rem;
+    padding-right: 0rem;
+}
+.widget > div > ul li a:before, .widget > ul li a:before, .widget > ul li:before, .widget_calendar caption:before, .widget_recent_comments>ul>li>span:before {
+    margin-left: 8px;
+    margin-right: 0;
+}
+.entry-footer .edit-link {
+    float: left;
+}
+.st-primary-wrapper .post .entry-meta .fa, .st-primary-wrapper .page .entry-meta .fa {
+    margin-left: 5px;
+}
+.st-primary-wrapper .post .entry-meta .meta-span, .st-primary-wrapper .page .entry-meta .meta-span {
+    margin-left: 15px;
+    margin-right: 0;
+    display: inline-block;
+}
+.comment-navigation .nav-previous, .posts-navigation .nav-previous, .post-navigation .nav-previous {
+    float: right;
+}
+.comment-navigation .nav-next, .posts-navigation .nav-next, .post-navigation .nav-next {
+    float: left;
+    text-align: left;
+}
+.mr-5 {
+    margin-left: 5px;
+}
+.mr-10 {
+    margin-left: 10px;
+}
+.mr-20 {
+    margin-left: 20px;
+}
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
+	float: right;
+}
+.site-info .col-md-6 {
+	float: right;
+}
+.main-navigation ul ul {
+	left: auto;
+	right: -999em;
+}
+.main-navigation ul li:hover > ul, .main-navigation ul li.focus > ul {
+	right: auto;
+}
+.main-navigation ul ul ul {
+	right: -999em;
+	left: auto;
+}
+.main-navigation ul ul li:hover > ul, .main-navigation ul ul li.focus > ul {
+	right: 100%;
+	left: auto;
+}
+.main-navigation .sub-menu {
+    text-align: right;
+}

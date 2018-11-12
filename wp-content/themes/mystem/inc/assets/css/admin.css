@@ -1,0 +1,84 @@
+.mystem-wrap {
+	max-width: 1100px;
+	margin-right: 20px;
+}
+.mystem-about {
+	margin: 1em 200px 1em 0;
+	min-height: 60px;
+	color: #555d66;
+	font-weight: 400;
+	line-height: 1.6em;
+	font-size: 19px;
+}
+.mystem-about p {
+	font-size: 19px;
+	color: #404040;	
+}
+.mystem-content {
+	margin:25px 0;	
+}
+.mystem-thanks {	
+	margin-top: 55px;
+	padding: 20px 0;
+	line-height: 1.5;
+  font-size: 16px;
+	font-style: italic;
+	width: 100%;
+}
+
+.mystem-wrap input[type=text], .mystem-wrap input[type=number], .mystem-wrap select , .mystem-wrap textarea, .mystem-wrap input[type=email], .mystem-wrap input[type=url]{	
+	border: 1px solid #cecece;
+	padding: 10px;
+	width: 100%;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	display: inline-block;
+}	
+.mystem-wrap textarea{height:150px;}	
+.mystem-wrap select {height:40px;}
+
+
+.mystem-wrap .box{
+		width: 100%;
+    background: #fff;
+    padding: 10px;    
+    margin-top: 25px;
+    box-sizing: border-box;
+}
+
+.mystem-wrap .myrow{
+	display: flex;
+	display: -webkit-flex;
+	display: -moz-flex;
+}
+
+.mystem-wrap .mycol{
+	width:100%;
+	padding: 10px;
+}
+
+
+.my-alert-error {
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+}
+
+.my-alert-update {
+    color: #94a540;
+    background-color: #e7f7e3;
+    border-color: #c7e5dc;
+}
+
+.my-alert {
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid transparent;
+    vertical-align: middle;
+}
+p.my_error {
+	margin: 0 !important;
+}

@@ -1,0 +1,33 @@
+## Changelog
+
+
+= 1.1.2. Sep 19th 2017 =
+* fixed: Comments from  responsiveness issue -  style.css
+* added: Help message added in footer widget - footer.php
+
+= 1.1.1. Aug 16th 2017 =
+* fixed:  Site footer responsiveness issue on mobile - footer.php & style.css
+* added: Full post content show option in customizing setting - content.php and shuban-customizer-theme.php
+
+= 1.1.0. Jul 16th 2017 =
+* fixed: Unique prefixes for constants
+* added: Help menu in Admin bar
+
+= 1.0.4 - Jul 15 2017 =
+* fixed: translatable strings in featured-posts.php & template-tags.php
+
+= 1.0.3 - Jul 15 2017 =
+* Update theme & author URI
+* Add credits
+* Remove third party prefix
+
+= 1.0.2 - Jun 28 2017 =
+* Add source css & js files
+
+= 1.0.1 - Jun 25 2017 =
+* Licence Update
+* Google fonts enqueue
+* added rtl.css
+
+= 1.0 - Apr 30 2017 =
+* Initial release

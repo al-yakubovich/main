@@ -1,0 +1,49 @@
+/**
+ * Theme Name:     Gist Grid
+ * Author:         candidthemes
+ * Template:       gist
+ * Text Domain:	   gist-grid
+ * Description:    Gist Gird is the Child Theme of <a href="https://www.candidthemes.com/themes/gist-clean-minimal-wordpress-blog-theme/">Gist.</a> This theme is best ever crafted free WordPress theme for Blog, news and Magazine. It is a simple, easy to use, modern and creative, user friendly WordPress theme with typography, fonts and color options. In addition Gist Gird is responsive, cross browser compatible and child theme ready. Gist comes with added custom widgets for social and author, sticky sidebar options, footer widget, sidebar options, meta option, copyright option, social options etc. 
+ * Theme URI:      https://www.candidthemes.com/themes/gist-grid-responsive-wordpress-theme/
+ * Author URI:     https://www.candidthemes.com/
+ * Version:        1.0.0
+ * License:        GNU General Public License v2 or later
+ * License URI:    http://www.gnu.org/licenses/gpl-2.0.html
+ * Tags:           two-columns, right-sidebar, custom-background, custom-colors, custom-menu, featured-images, theme-options, threaded-comments, translation-ready, blog
+ */
+.p-15 .entry-content {
+    display: block;
+    overflow: hidden;
+}
+.p-15 .entry-header, 
+.p-15 .entry-footer{
+	text-align: left;
+}
+.p-15 .entry-content p{
+	margin-bottom: 15px;
+}
+.btn-primary {
+    border: none;
+    padding: 0;
+}
+.btn-primary:hover {
+    color: #555;
+}
+.btn-primary:hover {
+    background-color: #fff;
+}
+a.btn-primary::after {
+	content: "\f101";
+    font-family: FontAwesome;
+    position: relative;
+}
+.widget-title {
+    text-align: initial;
+}
+.widget-title:after {
+    left: 0;
+    margin-left: 0;
+}
+.p-15 .entry-content {
+    margin: 0;
+}

@@ -1,0 +1,4 @@
+.s_d_bc{background:#f2f2f2;border-radius:2px;margin:15px auto;word-wrap:break-word;word-break:break-word}.s_d_bc_thum_wrap{-webkit-order:1;order:1}.s_d_bc_thum{border-radius:2px 2px 0 0}
+.s_d_bc_thum:before{padding-top:50%}.s_d_bc_thum a{-webkit-tap-highlight-color:transparent}.s_d_bc_entry_wrap{-webkit-flex:0 0 auto;flex:0 0 auto;-webkit-order:2;order:2;margin:10px 15px;word-break:break-word}
+.s_d_bc_title{max-height:40px;margin:0;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}.s_d_bc_info{line-height:16px;margin-top:3px}
+.s_d_bc_favicon{height:16px;width:16px}.s_d_bc_link{color:#062;max-height:16px;overflow:hidden}.s_d_bc_summary{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden;margin:5px 0;line-height:22px;border-top:1px solid #eee;padding-top:6px}

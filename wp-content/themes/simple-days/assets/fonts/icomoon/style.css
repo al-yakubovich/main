@@ -1,0 +1,126 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('icomoon.eot?woznc2');
+  src:  url('icomoon.eot?woznc2#iefix') format('embedded-opentype'),
+    url('icomoon.ttf?woznc2') format('truetype'),
+    url('icomoon.woff?woznc2') format('woff'),
+    url('icomoon.svg?woznc2#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  
+  font-family: 'icomoon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+
+  text-transform: none;
+
+
+  
+  letter-spacing: 0;
+  -webkit-font-feature-settings: "liga";
+  -moz-font-feature-settings: "liga=1";
+  -moz-font-feature-settings: "liga";
+  -ms-font-feature-settings: "liga" 1;
+  font-feature-settings: "liga";
+  -webkit-font-variant-ligatures: discretionary-ligatures;
+  font-variant-ligatures: discretionary-ligatures;
+
+  
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-no:before {
+  content: "\e919";
+}
+.icon-flickr_r:before {
+  content: "\e91c";
+}
+.icon-flickr_l:before {
+  content: "\e91d";
+}
+.icon-meetup:before {
+  content: "\e903";
+}
+.icon-soundcloud:before {
+  content: "\e902";
+}
+.icon-codepen:before {
+  content: "\e900";
+}
+.icon-amazon:before {
+  content: "\e901";
+}
+.icon-pinterest:before {
+  content: "\e905";
+}
+.icon-pocket:before {
+  content: "\e906";
+}
+.icon-instagram:before {
+  content: "\e907";
+}
+.icon-youtube:before {
+  content: "\e908";
+}
+.icon-reddit:before {
+  content: "\e909";
+}
+.icon-rss:before {
+  content: "\e90a";
+}
+.icon-line:before {
+  content: "\e90b";
+}
+.icon-feedly:before {
+  content: "\e90c";
+}
+.icon-evernote:before {
+  content: "\e90d";
+}
+.icon-whatsapp:before {
+  content: "\e90e";
+}
+.icon-vimeo:before {
+  content: "\e90f";
+}
+.icon-hatenabookmark:before {
+  content: "\e910";
+}
+.icon-linkedin:before {
+  content: "\e911";
+}
+.icon-twitter:before {
+  content: "\e912";
+}
+.icon-buffer:before {
+  content: "\e913";
+}
+.icon-messenger:before {
+  content: "\e914";
+}
+.icon-tumblr:before {
+  content: "\e915";
+}
+.icon-facebook:before {
+  content: "\e916";
+}
+.icon-github:before {
+  content: "\e917";
+}
+.icon-digg:before {
+  content: "\e918";
+}
+.icon-googleplus:before {
+  content: "\e91a";
+}
+.icon-mail:before {
+  content: "\e904";
+}
+.icon-pushpin:before {
+  content: "\e946";
+}

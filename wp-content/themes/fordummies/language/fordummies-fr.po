@@ -1,0 +1,882 @@
+# Translation of Themes - fordummies in French (France)
+# This file is distributed under the same license as the Themes - fordummies package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-07 15:55:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - fordummies\n"
+
+#. Description of the plugin/theme
+msgid "For Dummies is a non intimidating and easy-to-use WordPress theme with responsive design (optimal viewing and interaction with a wide range of devices – PC/Tablet/SmartPhone). Online guide, automatic suggested plugins installer and only 1 click demo install.  ForDummies is a modernized take on an ever-popular WordPress layout — the horizontal masthead with an optional right sidebar that works perfectly for blogs and websites. It has custom color options (also menu) with beautiful default color schemes (black or white skin with only 1 click), 3 footer widgets, layout Full or boxed. WooCommerce compatible also multilingual ready. Dedicated Search Results and 404 page. Social menu available. Header phone, email and hours. Background opacity control, Footer Copyright configurator and a lot more. Included slider and a lot of shortcodes. Visit our demo site (www.ThemeForDummies.com) for updated Online Guide e more."
+msgstr "For Dummies est un thème WordPress non intimidant et facile à utiliser avec un design responsive (vision et interaction optimales avec une large gamme de périphériques - PC / Tablet / SmartPhone). Guide en ligne, installateur automatique d’extensions suggérées et installation en 1 clic de la démo. ForDummies est une réalisation moderne avec une mise en page WordPress des plus populaires - Un en-tête horizontal avec une colonne latérale droite optionnelle qui fonctionne parfaitement pour les blogs et les sites web. Il a des options de couleur personnalisées (également pour le menu) avec de beaux jeux de couleurs par défaut (peau noire ou blanche avec 1 seul clic), 3 widgets pied de page, la mise en page complète ou en boîte. WooCommerce compatible et prêt pour le multilingue. Pages de résultats de recherche dédiés et 404 dédiées. Menu social disponible. Téléphone, e-mail et horaires d’en-tête. Contrôle d'opacité en arrière-plan, configurateur de Copyright de pied de page et bien plus. Diaporama et beaucoup de codes courts inclus. Visitez notre site de démo (www.ThemeForDummies.com) pour le guide en ligne mis à jour."
+
+#. #-#-#-#-#  fordummies.pot (fordummies 1.14)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/pinstaller.php:99
+msgid "fordummies"
+msgstr "Fordummies"
+
+#: inc/feedback.php:47
+msgid "Remind me later"
+msgstr "Rappelez-moi plus tard"
+
+#: inc/feedback.php:46
+msgid "or"
+msgstr "ou"
+
+#: inc/feedback.php:45
+msgid "No, dismiss"
+msgstr "Non, rejeter"
+
+#: inc/feedback.php:44
+msgid "Rate or Share"
+msgstr "Évaluez ou partagez"
+
+#: inc/feedback.php:42
+msgid "If you like this theme, please write a few words about it. It will help other people find this useful theme more quickly.<br><b>Thank you!</b>"
+msgstr "Si vous aimez ce thème, écrivez quelques mots à son sujet. Cela va aider les autres à trouver plus rapidement ce thème utile. <br><b>Merci !</b>"
+
+#: inc/feedback.php:41
+msgid "Hello, my name is Bill Minozzi, and I am developer of Theme <b>For Dummies</b>.<br>"
+msgstr "Bonjour, mon nom est Bill Minozzi et je suis le développeur du thème <b>For Dummies</b>.<br>"
+
+#: trt-customize-pro/class-customize.php:91
+msgid "Pro Version"
+msgstr "Version Pro"
+
+#: trt-customize-pro/class-customize.php:77
+#: trt-customize-pro/class-customize.php:92
+msgid "Go"
+msgstr "Aller"
+
+#: trt-customize-pro/class-customize.php:76
+msgid "Online Guide"
+msgstr "Guide en ligne"
+
+#. Template Name of the plugin/theme
+msgid "No-Sidebar"
+msgstr "Aucune colonne latérale"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation de l’extension %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Toutes les installations ont été accomplies."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s a bien été installée."
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Le processus d'installation a commencé. Ce processus peut prendre du temps chez certains hébergeurs, alors soyez patient."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation et activation de l’extension %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Toutes les installations et les activations ont été accomplies."
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Masquer les détails"
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Afficher les détails  "
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s a bien été installée et activée."
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Le processus d'installation et d'activation commence. Ce processus peut prendre un certain temps chez certains hébergeurs, donc veuillez être patient."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "L’installation de %1$s a échoué."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Une erreur est apparue lors de l’installation de %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Mise à jour de l’extension %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "L'activation de l'extension a échoué."
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Aucune extension n’est disponible à l’activation pour le moment."
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Aucune extension n’a été sélectionnée pour être activée. Aucune mesure prise."
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Aucune mise à jour d’extension n’est actuellement disponible."
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Aucune extension n'est disponible pour être installée pour le moment."
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Aucune extension n'a été sélectionnée pour être mise à jour. Aucune mesure prise."
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Aucune extension n'a été sélectionnée pour être installée. Aucune mesure prise."
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activer"
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Installer"
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Message de mise à jour de l’auteur de l’extension :"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activer %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Mettre à jour %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Installer %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "État"
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "﻿Version"
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Type"
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Source"
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Extension"
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Aucune extension à installer, à mettre à jour ou à activer."
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Version disponible :"
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Version minimum nécessaire :"
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Version installée :"
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "inconnue"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Pour activer <span class=\"count\">(%s)</span>"
+msgstr[1] "Pour activer <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Mise à jour disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Mises à jour disponibles <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Pour installer <span class=\"count\">(%s)</span>"
+msgstr[1] "Pour installer <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tout <span class=\"count\">(%s)</span>"
+msgstr[1] "Tous <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Mise à jour recommandée"
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Mise à jour nécessaire"
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Mise à jour nécessaire indisponible"
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Active"
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Installée mais non activée"
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Non installée"
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pré-packagée"
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Source externe"
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Référentiel WordPress"
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recommandée"
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Nécessaire"
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "et"
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Le pack d’extension distant se compose de plusieurs fichiers, mais les fichiers ne sont pas assemblés dans un dossier."
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Veuillez contacter le fournisseur de l’extension et demandez-lui de conditionner son extension selon les lignes directrices de WordPress."
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Le pack d’extension distant ne contient pas de dossier avec l’identifiant désiré et le renommage ne fonctionne pas."
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Mise à jour nécessaire"
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Cette extension a besoin d’être mise à jour pour être compatible avec votre thème."
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Veuillez contacter l’administrateur du site pour obtenir de l’aide."
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Il y a une ou plusieurs extensions nécessaires ou recommandées à installer, mettre à jour ou activer."
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Ignorer cet avertissement"
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Toutes les extensions ont été installées et activées avec succès. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "L’extension n’est pas activée. Une version plus récente de %s est nécessaire pour ce thème. Veuillez mettre à jour l’extension."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Aucune mesure prise. L’extension %1$s était déjà active."
+
+#: inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr "L’extension suivante a bien été activée :"
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Extension bien activée."
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Retour au tableau de Bord"
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Retourner à l'installateur d’extensions nécessaires"
+
+#: inc/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Commencer l’activation de l’extension"
+msgstr[1] "Commencer l’activation des extensions"
+
+#: inc/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Commencer la mise à jour de l’extension"
+msgstr[1] "Commencer la mise à jour des extensions"
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Commencer l’installation de l’extension"
+msgstr[1] "Commencer l’installation des extensions"
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Un problème est survenu avec l'API de l’extension."
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Mise à jour de l'extension : %s"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Installation de l’extension : %s"
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Installer des extensions"
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Installer les extensions nécessaires"
+
+#: template-parts/content.php:14
+msgid "Featured"
+msgstr "Mis en avant"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semble que ce que vous cherchez est introuvable. Peut-être une recherche peut aider."
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à votre recherche. Veuillez réessayer avec des mots clés différents."
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt à publier votre premier article ? <a href=\"%1$s\">Commencez ici</a>."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "﻿Rien n’a été trouvé"
+
+#: template-parts/biography.php:33
+msgid "View all posts by %s"
+msgstr "Voir tous les articles de %s"
+
+#: template-parts/biography.php:28
+msgid "Author:"
+msgstr "Auteur :"
+
+#: single.php:38
+msgid "Previous post:"
+msgstr "Article précédent :"
+
+#: single.php:37
+msgid "Previous"
+msgstr "Précédent"
+
+#: single.php:35
+msgid "Next post:"
+msgstr "Article suivant :"
+
+#: single.php:34
+msgid "Next"
+msgstr "Suiv."
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "Rechercher"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Rechercher &hellip;"
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr "Recherche pour :"
+
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Résultats de la recherche pour : %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:184 template-parts/content.php:28
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Poursuive la lecture<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/template-tags.php:106
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Étiquettes"
+
+#: inc/template-tags.php:98
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Catégories"
+
+#: inc/template-tags.php:95 inc/template-tags.php:103
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ","
+
+#: inc/template-tags.php:79
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Publié le"
+
+#: inc/template-tags.php:50
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Laisser un commentaire<span class=\"screen-reader-text\"> sur %s</span>"
+
+#: inc/template-tags.php:38
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Format"
+
+#: inc/template-tags.php:25
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Auteur"
+
+#: inc/customizer.php:732
+msgid "Bue"
+msgstr "Bleue"
+
+#: inc/customizer.php:721
+msgid "Orange"
+msgstr "Orange"
+
+#: inc/customizer.php:699
+msgid "Dark"
+msgstr "Foncée"
+
+#: inc/customizer.php:688
+msgid "Default"
+msgstr "Par défaut"
+
+#: inc/customizer.php:621
+msgid "Secondary Text Color"
+msgstr "Couleur du secondaire Texte"
+
+#: inc/customizer.php:611
+msgid "Main Text Color"
+msgstr "Couleur du texte principal"
+
+#: inc/customizer.php:601
+msgid "Link Color"
+msgstr "Couleur de lien"
+
+#: inc/customizer.php:589
+msgid "Page Background Color"
+msgstr "Couleur d’arrière-plan de page"
+
+#: inc/customizer.php:576
+msgid "Base Color Scheme"
+msgstr "Jeu de couleurs de base"
+
+#: inc/customizer.php:449
+msgid "Sub Menu Hover Background"
+msgstr "Couleur d'arrière-plan du sous-menu au survol"
+
+#: inc/customizer.php:435
+msgid "Sub Menu Hover color"
+msgstr "Couleur du texte du sous-menu au survol"
+
+#: inc/customizer.php:421
+msgid "Sub Menu Text Color"
+msgstr "Couleur du texte du sous-menu"
+
+#: inc/customizer.php:407
+msgid "Sub Menu Background"
+msgstr "Arrière-plan du sous-menu"
+
+#: inc/customizer.php:393
+msgid "Menu Text Hover Color"
+msgstr "Couleur du texte du menu au survol"
+
+#: inc/customizer.php:379
+msgid "Menu Text Color"
+msgstr "Couleur du texte de menu"
+
+#: inc/customizer.php:365
+msgid "Background Navigation Color"
+msgstr "Couleur d’arrière-plan de navigation"
+
+#: inc/customizer.php:350
+msgid "Choose from 12 to 20 Pixels."
+msgstr "Choisissez de 12 à 20 pixels."
+
+#: inc/customizer.php:349
+msgid "Menu Font Size"
+msgstr "Taille de la police du menu"
+
+#: inc/customizer.php:334
+msgid "Choose from 0 to 50 Pixels."
+msgstr "Choisissez de 0 à 50 Pixels."
+
+#: inc/customizer.php:333
+msgid "Menu Margin Top"
+msgstr "Marge supérieure du menu"
+
+#: inc/customizer.php:321
+msgid "Change Navigation detais here."
+msgstr "Modifiez ici les détails de navigation."
+
+#: inc/customizer.php:317
+msgid "Main Navigation Design"
+msgstr "Conception de la navigation principale"
+
+#: inc/customizer.php:305
+msgid "Copyright Text Color"
+msgstr "Couleur du texte du Copyright"
+
+#: inc/customizer.php:291
+msgid "Copyright Background Color"
+msgstr "Couleur d'arrière-plan du Copyright"
+
+#: inc/customizer.php:280
+msgid "Copyright Footer Text Here"
+msgstr "Texte de copyright de pied de page ici"
+
+#: inc/customizer.php:268
+msgid "Footer Copyright"
+msgstr "Copyright de pied de page"
+
+#: inc/customizer.php:259
+msgid "Black"
+msgstr "Noir"
+
+#: inc/customizer.php:258 inc/customizer.php:710
+msgid "Gray"
+msgstr "Gris"
+
+#: inc/customizer.php:257
+msgid "White"
+msgstr "Blanc"
+
+#: inc/customizer.php:254
+msgid "Top Page Info Color"
+msgstr "Couleur des infos supérieures de page"
+
+#: inc/customizer.php:240
+msgid "Top Info Hours"
+msgstr "Info horaires supérieure"
+
+#: inc/customizer.php:231
+msgid "Top Info eMail"
+msgstr "Info e-mail supérieure"
+
+#: inc/customizer.php:222
+msgid "Top Info Phone"
+msgstr "Info téléphone supérieure"
+
+#: inc/customizer.php:213
+msgid "No"
+msgstr "Non"
+
+#: inc/customizer.php:212
+msgid "Yes"
+msgstr "Oui"
+
+#: inc/customizer.php:209
+msgid "Show or Hide Top Header Info (email, phone, hours) and Social Media Menu at top header."
+msgstr "Afficher ou masquer les infos d’en-tête supérieur (courriel, téléphone, heures) et Menu Social Media en haut-tête."
+
+#: inc/customizer.php:208
+msgid "Show Top Header?"
+msgstr "Afficher l’en-tête supérieur ?"
+
+#: inc/customizer.php:191
+msgid "Top Header Settings"
+msgstr "Réglages de l'en-tête supérieur"
+
+#: inc/customizer.php:179
+msgid "Choose from .6 to 1"
+msgstr "Choisissez de .6 à 1"
+
+#: inc/customizer.php:178
+msgid "Background transparency (opacity)"
+msgstr "Transparence de l’arrière-plan (opacité)"
+
+#: inc/customizer.php:162
+msgid "Website Layout"
+msgstr "Mise en page du site web"
+
+#: inc/customizer.php:144
+msgid "Show entry-title"
+msgstr "Afficher entry-title"
+
+#: inc/customizer.php:131
+msgid "Change General options here."
+msgstr "Modifiez ici les options générales."
+
+#: inc/customizer.php:128
+msgid "Layout"
+msgstr "Mise en page"
+
+#: inc/customizer.php:116
+msgid "Choose from -20px to 100px"
+msgstr "Choisissez de -20px à 100px"
+
+#: inc/customizer.php:113
+msgid "Logo Margin From Top"
+msgstr "Définissez la marge supérieure du logo."
+
+#: inc/back-compat.php:41 inc/back-compat.php:53 inc/back-compat.php:68
+msgid "For dummies requires at least WordPress version 4.4. You are running version %s. Please upgrade and try again."
+msgstr "For Dummies nécessite au moins la version 4.4 de WordPress. Vous exécutez la version %s. Veuillez mettre à jour et essayez à nouveau."
+
+#: image.php:102 single.php:29
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Publié dans</span><span class=\"post-title\">%title</span>"
+
+#. translators: %s: Name of current post
+#: image.php:84 template-parts/content-page.php:37
+#: template-parts/content-search.php:28 template-parts/content-search.php:43
+#: template-parts/content-single.php:45 template-parts/content.php:49
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Modifier <span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: image.php:73
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Grande taille"
+
+#: image.php:56 template-parts/content-page.php:23
+#: template-parts/content-single.php:25 template-parts/content.php:33
+msgid "Pages:"
+msgstr "Pages :"
+
+#: image.php:25
+msgid "Next Image"
+msgstr "Image suivante"
+
+#: image.php:24
+msgid "Previous Image"
+msgstr "Image précédente"
+
+#: header.php:109
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: functions.php:335
+msgid "collapse child menu"
+msgstr "Replier le menu enfant"
+
+#: functions.php:334
+msgid "expand child menu"
+msgstr "développer le menu enfant"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:278
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "marche"
+
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:274
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "marche"
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:270
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "marche"
+
+#: functions.php:247
+msgid "Add widgets here to appear in your right footer."
+msgstr "Ajoutez ici des widgets qui apparaitront dans votre pied-de-page droit."
+
+#: functions.php:245
+msgid "Third Footer Widget"
+msgstr "Troisième zone de widget de pied de page"
+
+#: functions.php:238
+msgid "Add widgets here to appear in your center footer."
+msgstr "Ajoutez ici des widgets qui apparaitront dans votre pied-de-page centre."
+
+#: functions.php:236
+msgid "Second Footer Widget"
+msgstr "Seconde zone de widget de pied de page"
+
+#: functions.php:229
+msgid "Add widgets here to appear in your left footer."
+msgstr "Ajoutez ici des widgets qui apparaitront dans votre pied-de-page gauche."
+
+#: functions.php:227
+msgid "First Footer Widget"
+msgstr "Première zone de widget de pied de page"
+
+#: functions.php:220
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Ajoutez ici les widgets qui vont apparaître dans votre colonne latérale."
+
+#: functions.php:218
+msgid "Sidebar"
+msgstr "Colonne latérale"
+
+#: functions.php:157 header.php:61
+msgid "Social Links Menu"
+msgstr "Onglets principaux"
+
+#: functions.php:156 header.php:112
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: footer.php:51
+msgid "Powered by ThemeForDummies.com"
+msgstr "Propulsé par ThemeForDummies.com"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s réponse à &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s réponses à &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un commentaire sur &ldquo;%s&rdquo;"
+
+#: archive.php:51 image.php:60 index.php:48 search.php:42
+#: template-parts/content-page.php:27 template-parts/content-single.php:29
+#: template-parts/content.php:37
+msgid "Page"
+msgstr "Page"
+
+#: archive.php:50 index.php:47 search.php:41
+msgid "Next page"
+msgstr "Page suivante"
+
+#: archive.php:49 index.php:46 search.php:40
+msgid "Previous page"
+msgstr "Page précédente"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "On dirait que rien n'a été trouvé à cet endroit. Essayez peut-être une recherche."
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops ! Cette page n'a pas pû être trouvée."
+
+#. Author URI of the plugin/theme
+msgid "http://billminozzi.com/"
+msgstr "http://billminozzi.com/"
+
+#. #-#-#-#-#  fordummies.pot (fordummies 1.14)  #-#-#-#-#
+#. Author of the plugin/theme
+#: inc/feedback.php:38
+msgid "Bill Minozzi"
+msgstr "Bill Minozzi"
+
+#. Theme URI of the plugin/theme
+msgid "http://themefordummies.com/"
+msgstr "http://themefordummies.com/"

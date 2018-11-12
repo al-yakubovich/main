@@ -1,0 +1,306 @@
+/*
+Theme Name: Omtria
+
+Adding support for languages written in a Right To Left (RTL) direction is easy.
+It's only about overwriting of all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+Please check https://codex.wordpress.org/Right_to_Left_Language_Support
+
+
+Table of Contents:
+------------------------------
+1.0 - BASE
+  1.1 - Base
+  1.2 - Typography
+  1.3 - Elements
+
+2.0 - LAYOUT
+  2.1 - Header
+
+3.0 - THEME COMPONENTS
+  3.1 - Menu header button
+  3.2 - Post
+  3.3 - Post detail
+  3.4 - Comments
+  3.5 - Searching
+  3.6 - 404
+
+4.0 - WORDPRESS COMPONENTS
+  4.1 - Pagination
+  4.2 - Widgets
+*/
+
+
+
+/* ------------------------------------------------------------ *
+    1.0 - #BASE
+\* ------------------------------------------------------------ */
+
+/*  1.1 - #Base
+------------------------------ */
+body {
+  direction: rtl;
+  unicode-bidi: embed;
+}
+
+body.home .col-sm-8 {
+  float: right;
+}
+
+body.home .col-sm-4 {
+  float: left;
+}
+
+
+/*  1.2 - #Typography
+------------------------------ */
+blockquote {
+  border-left: 0;
+  border-right: 0.25em solid #1cca5a;
+}
+
+
+/*  1.3 - #Elements
+------------------------------ */
+ul,
+ol {
+  padding: 0 1.125em 0 0;
+}
+
+caption,
+th,
+td {
+  text-align: right;
+}
+
+
+
+/* ------------------------------------------------------------ *
+    2.0 - #LAYOUT
+\* ------------------------------------------------------------ */
+
+/*  2.1 - #Header
+------------------------------ */
+.header-logo {
+  float: right;
+}
+
+.header-button {
+  float: left;
+}
+
+
+
+/* ------------------------------------------------------------ *
+    3.0 - #THEME COMPONENTS
+\* ------------------------------------------------------------ */
+
+/*  3.1 - #Menu header button
+------------------------------ */
+.menu-header-button {
+  margin-right: 0;
+  margin-left: -0.625em;
+}
+
+
+/*  3.2 - #Post
+------------------------------ */
+.post-sticky {
+  left: auto;
+  right: 1.875em;
+}
+
+.post .post-edit-link {
+  right: auto;
+  left: 0;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0.1875em;
+}
+
+.post-title:before {
+  left: auto;
+  right: 0;
+}
+
+.post-footer-info {
+  float: right;
+}
+
+.post-footer-author {
+  float: left;
+}
+
+.post-footer-author img {
+  margin-right: 0;
+  margin-left: 0.83333em;
+}
+
+/* Responsive - Mobiles */
+@media (max-width: 767px) {
+  .post-sticky {
+    right: 20px;
+    right: 1.25rem;
+  }
+}
+
+
+/*  3.3 - #Post detail
+------------------------------ */
+.post-detail-attachment-button--left {
+  left: auto;
+  right: 0;
+}
+
+.post-detail-attachment-button--right {
+  right: auto;
+  left: 0;
+}
+
+.post-detail-footer-info {
+  float: right;
+  padding: 0.14286em 0 0 1.42857em;
+}
+
+.post-detail-footer-author {
+  float: left;
+  padding-left: 0;
+  padding-right: 1.42857em;
+  text-align: left;
+}
+
+.post-detail-footer-author img {
+  margin-right: 0;
+  margin-left: 0.71429em;
+}
+
+
+/*  3.4 - #Comments
+------------------------------ */
+.comments .children {
+  margin-left: 0;
+  margin-right: 3.07143em;
+}
+
+.comments .comment-author img {
+  margin-right: 0;
+  margin-left: 0.71429em;
+}
+
+.comments .comment-metadata {
+  float: right;
+  margin-left: 0;
+  margin-right: 1em;
+  padding-left: 0;
+  padding-right: 1em;
+}
+
+.comments .comment-metadata:before {
+  left: auto;
+  right: -0.83333em;
+}
+
+.comments .comment-author {
+  float: right;
+}
+
+.comments .edit-link {
+  right: auto;
+  left: 0;
+}
+
+.comments .comment-content {
+  padding: 0.35714em 3.07143em 0 1.42857em;
+}
+
+.comments .reply {
+  padding-left: 0;
+  padding-right: 3.07143em;
+}
+
+.comments .comment-reply-title small {
+  float: left;
+}
+
+.comments .comment-awaiting-moderation {
+  padding-left: 0;
+  padding-right: 3.07143em;
+}
+
+.comments .form-submit {
+  text-align: left;
+}
+
+
+/*  3.5 - #Searching
+------------------------------ */
+.search-form label {
+  float: right;
+  padding-right: 0;
+  padding-left: 5px;
+  padding-left: 0.3125rem;
+}
+
+
+/*  3.6 - #Page 404
+------------------------------ */
+.page-404-footer a span {
+  display: none;
+}
+
+
+
+/* ------------------------------------------------------------ *
+    4.0 - #WORDPRESS COMPONENTS
+\* ------------------------------------------------------------ */
+
+/*  4.1 - #Pagination
+------------------------------ */
+.pagination .page-numbers.prev {
+  left: auto;
+  right: 0.71429em;
+}
+
+.pagination .page-numbers.prev:before {
+  content: "\f30b";
+  padding-right: 0;
+  padding-left: 0.57143em;
+}
+
+.pagination .page-numbers.next {
+  right: auto;
+  left: 0.71429em;
+}
+
+.pagination .page-numbers.next:after {
+  content: "\f30a";
+  padding-left: 0;
+  padding-right: 0.57143em;
+}
+
+
+/*  4.2 - #Widgets
+------------------------------ */
+.widget-section > ul,
+.widget-section .menu {
+  padding-right: 0;
+}
+
+.widget-section-title {
+  padding: 0 0.55556em 0.61111em 0;
+}
+
+.widget-section-title:before {
+  left: auto;
+  right: 0;
+}
+
+.widget_archive li:before,
+.widget_categories li:before,
+.widget_nav_menu li:before,
+.widget_meta li:before,
+.widget_pages li:before {
+  content: "\f053";
+  padding-right: 0;
+  padding-left: 0.77778em;
+}

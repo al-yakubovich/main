@@ -1,0 +1,223 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BoldR Lite 1.1\n"
+"POT-Creation-Date: 2014-10-27 15:23+0100\n"
+"PO-Revision-Date: 2014-10-27 15:23+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:16
+msgid "404"
+msgstr "404"
+
+#: ../404.php:20
+msgid "Page Not Found"
+msgstr "Pagina non trovata"
+
+#: ../404.php:21 ../index.php:122 ../page-full-width.php:55 ../page.php:54
+#: ../single.php:128
+msgid "What you are looking for isn't here..."
+msgstr "Quello che stavi cercando non è qui..."
+
+#: ../404.php:22
+msgid "Maybe a search will help ?"
+msgstr "Forse una ricerca può aiutare?"
+
+#: ../comments.php:17
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Questo articolo è protetto da una password. Inserisci la password per "
+"visualizzarne i commenti."
+
+#: ../comments.php:23
+#, php-format
+msgid "One Response to %2$s"
+msgstr "Una risposta a %2$s"
+
+#: ../comments.php:29
+msgid "Reply"
+msgstr "Rispondi"
+
+#: ../comments.php:37
+msgid "Older comments"
+msgstr "Vecchi commenti"
+
+#: ../comments.php:40
+msgid "Newer comments"
+msgstr "Nuovi commenti"
+
+#: ../comments.php:49
+msgid "Comments are closed."
+msgstr "I commenti sono disattivati."
+
+#: ../footer.php:25
+msgid "Proudly powered by"
+msgstr "Orgogliosamente motorizzato da"
+
+#: ../functions.php:88
+#, php-format
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: ../functions.php:135
+#, php-format
+msgid "<a href=\"%1$s\" style=\"float:right\">Dismiss</a>"
+msgstr "<a href=\"%1$s\" style=\"float:right\">Ignora</a>"
+
+#: ../functions.php:156
+msgid "Default Sidebar"
+msgstr "Sidebar predefinita"
+
+#: ../functions.php:168
+msgid "Footer"
+msgstr "Footer"
+
+#: ../functions.php:299
+msgid "Read More"
+msgstr "Continua a leggere"
+
+#: ../index.php:18
+msgid "Search Results for "
+msgstr "Risultati della ricerca di"
+
+#: ../index.php:23
+msgid "Tag: "
+msgstr "Tag:"
+
+#: ../index.php:28
+msgid "Category: "
+msgstr "Categoria:"
+
+#: ../index.php:33
+msgid "Daily archives: "
+msgstr "Archivio giornaliero:"
+
+#: ../index.php:36
+msgid "Monthly archives: "
+msgstr "Archivio mensile:"
+
+#: ../index.php:39
+msgid "Yearly archives: "
+msgstr "Archivio annuale:"
+
+#: ../index.php:67 ../single.php:36
+msgid "No"
+msgstr "No"
+
+#: ../index.php:67 ../single.php:36
+msgid "1"
+msgstr "1"
+
+#: ../index.php:67 ../single.php:36
+msgid "%"
+msgstr "%"
+
+#: ../index.php:68 ../single.php:37
+msgid "Comment"
+msgstr "Commenti"
+
+#: ../index.php:68 ../single.php:37
+msgid "Comments"
+msgstr "Commenti"
+
+#: ../index.php:68 ../single.php:37
+msgid "Comments Off"
+msgstr "Commenti disattivati"
+
+#: ../index.php:73 ../single.php:42
+msgid "by "
+msgstr "di "
+
+#: ../index.php:77 ../page-full-width.php:37 ../page.php:37 ../single.php:46
+msgid "Edit"
+msgstr "Modifica"
+
+#: ../index.php:92 ../single.php:61
+msgid "Posted in"
+msgstr "Pubblicato in"
+
+#: ../index.php:99 ../single.php:80
+msgid "Tags"
+msgstr "Tags"
+
+#: ../index.php:114 ../index.php:121 ../page-full-width.php:54 ../page.php:53
+#: ../single.php:127
+msgid "Not Found"
+msgstr "Non trovata"
+
+#: ../index.php:115
+#, php-format
+msgid "Your search for \"%s\" did not return any result."
+msgstr "La ricerca di \"%s\" non ha prodotto nessun risultato."
+
+#: ../index.php:116
+msgid "Would you like to try another search ?"
+msgstr "Vuoi provare un'atra ricerca?"
+
+#: ../index.php:130
+msgid "Previous Posts"
+msgstr "Articoli precedenti"
+
+#: ../index.php:134
+msgid "Next Posts"
+msgstr "Articoli successivi"
+
+#: ../page-full-width.php:25 ../page.php:25 ../single.php:68
+msgid "Pages:"
+msgstr "Pagine:"
+
+#: ../page-full-width.php:30 ../page.php:30 ../single.php:73
+msgid "Next page"
+msgstr "Pagina successiva"
+
+#: ../page-full-width.php:31 ../page.php:31 ../single.php:74
+msgid "Previous page"
+msgstr "Pagina precedente"
+
+#: ../sidebar.php:15
+msgid "Recent Posts"
+msgstr "Articoli recenti"
+
+#: ../sidebar.php:20
+msgid "Archives"
+msgstr "Archivi"
+
+#: ../sidebar.php:25
+msgid "Meta"
+msgstr "Meta"
+
+#: ../single.php:90
+msgid "Previous Image"
+msgstr "Immagine precedente"
+
+#: ../single.php:93
+msgid "Next Image"
+msgstr "Immagine successiva"
+
+#: ../single.php:97 ../single.php:114
+msgid "Previous Post"
+msgstr "Articolo precedente"
+
+#: ../single.php:100 ../single.php:117
+msgid "Next Post"
+msgstr "Articolo successivo"
+
+#: ../functions/icefit-options/settings.php:98
+msgid "Responsive mode"
+msgstr "Modalità responsiva"
+
+#: ../functions/icefit-options/settings.php:99
+msgid "Turn this setting off if you want your site to be unresponsive."
+msgstr ""
+"Imposta questa opzione su Disattiva se vuoi disattivare la modalità "
+"responsiva del sito."

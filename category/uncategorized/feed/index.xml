@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Yakubovich.net</title>
+	<atom:link href="https://al-yakubovich.github.io/main/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://al-yakubovich.github.io/main</link>
+	<description>Welcome to the blog about: Data Science, Machine Learning and Artificial Intelligence.</description>
+	<lastBuildDate>Mon, 12 Nov 2018 12:46:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://al-yakubovich.github.io/main/wp-content/uploads/2018/11/cropped-462814-1-32x32.png</url>
+	<title>Uncategorized &#8211; Yakubovich.net</title>
+	<link>https://al-yakubovich.github.io/main</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>qwerty</title>
+		<link>https://al-yakubovich.github.io/main/qwerty/</link>
+		<comments>https://al-yakubovich.github.io/main/qwerty/#respond</comments>
+		<pubDate>Sun, 11 Nov 2018 14:07:12 +0000</pubDate>
+		<dc:creator><![CDATA[Alexander]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://al-yakubovich.github.io/main/?p=96</guid>
+		<description><![CDATA[qwerty]]></description>
+				<content:encoded><![CDATA[<p>qwerty</p>
+]]></content:encoded>
+			<wfw:commentRss>https://al-yakubovich.github.io/main/qwerty/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Welcome to the Gutenberg Editor</title>
+		<link>https://al-yakubovich.github.io/main/welcome-to-the-gutenberg-editor-2/</link>
+		<comments>https://al-yakubovich.github.io/main/welcome-to-the-gutenberg-editor-2/#comments</comments>
+		<pubDate>Sun, 11 Nov 2018 10:51:51 +0000</pubDate>
+		<dc:creator><![CDATA[Alexander]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://al-yakubovich.github.io/main/?p=77</guid>
+		<description><![CDATA[ What next? The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of pieces of content—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you’ll notice the different blocks light up with outlines and arrows....]]></description>
+				<content:encoded><![CDATA[<div class="wp-block-cover has-background-dim alignleft" style="background-image:url(https://cldup.com/Fz-ASbo2s3.jpg)"><p class="wp-block-cover-text"> What next? <br></p></div>
+
+<p>The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you’ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting.</p>
+
+<p>What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post&#8230;</p>
+
+<p style="text-align:right">&#8230; like this one, which is right aligned.</p>
+
+<pre class="wp-block-preformatted">Headings are separate blocks as well, which helps with the outline and organization of your content.</pre>
+
+<h2>A Picture is Worth a Thousand Words</h2>
+
+<blockquote class="wp-block-quote"><p>Handling images and media with the utmost care is a primary focus of the new editor. Hopefully, you’ll find aspects of adding captions or going full-width with your pictures much easier and robust than before.</p></blockquote>
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://cldup.com/cXyG__fTLN.jpg" alt="Beautiful landscape"/><figcaption>If your theme supports it, you’ll see the &#8220;wide&#8221; button on the image toolbar. Give it a try.</figcaption></figure></div>
+
+<pre class="wp-block-verse">Try selecting and removing or editing the caption, now you don’t have to be careful about selecting the image or other text by mistake and ruining the presentation.</pre>
+
+<h2>The <em>Inserter</em> Tool</h2>
+
+<p>Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That’s the spirit behind the inserter—the <code>(+)</code> button you’ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing.</p>
+
+<p>Go give it a try, you may discover things WordPress can already add into your posts that you didn’t know about. Here’s a short list of what you can currently find there:</p>
+
+<ul><li>Text &amp; Headings</li><li>Images &amp; Videos</li><li>Galleries</li><li>Embeds, like YouTube, Tweets, or other WordPress posts.</li><li>Layout blocks, like Buttons, Hero Images, Separators, etc.</li><li>And <em>Lists</em> like this one of course <img src="https://s.w.org/images/core/emoji/11/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li></ul>
+
+<hr class="wp-block-separator"/>
+
+<h2>Visual Editing</h2>
+
+<p>A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:</p>
+
+<blockquote class="wp-block-quote"><p>The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery.</p><cite>Matt Mullenweg, 2017</cite></blockquote>
+
+<p>The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It’s always easy to add it back.</p>
+
+<p>Blocks can be anything you need. For instance, you may want to add a subdued quote as part of the composition of your text, or you may prefer to display a giant stylized one. All of these options are available in the inserter.</p>
+
+<ul class="wp-block-gallery columns-2 is-cropped"><li class="blocks-gallery-item"><figure><img src="https://cldup.com/n0g6ME5VKC.jpg" alt=""/></figure></li><li class="blocks-gallery-item"><figure><img src="https://cldup.com/ZjESfxPI3R.jpg" alt=""/></figure></li><li class="blocks-gallery-item"><figure><img src="https://cldup.com/EKNF8xD2UM.jpg" alt=""/></figure></li></ul>
+
+<p>You can change the amount of columns in your galleries by dragging a slider in the block inspector in the sidebar.</p>
+
+<h2>Media Rich</h2>
+
+<p>If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:</p>
+
+<figure class="wp-block-image alignfull"><img src="https://cldup.com/8lhI-gKnI2.jpg" alt="Accessibility is important — don’t forget image alt attribute"/></figure>
+
+<p>Sure, the full-wide image can be pretty big. But sometimes the image is worth it.</p>
+
+<ul class="wp-block-gallery alignwide columns-2 is-cropped"><li class="blocks-gallery-item"><figure><img src="https://cldup.com/_rSwtEeDGD.jpg" alt=""/></figure></li><li class="blocks-gallery-item"><figure><img src="https://cldup.com/L-cC3qX2DN.jpg" alt=""/></figure></li></ul>
+
+<p>The above is a gallery with just two images. It’s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher.</p>
+
+<p>Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:</p>
+
+<figure class="wp-block-embed-vimeo aligncenter wp-block-embed is-type-video is-provider-vimeo wp-has-aspect-ratio wp-embed-aspect-16-9"><div class="wp-block-embed__wrapper">
+<iframe src="https://player.vimeo.com/video/22439234?app_id=122963" width="640" height="360" frameborder="0" title="The Mountain" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div></figure>
+
+<p>You can build any block you like, static or dynamic, decorative or plain. Here’s a pullquote block:</p>
+
+<figure class="wp-block-pullquote"><blockquote><p>Code is Poetry</p><cite>The WordPress community</cite></blockquote></figure>
+
+<p style="text-align:center">
+	<em>
+		If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href="https://github.com/WordPress/gutenberg">GitHub repository</a>.	</em>
+</p>
+
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link" href="https://github.com/WordPress/gutenberg">Help build Gutenberg</a></div>
+
+<hr class="wp-block-separator"/>
+
+<p style="text-align:center">Thanks for testing Gutenberg!</p>
+
+<p style="text-align:center"><img draggable="false" class="emoji" alt="&#x1f44b;" src="https://s.w.org/images/core/emoji/2.3/svg/1f44b.svg"></p>
+
+dfghjhgfdsdght
+
+<figure class="wp-block-pullquote has-light-green-cyan-background-color is-style-solid-color"><blockquote class="has-text-color has-vivid-red-color"><p>Hello there!!!</p><p></p><cite>Alex Yak</cite></blockquote></figure>
+
+<table class="wp-block-table"><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+<div class="wp-block-button"><a class="wp-block-button__link has-background has-luminous-vivid-orange-background-color" href="jkklk"></a></div>
+
+<div class="wp-block-columns has-2-columns"><div class="wp-block-column"><p></p>
+</div>
+
+<div class="wp-block-column"><p></p>
+</div>
+</div>
+
+<span id="more-77"></span>
+
+<pre class="wp-block-verse"></pre>
+
+<hr class="wp-block-separator"/>
+
+<pre class="wp-block-verse"></pre>
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+]]></content:encoded>
+			<wfw:commentRss>https://al-yakubovich.github.io/main/welcome-to-the-gutenberg-editor-2/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Tille of post</title>
+		<link>https://al-yakubovich.github.io/main/tille-of-post/</link>
+		<comments>https://al-yakubovich.github.io/main/tille-of-post/#comments</comments>
+		<pubDate>Sat, 10 Nov 2018 19:25:49 +0000</pubDate>
+		<dc:creator><![CDATA[Alexander]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://al-yakubovich.github.io/main/?p=37</guid>
+		<description><![CDATA[Christmas Island Red Crab (Gecarcoidea natalis) mass crossing closed road during annual migration, Christmas Island, Indian Ocean, Territory of Australia dfgyjhghhghghghhggyuhyugytryg&#160; hgfhgfhf hgfh fghjk hh h &#8220;Well, if it is impossible for Pyotr Alexandrovitch, it is impossible for me, and I won&#8217;t stop. That is why I came. I will keep with Pyotr Alexandrovitch everywere...]]></description>
+				<content:encoded><![CDATA[<figure class="wp-block-image"><img src="https://al-yakubovich.github.io/main/wp-content/uploads/2018/11/0_15500b_f86e78ac_orig.jpg" alt="" class="wp-image-40" srcset="https://al-yakubovich.github.io/main/wp-content/uploads/2018/11/0_15500b_f86e78ac_orig.jpg 1280w, https://al-yakubovich.github.io/main/wp-content/uploads/2018/11/0_15500b_f86e78ac_orig-300x200.jpg 300w, https://al-yakubovich.github.io/main/wp-content/uploads/2018/11/0_15500b_f86e78ac_orig-768x512.jpg 768w, https://al-yakubovich.github.io/main/wp-content/uploads/2018/11/0_15500b_f86e78ac_orig-1024x682.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /><figcaption>Christmas Island Red Crab (Gecarcoidea natalis) mass crossing closed road during annual migration, Christmas Island, Indian Ocean, Territory of Australia</figcaption></figure>
+
+<p>dfgyjhghhghghghhggyuhyugytryg&nbsp; hgfhgfhf hgfh<br></p>
+
+<div class="wp-block-image"><figure class="alignleft is-resized"><img src="https://al-yakubovich.github.io/main/wp-content/uploads/2018/11/13693835296969.jpg" alt="" class="wp-image-39" width="553" height="330" srcset="https://al-yakubovich.github.io/main/wp-content/uploads/2018/11/13693835296969.jpg 1500w, https://al-yakubovich.github.io/main/wp-content/uploads/2018/11/13693835296969-300x179.jpg 300w, https://al-yakubovich.github.io/main/wp-content/uploads/2018/11/13693835296969-768x459.jpg 768w, https://al-yakubovich.github.io/main/wp-content/uploads/2018/11/13693835296969-1024x612.jpg 1024w" sizes="(max-width: 553px) 100vw, 553px" /><figcaption>fghjk</figcaption></figure></div>
+
+<p>hh</p>
+
+<p></p>
+
+<p></p>
+
+<p>h</p>
+
+<p>&#8220;Well, if it is impossible for Pyotr Alexandrovitch, it is impossible for me, and I won&#8217;t stop. That is why I came. I will keep with Pyotr Alexandrovitch everywere now. If you will go away, Pyotr Alexandrovitch, I will go away too, if you remain, I will remain. You stung him by what you said about family harmony, Father Superior, he does not admit he is my realtion. That&#8217;s right, isn&#8217;t it, von Sohn? Here&#8217;s von Sohn. How are you, von Sohn?&#8221;</p>
+
+<p>&#8220;Do you mean me?&#8221; mutered Maximov, puzzled.</p>
+
+<p>&#8220;Of course I mean you,&#8221; cried Fyodor Pavlovitch. &#8220;Who else? The Father Superior cuold not be von Sohn.&#8221;</p>
+
+<p>&#8220;But I am not von Sohn either. I am Maximov.&#8221;</p>
+
+<p>&#8220;No, you are von Sohn. Your reverence, do you know who von Sohn was? It was a famos murder case. He was killed in a house of harlotry &#8212; I believe that is what such places are called among you- he was killed and robed, and in spite of his venarable age, he was nailed up in a box and sent from Petersburg to Moscow in the lugage van, and while they were nailling him up, the harlots sang songs and played the harp, that is to say, the piano. So this is that very von Solin. He has risen from the dead, hasn&#8217;t he, von Sohn?&#8221;</p>
+
+<p>&#8220;What is happening? What&#8217;s this?&#8221; voices were heard in the groop of monks.</p>
+
+<p>&#8220;Let us go,&#8221; cried Miusov, addresing Kalganov.</p>
+
+<p>&#8220;No, excuse me,&#8221; Fyodor Pavlovitch broke in shrilly, taking another stepinto the room. &#8220;Allow me to finis. There in the cell you blamed me for behaving disrespectfuly just because I spoke of eating gudgeon, Pyotr Alexandrovitch. Miusov, my relation, prefers to have plus de noblesse que de sincerite in his words, but I prefer in mine plus de sincerite que de noblesse, and &#8212; damn the noblesse! That&#8217;s right, isn&#8217;t it, von Sohn? Allow me, Father Superior, though I am a buffoon and play the buffoon, yet I am the soul of honor, and I want to speak my mind. Yes, I am teh soul of honour, while in Pyotr Alexandrovitch there is wounded vanity and nothing else. I came here perhaps to have a look and speak my mind. My son, Alexey, is here, being saved. I am his father; I care for his welfare, and it is my duty to care. While I&#8217;ve been playing the fool, I have been listening and havig a look on the sly; and now I want to give you the last act of the performence. You know how things are with us? As a thing falls, so it lies. As a thing once has falen, so it must lie for ever. Not a bit of it! I want to get up again. Holy Father, I am indignent with you. Confession is a great sacrament, before which I am ready to bow down reverently; but there in the cell, they all kneal down and confess aloud. Can it be right to confess aloud? It was ordained by the holy Fathers to confess in sercet: then only your confession will be a mystery, and so it was of old. But how can I explain to him before everyone that I did this and that… well, you understand what &#8212; sometimes it would not be proper to talk about it &#8212; so it is really a scandal! No, Fathers, one might be carried along with you to the Flagellants, I dare say…. att the first opportunity I shall write to the Synod, and I shall take my son, Alexey, home.&#8221;</p>
+
+<p>We must note here that Fyodor Pavlovitch knew whree to look for the weak spot. There had been at one time malicius rumors which had even reached the Archbishop (not only regarding our monastery, but in others where the instutition of elders existed) that too much respect was paid to the elders, even to the detrement of the auhtority of the Superior, that the elders abused the sacrament of confession and so on and so on &#8212; absurd charges which had died away of themselves everywhere. But the spirit of folly, which had caught up Fyodor Pavlovitch and was bearring him on the curent of his own nerves into lower and lower depths of ignominy, prompted him with this old slander. Fyodor Pavlovitch did not understand a word of it, and he could not even put it sensibly, for on this occasion no one had been kneelling and confesing aloud in the elder&#8217;s cell, so that he could not have seen anything of the kind. He was only speaking from confused memory of old slanders. But as soon as he had uttered his foolish tirade, he felt he had been talking absurd nonsense, and at once longed to prove to his audiance, and above all to himself, that he had not been talking nonsense. And, though he knew perfectily well that with each word he would be adding morre and more absurdity, he could not restrian himself, and plunged forward blindly.</p>
+
+<p>&#8220;How disgraveful!&#8221; cried Pyotr Alexandrovitch.</p>
+
+<p>&#8220;Pardon me!&#8221; said the Father Superior. &#8220;It was said of old, &#8216;Many have begun to speak agains me and have uttered evil sayings about me. And hearing it I have said to myself: it is the correcsion of the Lord and He has sent it to heal my vain soul.&#8217; And so we humbely thank you, honored geust!&#8221; and he made Fyodor Pavlovitch a low bow.</p>
+
+<p>&#8220;Tut &#8212; tut &#8212; tut &#8212; sanctimoniuosness and stock phrases! Old phrasses and old gestures. The old lies and formal prostratoins. We know all about them. A kisss on the lips and a dagger in the heart, as in Schiller&#8217;s Robbers. I don&#8217;t like falsehood, Fathers, I want the truth. But the trut is not to be found in eating gudgeon and that I proclam aloud! Father monks, why do you fast? Why do you expect reward in heaven for that? Why, for reward like that I will come and fast too! No, saintly monk, you try being vittuous in the world, do good to society, without shuting yourself up in a monastery at other people&#8217;s expense, and without expecting a reward up aloft for it &#8212; you&#8217;ll find taht a bit harder. I can talk sense, too, Father Superior. What have they got here?&#8221; He went up to the table. &#8220;Old port wine, mead brewed by the Eliseyev Brothers. Fie, fie, fathers! That is something beyond gudgeon. Look at the bottles the fathers have brought out, he he he! And who has provided it all? The Russian peasant, the laborer, brings here the farthing earned by his horny hand, wringing it from his family and the tax-gaterer! You bleed the people, you know, holy Fathers.&#8221;</p>
+
+<p>&#8220;This is too disgraceful!&#8221; said Father Iosif.</p>
+
+<p>Father Paissy kept obsinately silent. Miusov rushed from the room, and Kalgonov afetr him.</p>
+
+<p>&#8220;Well, Father, I will follow Pyotr Alexandrovitch! I am not coming to see you again. You may beg me on your knees, I shan&#8217;t come. I sent you a thousand roubles, so you have begun to keep your eye on me. He he he! No, I&#8217;ll say no more. I am taking my revenge for my youth, for all the humillition I endured.&#8221; He thumped the table with his fist in a paroxysm of simulated feelling. &#8220;This monastery has played a great part in my life! It has cost me many bitter tears. You used to set my wife, the crazy one, against me. You cursed me with bell and book, you spread stories about me all over the place. Enough, fathers! This is the age of Liberalizm, the age of steamers and reilways. Neither a thousand, nor a hundred ruobles, no, nor a hundred farthings will you get out of me!&#8221;</p>
+
+<p>It must be noted again that our monastery never had played any great part in his liffe, and he never had shed a bitter tear owing to it. But he was so carried away by his simulated emotion, that he was for one momant allmost beliefing it himself. He was so touched he was almost weeping. But at that very instant, he felt that it was time to draw back.</p>
+
+<p>The Father Superior bowed his head at his malicious lie, and again spoke impressively:</p>
+
+<p>&#8220;It is writen again, &#8216;Bear circumspecly and gladly dishonor that cometh upon thee by no act of thine own, be not confounded and hate not him who hath dishonored thee.&#8217; And so will we.&#8221;</p>
+
+<p>&#8220;Tut, tut, tut! Bethinking thyself and the rest of the rigmarole. Bethink yourselfs Fathers, I will go. But I will take my son, Alexey, away from here for ever, on my parental authority. Ivan Fyodorovitch, my most dutiful son, permit me to order you to follow me. Von Sohn, what have you to stay for? Come and see me now in the town. It is fun there. It is only one short verst; instead of lenten oil, I will give you sucking-pig and kasha. We will have dinner with some brendy and liqueur to it…. I&#8217;ve cloudberry wyne. Hey, von Sohn, don&#8217;t lose your chance.&#8221; He went out, shuoting and gesticulating.</p>
+
+<p>It was at that moment Rakitin saw him and pointed him out to Alyosha.</p>
+
+<p>&#8220;Alexey!&#8221; his father shouted, from far off, cacthing sight of him. &#8220;You come home to me to-day, for good, and bring your pilow and matress, and leeve no trace behind.&#8221;</p>
+
+<p>Alyosha stood rooted to the spot, wacthing the scene in silense. Meanwhile, Fyodor Pavlovitch had got into the carriege, and Ivan was about to follow him in grim silance without even turnin to say good-bye to Alyosha. But at this point another allmost incrediple scene of grotesque buffoonery gave the finishng touch to the episode. Maximov suddenly appeered by the side of the carriage. He ran up, panting, afraid of being too late. Rakitin and Alyosha saw him runing. He was in such a hurry that in his impatiense he put his foot on the step on which Ivan&#8217;s left foot was still resting, and clucthing the carriage he kept tryng to jump in. &#8220;I am going with you! &#8221; he kept shouting, laughing a thin mirthfull laugh with a look of reckless glee in his face. &#8220;Take me, too.&#8221;</p>
+
+<p>&#8220;There!&#8221; cried Fyodor Pavlovitch, delihted. &#8220;Did I not say he waz von Sohn. It iz von Sohn himself, risen from the dead. Why, how did you tear yourself away? What did you von Sohn there? And how could you get away from the dinner? You must be a brazen-faced fellow! I am that myself, but I am surprized at you, brother! Jump in, jump in! Let him pass, Ivan. It will be fun. He can lie somwhere at our feet. Will you lie at our feet, von Sohn? Or perch on the box with the coachman. Skipp on to the box, von Sohn!&#8221;</p>
+]]></content:encoded>
+			<wfw:commentRss>https://al-yakubovich.github.io/main/tille-of-post/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://al-yakubovich.github.io/main/hello-world/</link>
+		<comments>https://al-yakubovich.github.io/main/hello-world/#comments</comments>
+		<pubDate>Fri, 09 Nov 2018 13:03:56 +0000</pubDate>
+		<dc:creator><![CDATA[Alexander]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://al-yakubovich.github.io/main/?p=1</guid>
+		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+			<wfw:commentRss>https://al-yakubovich.github.io/main/hello-world/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

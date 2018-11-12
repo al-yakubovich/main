@@ -1,0 +1,17 @@
+.alignfull.wp-block-gallery,
+.alignwide.wp-block-gallery {
+  margin: 0 -28px; }
+
+.alignfull,
+.alignwide {
+  margin: 0 0 40px;
+  max-width: none; }
+
+.alignfull {
+  margin: 0 -20px 40px; }
+
+.alignfull.wp-block-cover-image,
+.alignwide.wp-block-cover-image {
+  padding: 0 20px; }
+
+

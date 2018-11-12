@@ -1,0 +1,25 @@
+{
+	"name": "benlumia007/backdrop-core",
+	"description": "A framework that helps you create amazing themes.",
+	"keywords": [
+		"wordpress"
+	],
+	"homepage": "https://github.com/benlumia007/backdrop-core",
+	"license": "GPL-2.0-or-later",
+	"authors": [
+		{
+			"name": "Benjamin Lu",
+			"email": "benlumia007@gmail.com",
+			"homepage": "https://benjlu.com",
+			"role": "Developer"
+		}
+	],
+	"autoload": {
+		"files": [
+			"framework.php"
+		]
+	},
+	"require": {
+		"php": ">=5.6"
+	}
+}

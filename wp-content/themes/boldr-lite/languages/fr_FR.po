@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BoldR Lite 1.2\n"
+"POT-Creation-Date: 2015-07-10 17:21+0100\n"
+"PO-Revision-Date: 2016-06-15 16:35+0100\n"
+"Last-Translator: \n"
+"Language-Team: Iceable Themes <contact@iceablethemes.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:16
+msgid "404"
+msgstr "404"
+
+#: ../404.php:20
+msgid "Page Not Found"
+msgstr "Page Introuvable"
+
+#: ../404.php:21 ../index.php:120 ../page.php:54 ../single.php:128
+#: ../page-templates/full-width.php:55
+msgid "What you are looking for isn't here..."
+msgstr "Ce que vous cherchez n'est pas ici..."
+
+#: ../404.php:22
+msgid "Maybe a search will help ?"
+msgstr "Peut-être qu'une recherche pourrait vous aider ?"
+
+#: ../comments.php:14
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Veuillez ne pas accéder à cette page directement. Merci !"
+
+#: ../comments.php:17
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Cet article est protégé par un mot de passe. Veuillez entrer le mot de passe "
+"pour voir les commentaires."
+
+#: ../comments.php:23
+#, php-format
+msgid "One Response to %2$s"
+msgstr "Une réponse à %2$s"
+
+#: ../comments.php:29
+msgid "Reply"
+msgstr "Répondre"
+
+#: ../comments.php:37
+msgid "Older comments"
+msgstr "Commentaires précédents"
+
+#: ../comments.php:40
+msgid "Newer comments"
+msgstr "Commentaires suivants"
+
+#: ../comments.php:49
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: ../footer.php:24
+#, php-format
+msgid "Copyright &copy; %s %s."
+msgstr "Copyright &copy; %s %s."
+
+#: ../footer.php:26
+#, php-format
+msgid "Proudly powered by <a href=\"%s\" title=\"%s\">%s</a>."
+msgstr "Fièrement propulsé par <a href=\"%s\" title=\"%s\">%s</a>."
+
+#: ../footer.php:27
+msgid "https://wordpress.org/"
+msgstr "https://fr.wordpress.org/"
+
+#: ../footer.php:29
+msgid "WordPress"
+msgstr "WordPress"
+
+#: ../footer.php:32
+#, php-format
+msgid "BoldR design by <a href=\"%s\" title=\"%s\">Iceable Themes</a>."
+msgstr "BoldR design par <a href=\"%s\" title=\"%s\">Iceable Themes</a>."
+
+#: ../functions.php:88
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: ../functions.php:128
+msgid "Default Sidebar"
+msgstr "Sidebar par défaut"
+
+#: ../functions.php:140
+msgid "Footer"
+msgstr "Pied de page"
+
+#: ../functions.php:236
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: ../index.php:18
+msgid "Search Results for "
+msgstr "Résultat de la Recherche pour "
+
+#: ../index.php:23
+msgid "Tag: "
+msgstr "Tag: "
+
+#: ../index.php:28
+msgid "Category: "
+msgstr "Catégorie : "
+
+#: ../index.php:33
+msgid "Daily archives: "
+msgstr "Archives journalières : "
+
+#: ../index.php:36
+msgid "Monthly archives: "
+msgstr "Archives mensuelles : "
+
+#: ../index.php:39
+msgid "Yearly archives: "
+msgstr "Archives annuelles : "
+
+#: ../index.php:67 ../single.php:36
+msgid "No"
+msgstr "Pas de "
+
+#: ../index.php:67 ../single.php:36
+msgid "1"
+msgstr "1"
+
+#: ../index.php:67 ../single.php:36
+msgid "%"
+msgstr "%"
+
+#: ../index.php:68 ../single.php:37
+msgid "Comment"
+msgstr "Commentaire"
+
+#: ../index.php:68 ../single.php:37
+msgid "Comments"
+msgstr "Commentaires"
+
+#: ../index.php:68 ../single.php:37
+msgid "Comments Off"
+msgstr "Commentaires Off"
+
+#: ../index.php:73 ../single.php:42
+msgid "by "
+msgstr "par "
+
+#: ../index.php:77 ../page.php:37 ../single.php:46
+#: ../page-templates/full-width.php:37
+msgid "Edit"
+msgstr "Éditer"
+
+#: ../index.php:90 ../single.php:61
+msgid "Posted in"
+msgstr "Publié dans"
+
+#: ../index.php:97 ../single.php:80
+msgid "Tags"
+msgstr "Tags"
+
+#: ../index.php:112 ../index.php:119 ../page.php:53 ../single.php:127
+#: ../page-templates/full-width.php:54
+msgid "Not Found"
+msgstr "Introuvable"
+
+#: ../index.php:113
+#, php-format
+msgid "Your search for \"%s\" did not return any result."
+msgstr "Votre recherche de \"%s\" n'a retourné aucun résultat."
+
+#: ../index.php:114
+msgid "Would you like to try another search ?"
+msgstr "Voulez-vous essayer une nouvelle recherche ?"
+
+#: ../index.php:128
+msgid "Previous Posts"
+msgstr "Articles précédents"
+
+#: ../index.php:132
+msgid "Next Posts"
+msgstr "Articles suivants"
+
+#: ../page.php:25 ../single.php:68 ../page-templates/full-width.php:25
+msgid "Pages:"
+msgstr "Pages :"
+
+#: ../page.php:30 ../single.php:73 ../page-templates/full-width.php:30
+msgid "Next page"
+msgstr "Page suivante"
+
+#: ../page.php:31 ../single.php:74 ../page-templates/full-width.php:31
+msgid "Previous page"
+msgstr "Page précédente"
+
+#: ../sidebar.php:15
+msgid "Recent Posts"
+msgstr "Articles récents"
+
+#: ../sidebar.php:20
+msgid "Archives"
+msgstr "Archives"
+
+#: ../sidebar.php:25
+msgid "Meta"
+msgstr "Meta"
+
+#: ../single.php:90
+msgid "Previous Image"
+msgstr "Image précédente"
+
+#: ../single.php:93
+msgid "Next Image"
+msgstr "Image suivante"
+
+#: ../single.php:97 ../single.php:114
+msgid "Previous Post"
+msgstr "Article précédent"
+
+#: ../single.php:100 ../single.php:117
+msgid "Next Post"
+msgstr "Article suivant"
+
+#: ../inc/customizer/customizer.php:18
+msgid "Background"
+msgstr "Image de fond"
+
+#: ../inc/customizer/customizer.php:22
+msgid "Logo & Favicon"
+msgstr "Logo & Favicon"
+
+#: ../inc/customizer/customizer.php:27
+msgid "Blog Settings"
+msgstr "Paramètres du blog"
+
+#: ../inc/customizer/customizer.php:32
+msgid "Misc"
+msgstr "Divers"
+
+#: ../inc/customizer/customizer.php:37
+msgid "More"
+msgstr "Plus"
+
+#: ../inc/customizer/customizer.php:48
+msgid "Upload your logo"
+msgstr "Transférez votre logo"
+
+#: ../inc/customizer/customizer.php:49
+msgid "If no logo is uploaded, the site title will be displayed instead."
+msgstr "Si aucun logo n'est défini, le nom de site sera affiché à la place."
+
+#: ../inc/customizer/customizer.php:63
+msgid "Upload a custom favicon"
+msgstr "Transférez un favicon personnalisé."
+
+#: ../inc/customizer/customizer.php:64
+msgid ""
+"Set your favicon. 16x16 or 32x32 pixels is recommended. PNG (recommended), "
+"GIF, or ICO."
+msgstr ""
+"Définissez votre favicon. 16x16 ou 32x32 pixels. PNG (recommandé), GIF ou "
+"ICO."
+
+#: ../inc/customizer/customizer.php:78
+msgid "Blog Index Content"
+msgstr "Contenu de la page principale du blog"
+
+#: ../inc/customizer/customizer.php:83
+msgid "Excerpt"
+msgstr "Extrait"
+
+#: ../inc/customizer/customizer.php:84
+msgid "Full content"
+msgstr "Contenu complet"
+
+#: ../inc/customizer/customizer.php:97
+msgid "Responsive Mode"
+msgstr "Mode \"Responsive\""
+
+#: ../inc/customizer/customizer.php:102 ../inc/customizer/customizer.php:121
+#: ../inc/customizer/customizer.php:139 ../inc/customizer/customizer.php:157
+#: ../inc/customizer/customizer.php:175
+msgid "On"
+msgstr "On"
+
+#: ../inc/customizer/customizer.php:103 ../inc/customizer/customizer.php:122
+#: ../inc/customizer/customizer.php:140 ../inc/customizer/customizer.php:158
+#: ../inc/customizer/customizer.php:176
+msgid "Off"
+msgstr "Off"
+
+#: ../inc/customizer/customizer.php:116
+msgid "Display header on Homepage"
+msgstr "Afficher l'image d'en-tête personnalisée sur la page d'accueil"
+
+#: ../inc/customizer/customizer.php:134
+msgid "Display header on Blog Index"
+msgstr ""
+"Afficher l'image d'en-tête personnalisée sur la page principale du blog"
+
+#: ../inc/customizer/customizer.php:152
+msgid "Display header on Single Posts"
+msgstr "Afficher l'image d'en-tête personnalisée sur les pages d'articles"
+
+#: ../inc/customizer/customizer.php:170
+msgid "Display header on Pages"
+msgstr "Afficher l'image d'en-tête personnalisée sur les pages"
+
+#: ../inc/customizer/customizer.php:189
+msgid "Get BoldR Pro"
+msgstr "Obtenir BoldR Pro !"
+
+#: ../inc/customizer/customizer.php:190
+msgid ""
+"Unleash the full potential of BoldR with tons of additional settings, "
+"advanced features and premium support."
+msgstr ""
+"Profitez de tout le potentiel de BoldR avec de nombreux paramètres de "
+"configuration, des fonctionnalités avancées et l'accès au forum de support "
+"premium (en anglais uniquement)."
+
+#: ../inc/customizer/customizer.php:205
+msgid "BoldR Lite support forums"
+msgstr "Forum d'aide de BoldR Lite (en anglais uniquement)"
+
+#: ../inc/customizer/customizer.php:206
+msgid "Have a question? Need help?"
+msgstr "Une question ? Besoin d'aide ?"
+
+#: ../inc/customizer/customizer.php:221
+msgid "Rate BoldR Lite"
+msgstr "Notez BoldR Lite"
+
+#: ../inc/customizer/customizer.php:222
+msgid "Like this theme? We'd love to hear your feedback!"
+msgstr "Vous aimez ce thème ? Nous serions ravi d'entendre vos avis !"
+
+#: ../inc/customizer/customizer.php:247
+msgid "Upgrade to BoldR Pro!"
+msgstr "Mettez à jour vers BoldR Pro !"

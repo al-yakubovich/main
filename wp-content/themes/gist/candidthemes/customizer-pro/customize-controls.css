@@ -1,0 +1,13 @@
+#accordion-panel-gist_panel .accordion-section-title,
+#accordion-section-gist_about_theme_section .accordion-section-title{
+	margin-top:  -4px;
+	font-weight: 400;
+	font-size: 16px;
+	background: #25861e;
+	color: #fff;
+}
+.at-pro {
+	background: #25861e!important;
+	color: #fff!important;
+	box-shadow: none!important;
+}

@@ -1,0 +1,1081 @@
+# Copyright (C) 2018 BlogOnYourOwn.com
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Loose 1.2.11.70\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2018-10-28 18:24:33+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: 404.php:23
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:32
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: 404.php:32
+msgid "Maybe try a search?"
+msgstr ""
+
+#: author.php:40 inc/template-tags.php:214 inc/template-tags.php:215
+msgid "Website"
+msgstr ""
+
+#: author.php:44 inc/customizer.php:565 inc/template-tags.php:544
+msgid "Twitter"
+msgstr ""
+
+#: author.php:48 inc/customizer.php:582 inc/template-tags.php:547
+msgid "Facebook"
+msgstr ""
+
+#: author.php:52 inc/customizer.php:599 inc/template-tags.php:550
+msgid "Google Plus"
+msgstr ""
+
+#: author.php:56 inc/customizer.php:616 inc/template-tags.php:553
+msgid "Instagram"
+msgstr ""
+
+#: author.php:60 inc/customizer.php:633 inc/template-tags.php:556
+msgid "Pinterest"
+msgstr ""
+
+#: comments.php:40 comments.php:65
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:68
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:69
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:81
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:87
+msgid "Comment"
+msgstr ""
+
+#: footer.php:26 header.php:58
+msgid "Close"
+msgstr ""
+
+#: footer.php:62
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:65
+#. translators: WordPress.
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:71
+#. translators: theme neame and theme author..
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:49
+msgid "Left Menu"
+msgstr ""
+
+#: functions.php:50
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:126
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:128 functions.php:140
+msgid "Right Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:138
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:150
+msgid "Top"
+msgstr ""
+
+#: functions.php:152
+msgid "Top Widget Area. Above the content - on home and archive pages"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:55
+msgid "Menu"
+msgstr ""
+
+#: header.php:56 searchform.php:14
+msgid "Search"
+msgstr ""
+
+#: inc/class-loose-meta-for-categories.php:99
+#: inc/class-loose-meta-for-categories.php:135
+msgid "Background Color"
+msgstr ""
+
+#: inc/class-loose-meta-for-categories.php:114
+#: inc/class-loose-meta-for-categories.php:159
+msgid "Text Color"
+msgstr ""
+
+#: inc/class-loose-meta-for-categories.php:179
+msgid "Image"
+msgstr ""
+
+#: inc/class-loose-meta-for-categories.php:184
+#: inc/class-loose-meta-for-categories.php:227
+msgid "Upload"
+msgstr ""
+
+#: inc/class-loose-meta-for-categories.php:185
+#: inc/class-loose-meta-for-categories.php:228
+msgid "Remove"
+msgstr ""
+
+#: inc/class-loose-meta-for-categories.php:213
+msgid "Category Image"
+msgstr ""
+
+#: inc/class-loose-meta-for-categories.php:317
+msgid "Choose Category Image"
+msgstr ""
+
+#: inc/class-loose-meta-for-categories.php:318
+msgid "Choose Image"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:330
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:332
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:370
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:390
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:392
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:394
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1982
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2392
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2396
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2400
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2603
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2608
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2614
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3498
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3501
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3503
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3512
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3517
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3520
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/customizer.php:29
+msgid "When to Hide/Show Top Menu (in px)"
+msgstr ""
+
+#: inc/customizer.php:56
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Sidebar Background Color 1"
+msgstr ""
+
+#: inc/customizer.php:98
+msgid "Sidebar Background Color 2"
+msgstr ""
+
+#: inc/customizer.php:119
+msgid "Sidebar Background Color 3"
+msgstr ""
+
+#: inc/customizer.php:140
+msgid "Quote Post Format Background Color"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "Link Post Format Background Color"
+msgstr ""
+
+#: inc/customizer.php:182
+msgid "Aside Post Format Background Color"
+msgstr ""
+
+#: inc/customizer.php:203
+msgid "Content Link Color"
+msgstr ""
+
+#: inc/customizer.php:214
+msgid "Home Page"
+msgstr ""
+
+#: inc/customizer.php:216
+msgid "Blog Home Page Settings"
+msgstr ""
+
+#: inc/customizer.php:231
+msgid "Blog Home Page Layout"
+msgstr ""
+
+#: inc/customizer.php:235
+msgid "Masonry + Sidebar"
+msgstr ""
+
+#: inc/customizer.php:236
+msgid "List + Sidebar"
+msgstr ""
+
+#: inc/customizer.php:237
+msgid "Masonry (No Sidebar)"
+msgstr ""
+
+#: inc/customizer.php:253
+msgid "Max Home Page and Archive Pages Width on Desktops"
+msgstr ""
+
+#: inc/customizer.php:254
+msgid "(in pixels, default: 1156)"
+msgstr ""
+
+#: inc/customizer.php:276
+msgid "Number of Images to Show in Slider"
+msgstr ""
+
+#: inc/customizer.php:300
+msgid "Height of Home Page Slider"
+msgstr ""
+
+#: inc/customizer.php:302
+msgid "(in pixels)"
+msgstr ""
+
+#: inc/customizer.php:323
+msgid "Slider Image Size"
+msgstr ""
+
+#: inc/customizer.php:325
+msgid "From >Settings>Media"
+msgstr ""
+
+#: inc/customizer.php:328
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/customizer.php:329
+msgid "Medium"
+msgstr ""
+
+#: inc/customizer.php:330
+msgid "Large"
+msgstr ""
+
+#: inc/customizer.php:331
+msgid "Full"
+msgstr ""
+
+#: inc/customizer.php:347
+msgid "Show Sticky Posts Below Slider"
+msgstr ""
+
+#: inc/customizer.php:364
+msgid "Enable Latest Posts Text"
+msgstr ""
+
+#: inc/customizer.php:381
+msgid "Hide Title On Home Page/Archive Pages"
+msgstr ""
+
+#: inc/customizer.php:398
+msgid "Hide Meta On Home Page/Archive Pages"
+msgstr ""
+
+#: inc/customizer.php:415
+msgid "What To Show On Home and Archive Pages:"
+msgstr ""
+
+#: inc/customizer.php:419
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer.php:420
+msgid "Content"
+msgstr ""
+
+#: inc/customizer.php:421
+msgid "Just Title"
+msgstr ""
+
+#: inc/customizer.php:437
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer.php:439
+msgid "(in words)"
+msgstr ""
+
+#: inc/customizer.php:453
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer.php:455
+msgid "Single Post Settings"
+msgstr ""
+
+#: inc/customizer.php:470
+msgid "Enable Sidebar"
+msgstr ""
+
+#: inc/customizer.php:487
+msgid "Enable Single Post Navigation"
+msgstr ""
+
+#: inc/customizer.php:496
+msgid "Next Article"
+msgstr ""
+
+#: inc/customizer.php:504
+msgid "Single Post Navigation Next Post Label"
+msgstr ""
+
+#: inc/customizer.php:513
+msgid "Previous Article"
+msgstr ""
+
+#: inc/customizer.php:521
+msgid "Single Post Navigation Previous Post Label"
+msgstr ""
+
+#: inc/customizer.php:538
+msgid "Navigation Only In The Same Category"
+msgstr ""
+
+#: inc/customizer.php:548
+msgid "Social Icons"
+msgstr ""
+
+#: inc/customizer.php:550
+msgid "Links to social profiles in menu"
+msgstr ""
+
+#: inc/customizer.php:650 inc/template-tags.php:559
+msgid "Youtube"
+msgstr ""
+
+#: inc/customizer.php:660
+msgid "Advanced"
+msgstr ""
+
+#: inc/customizer.php:662
+msgid "Advanced Settings"
+msgstr ""
+
+#: inc/customizer.php:677
+msgid "Enable WordPress Popular Posts Original Output (needs page refresh)"
+msgstr ""
+
+#: inc/customizer.php:694
+msgid "Enable Sticky Sidebar"
+msgstr ""
+
+#: inc/customizer.php:711
+msgid "Show menu when scrolling top"
+msgstr ""
+
+#: inc/customizer.php:728
+msgid "Load fonts from Google servers"
+msgstr ""
+
+#: inc/template-tags.php:54
+#. translators: tag list
+msgid "Tagged: %1$s"
+msgstr ""
+
+#: inc/template-tags.php:60
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:60
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:60
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:64 inc/template-tags.php:169 page.php:52
+#: template-nosidebar.php:49
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:151
+#. translators: 1: date, 2: time
+msgid "%s ago"
+msgstr ""
+
+#: inc/template-tags.php:173
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:210 inc/template-tags.php:211
+msgid "Name"
+msgstr ""
+
+#: inc/template-tags.php:212 inc/template-tags.php:213
+msgid "Email"
+msgstr ""
+
+#: inc/template-tags.php:267
+msgid "<span>&#124;</span>"
+msgstr ""
+
+#: inc/template-tags.php:299 inc/template-tags.php:320
+#. translators: post title
+msgid "Read more %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:449
+msgid "January"
+msgstr ""
+
+#: inc/template-tags.php:450
+msgid "February"
+msgstr ""
+
+#: inc/template-tags.php:451
+msgid "March"
+msgstr ""
+
+#: inc/template-tags.php:452
+msgid "April"
+msgstr ""
+
+#: inc/template-tags.php:453
+msgid "May"
+msgstr ""
+
+#: inc/template-tags.php:454
+msgid "June"
+msgstr ""
+
+#: inc/template-tags.php:455
+msgid "July"
+msgstr ""
+
+#: inc/template-tags.php:456
+msgid "August"
+msgstr ""
+
+#: inc/template-tags.php:457
+msgid "September"
+msgstr ""
+
+#: inc/template-tags.php:458
+msgid "October"
+msgstr ""
+
+#: inc/template-tags.php:459
+msgid "November"
+msgstr ""
+
+#: inc/template-tags.php:460
+msgid "December"
+msgstr ""
+
+#: inc/template-tags.php:480
+msgid "Sunday"
+msgstr ""
+
+#: inc/template-tags.php:481
+msgid "Monday"
+msgstr ""
+
+#: inc/template-tags.php:482
+msgid "Tuesday"
+msgstr ""
+
+#: inc/template-tags.php:483
+msgid "Wednesday"
+msgstr ""
+
+#: inc/template-tags.php:484
+msgid "Thursday"
+msgstr ""
+
+#: inc/template-tags.php:485
+msgid "Friday"
+msgstr ""
+
+#: inc/template-tags.php:486
+msgid "Saturday"
+msgstr ""
+
+#: inc/template-tags.php:513
+msgid "Expand"
+msgstr ""
+
+#: inc/template-tags.php:617 inc/template-tags.php:623
+#: inc/template-tags.php:632
+msgid "Continue reading &rarr;"
+msgstr ""
+
+#: inc/template-tags.php:692
+msgid "Attachment page"
+msgstr ""
+
+#: inc/template-tags.php:698
+msgid " &#124; "
+msgstr ""
+
+#: inc/tgmpa-plugins.php:31
+msgid "WordPress Popular Posts"
+msgstr ""
+
+#: inc/tgmpa-plugins.php:38
+msgid "Shareaholic | share buttons, related posts, social analytics & more"
+msgstr ""
+
+#: inc/tgmpa-plugins.php:45
+msgid "Instagram Slider Widget"
+msgstr ""
+
+#: inc/tgmpa-plugins.php:52
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: inc/tgmpa-plugins.php:59
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/tgmpa-plugins.php:66
+msgid "User Social Profiles"
+msgstr ""
+
+#: index.php:36
+msgid "Latest Posts"
+msgstr ""
+
+#: page.php:44 template-nosidebar.php:41
+#: template-parts/content-single-audio.php:41
+#: template-parts/content-single-gallery.php:42
+#: template-parts/content-single-video.php:43
+#: template-parts/content-single.php:30
+msgid "Pages:"
+msgstr ""
+
+#: search.php:28
+#. translators: search term.
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:54
+msgid "Nothing Found"
+msgstr ""
+
+#: searchform.php:11
+msgid "Search for: "
+msgstr ""
+
+#: searchform.php:12
+msgid "Type and hit enter"
+msgstr ""
+
+#: searchform.php:12
+msgid "Search for:"
+msgstr ""
+
+#: single.php:34
+msgid "Previous article"
+msgstr ""
+
+#: single.php:35
+msgid "Next article"
+msgstr ""
+
+#: template-parts/content-home-list.php:35
+#: template-parts/content-home-list.php:55
+#: template-parts/content-home-masonry.php:36
+#: template-parts/content-home-slider.php:49
+#: template-parts/content-home-slider.php:58 template-parts/content-home.php:36
+msgid "<span> &#124; </span>"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#. translators: admin url.
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:35
+msgid "Sorry, but nothing matched your search terms."
+msgstr ""
+
+#: template-parts/content-none.php:35
+msgid "Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:40
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: template-parts/content-none.php:40
+msgid "Perhaps searching can help."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Loose"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://blogonyourown.com/themes/loose/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Loose is a simply, elegant & modern WordPress Blog Theme. Elegantly "
+"showcase your articles, photos, videos and more. This clean layout suitable "
+"for any type of site. Can be used for blog, magazine, news or fashion "
+"website. Loose is a minimal blog and magazine WordPress theme focused on "
+"content. With Loose you can create your own unique layout and style. Loose "
+"is fully responsive and looks great on any device. Loose have many features "
+"including: 3 Homepage Layouts, 4 Post Formats, 2 Page Layouts, 2 Single "
+"Post Layouts, 3 Widget Areas: Right Sidebar, Left Sidebar / Left Menu & "
+"Top, Sticky Sidebar, 2 Menus: Top Menu & Left Menu (main, mobile menu – "
+"toggled with button), all Theme Options Easily Customized by Native "
+"WordPress Customizer (Live Preview), Translation Ready, Child Template "
+"Included and much much more. Loose is easy to customize and well documented "
+"with great support and friendly help:) Enjoy:)"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "BlogOnYourOwn.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://blogonyourown.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "No Sidebar"
+msgstr ""
+
+#: comments.php:31
+#. translators: number of comments.
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:186
+#. Translators: If there are characters in your language that are not supported
+#. by Roboto, translate this to 'off'. Do not translate into your own language.
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:199
+#. Translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:207
+#. Translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2342
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2388
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/template-tags.php:26
+#. translators: time ago
+msgctxt "post date"
+msgid "%s ago"
+msgstr ""
+
+#: inc/template-tags.php:32
+#. translators: post author
+msgctxt "post author"
+msgid " by %s"
+msgstr ""

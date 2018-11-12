@@ -1,0 +1,1301 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Salinger\n"
+"POT-Creation-Date: 2018-09-16 18:31+0100\n"
+"PO-Revision-Date: 2018-09-16 18:31+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Esto es algo embarazoso ¿no?"
+
+#: 404.php:19
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que no encontramos lo que estás intentando localizar. Es posible que "
+"te ayude buscarlo."
+
+#: author.php:18
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Archivos del autor: %s"
+
+#: author.php:36 template-parts/author-info-box.php:18
+#, php-format
+msgid "About %s"
+msgstr "Sobre %s"
+
+#: comments.php:25
+#, php-format
+msgid "%1$s comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarios en &ldquo;%2$s&rdquo;"
+
+#: comments.php:42
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:43
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios más antiguos"
+
+#: comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios más nuevos &rarr;"
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: footer.php:53
+msgid "by"
+msgstr "por"
+
+#: footer.php:54
+msgid "Powered by"
+msgstr "Creado con"
+
+#: footer.php:54
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: footer.php:54
+msgid "Semantic Personal Publishing Platform"
+msgstr "Plataforma semántica de publicación personal"
+
+#: functions.php:54
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: functions.php:55
+msgid "Social Menu (Top bar)"
+msgstr "Menú social (Barra superior)"
+
+#: functions.php:111
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:118
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "sin derivadas"
+
+#: functions.php:268 inc/customizer.php:550
+#: woocommerce/woocommerce-setup.php:58
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:269 woocommerce/woocommerce-setup.php:43
+msgid "Appears on posts and pages except Full-width Page Template"
+msgstr "Se muestra en entradas y páginas excepto en páginas de ancho completo"
+
+#: functions.php:278
+msgid "Before the post content"
+msgstr "Antes del contenido de entradas"
+
+#: functions.php:279
+msgid "Appears below title on posts and pages with default template."
+msgstr ""
+"Se muestra debajo del título en entradas y páginas con plantilla "
+"predeterminada."
+
+#: functions.php:288
+msgid "After the post content"
+msgstr "Después del contentido de entradas."
+
+#: functions.php:289
+msgid "Appears at the end of content on posts and pages with default template."
+msgstr ""
+"Se muestra al final del contenido en entradas y páginas con plantilla "
+"predeterminada."
+
+#: functions.php:298
+msgid "Footer 1"
+msgstr "Pie 1"
+
+#: functions.php:299 functions.php:309 functions.php:319 functions.php:329
+msgid "Appears in footer"
+msgstr "Se muestra en el pie."
+
+#: functions.php:308
+msgid "Footer 2"
+msgstr "Pie 2"
+
+#: functions.php:318
+msgid "Footer 3"
+msgstr "Pie 3"
+
+#: functions.php:328
+msgid "Footer 4"
+msgstr "Pie 4"
+
+#: functions.php:348
+msgid "&laquo; Previous"
+msgstr "&laquo; Anterior"
+
+#: functions.php:349
+msgid "Next &raquo;"
+msgstr "Siguiente &raquo;"
+
+#: functions.php:376
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:376
+msgid "(Edit)"
+msgstr "Editar"
+
+#: functions.php:391
+msgid "Post author"
+msgstr "Autor del post"
+
+#. translators: 1: date, 2: time
+#: functions.php:397
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s a las %2$s"
+
+#: functions.php:403
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de moderación."
+
+#: functions.php:408 image.php:33
+#: template-parts/content-archive-excerpts.php:70
+#: template-parts/content-archive.php:89 template-parts/content-page.php:46
+#: template-parts/content-single.php:91 template-parts/content.php:93
+#: template-parts/sticky.php:60
+msgid "Edit"
+msgstr "Editar"
+
+#: functions.php:415
+msgid "Reply"
+msgstr "Contestar"
+
+#: functions.php:537
+msgid "Read more"
+msgstr "Leer más"
+
+#: functions.php:583
+msgid ""
+"<strong>Salinger Notice:</strong> In order for images to be displayed "
+"correctly in widgets, featured images must have a minimum size of 576x432 "
+"pixels."
+msgstr ""
+"<strong>Aviso de Salinger:</strong> Para que las imágenes sean mostradas "
+"correctamente en los widgets, las imágenes destacadas deben tener un tamaño "
+"mínimo de 576x432 pixels."
+
+#: header.php:64
+msgid "Skip to content"
+msgstr "Ir al contenido"
+
+#: header.php:89 template-parts/top-bar.php:13
+msgid "MENU"
+msgstr "MENÚ"
+
+#: image.php:22
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+"<span class=\"meta-prep meta-prep-entry-date\">Publicado </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> a las <a href=\"%3$s\" title=\"Enlace a la imagen completa\">%4$s "
+"&times; %5$s</a> en <a href=\"%6$s\" title=\"Volver a %7$s\" rel=\"gallery\">"
+"%8$s</a>."
+
+#: image.php:37
+msgid "&larr; Previous"
+msgstr "&larr; Anterior"
+
+#: image.php:38
+msgid "Next &rarr;"
+msgstr "Siguiente &rarr;"
+
+#: image.php:98 template-parts/content-archive.php:63
+#: template-parts/content-page.php:31 template-parts/content-single.php:61
+#: template-parts/content.php:67
+msgid "Pages:"
+msgstr "Páginas"
+
+#: inc/customizer.php:142
+msgid "General Settings"
+msgstr "Configuración General"
+
+#: inc/customizer.php:158
+msgid "Site Logo/Icon/Title/Tagline"
+msgstr "Logo/Icono/Título/Descripción del Sitio"
+
+#: inc/customizer.php:176
+msgid "The header image is displayed below the logo and menu."
+msgstr "La imagen de cabecera se muestra debajo del logo y menú."
+
+#: inc/customizer.php:196
+msgid "Theme Primary Color"
+msgstr "Color principal del tema"
+
+#: inc/customizer.php:202
+msgid "Blue"
+msgstr "Azul"
+
+#: inc/customizer.php:203
+msgid "Green"
+msgstr "Verde"
+
+#: inc/customizer.php:204
+msgid "Orange"
+msgstr "Naranja"
+
+#: inc/customizer.php:205
+msgid "Pink"
+msgstr "Rosa"
+
+#: inc/customizer.php:206
+msgid "Red"
+msgstr "Rojo"
+
+#: inc/customizer.php:219
+msgid "Apply to entry title in excerpts"
+msgstr "Aplicar al título de entrada en extractos"
+
+#: inc/customizer.php:231
+msgid "Apply to the left border of extracts"
+msgstr "Aplicar al borde izquierdo de los extractos"
+
+#: inc/customizer.php:243
+msgid "Apply to widget title"
+msgstr "Aplicar a los títulos de widget"
+
+#: inc/customizer.php:245
+msgid "( Uncheck: Black )"
+msgstr "(Desmarcado: Negro)"
+
+#: inc/customizer.php:255
+msgid "Fonts"
+msgstr "Fuentes"
+
+#: inc/customizer.php:267
+msgid "Select font"
+msgstr "Elige una fuente"
+
+#: inc/customizer.php:289
+msgid "Header"
+msgstr "Cabecera"
+
+#: inc/customizer.php:299
+msgid "Top bar"
+msgstr "Barra superior"
+
+#: inc/customizer.php:310
+msgid "Display top bar"
+msgstr "Mostrar la barra superior"
+
+#: inc/customizer.php:324
+msgid "Top bar color"
+msgstr "Color de la barra superior"
+
+#: inc/customizer.php:329
+msgctxt "Top bar color"
+msgid "White"
+msgstr "Blanca"
+
+#: inc/customizer.php:330
+msgid "Black"
+msgstr "Negro"
+
+#: inc/customizer.php:343
+msgid "Left top bar custom text (HTML allowed)"
+msgstr "Texto de la barra superior izquierda (HTML permitido)"
+
+#: inc/customizer.php:356
+msgid "Social icons color"
+msgstr "Color de los iconos sociales"
+
+#: inc/customizer.php:361
+msgctxt "Social icons color"
+msgid "Gray"
+msgstr "Gris"
+
+#: inc/customizer.php:362
+msgid "Original color"
+msgstr "Color original"
+
+#: inc/customizer.php:375
+msgid "Show the word menu next to the icon menu on mobile devices."
+msgstr ""
+"Mostrar la palabra menú junto al icono del menú en dispositivos móviles."
+
+#: inc/customizer.php:385
+msgid "Main menu"
+msgstr "Menú principal"
+
+#: inc/customizer.php:399
+msgid "Menu position"
+msgstr "Posición del menú"
+
+#: inc/customizer.php:403
+msgid "'below the logo' option displays logo and menu centered"
+msgstr "La opción 'Debajo del logotipo' muestra el logo y el menú centrados"
+
+#: inc/customizer.php:405
+msgid "Inline with logo"
+msgstr "En línea con el logotipo"
+
+#: inc/customizer.php:406
+msgid "Below the logo"
+msgstr "Debajo del logotipo"
+
+#: inc/customizer.php:418
+msgid "Content"
+msgstr "Contenido"
+
+#: inc/customizer.php:428
+msgid "Posts and Pages"
+msgstr "Entradas y páginas"
+
+#: inc/customizer.php:437
+msgid "Show full content on homepage and archive pages."
+msgstr ""
+"Mostrar contenido completo de las entradas en página principal y páginas de "
+"archivo."
+
+#: inc/customizer.php:451
+msgid "Show featured image in posts"
+msgstr "Mostrar imagen destacada en las entradas."
+
+#: inc/customizer.php:456
+msgid "Not show"
+msgstr "No mostrar"
+
+#: inc/customizer.php:457
+msgid "After post title"
+msgstr "Después del título de la entrada"
+
+#: inc/customizer.php:458
+msgid "Before post title"
+msgstr "Antes del título de la entrada"
+
+#: inc/customizer.php:470
+msgid "Excerpt's thumbnail image rounded"
+msgstr "Thumbnails redondeados en extractos"
+
+#: inc/customizer.php:480
+msgid "Show metadata in excerpts (Author, date and number of comments)"
+msgstr "Mostrar metadatos en extractos (autor, fecha y número de comentarios)"
+
+#: inc/customizer.php:490
+msgid "Entry text justified"
+msgstr "Texto de entradas justificado"
+
+#: inc/customizer.php:500
+msgid "Display related posts at the end of entries (based on tags)"
+msgstr ""
+"Mostrar entradas relacionadas al final de los posts (basadas en etiquetas)"
+
+#: inc/customizer.php:505 template-parts/related-posts.php:28
+msgid "Related posts..."
+msgstr "Entradas relacionadas..."
+
+#: inc/customizer.php:509
+msgid "Related posts title"
+msgstr "Título de entradas relacionadas"
+
+#: inc/customizer.php:515 template-parts/sticky.php:11
+msgid "Featured"
+msgstr "Destacado"
+
+#: inc/customizer.php:519
+msgid "Label for Sticky Posts"
+msgstr "Etiqueta para entradas fijas"
+
+#: inc/customizer.php:530
+msgid "Show navigation at the end of posts (links to previous and next posts)"
+msgstr ""
+"Mostrar navegación al final de las entradas (enlaces al anterior y siguiente "
+"post)"
+
+#: inc/customizer.php:540
+msgid "Display 'Back to top' button"
+msgstr "Mostrar el botón 'Volver arriba'"
+
+#: inc/customizer.php:563
+msgid "Select sidebar position"
+msgstr "Posición de la barra lateral"
+
+#: inc/customizer.php:568
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/customizer.php:569
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/customizer.php:581
+msgid "Footer"
+msgstr "Pie"
+
+#: inc/customizer.php:589
+msgid "Footer texts"
+msgstr "Textos del pie"
+
+#: inc/customizer.php:597
+msgid "Footer text 1"
+msgstr "Texto del pie 1"
+
+#: inc/customizer.php:607
+msgid "Footer text 2"
+msgstr "Texto del pie 2"
+
+#: inc/customizer.php:617
+msgid "Footer text 3"
+msgstr "Texto del pie 3"
+
+#: inc/customizer.php:628
+msgid "Hide credits"
+msgstr "Ocultar créditos"
+
+#: inc/customizer.php:637
+msgid "First Steps and Links"
+msgstr "Primeros pasos y enlaces"
+
+#: inc/customizer.php:653
+msgid "Links"
+msgstr "Enlaces"
+
+#: inc/customizer.php:665
+msgid ""
+"Please, if you are happy with the theme, say it on wordpress.org and give "
+"Salinger a nice review. Thank you"
+msgstr ""
+"Por favor, si estás satisfecho con el tema, coméntalo en wordpress.org y "
+"escribe sobre Salinger una buena reseña. Gracias."
+
+#: inc/customizer.php:665
+msgid "Rate/Review"
+msgstr "Puntuar/Reseñar"
+
+#: inc/customizer.php:677
+msgid "Live Demo"
+msgstr "Live Demo"
+
+#: inc/customizer.php:678
+msgid "Pro Version"
+msgstr "Versión Pro"
+
+#: inc/customizer.php:694
+msgid "First Steps"
+msgstr "Primeros pasos"
+
+#: inc/customizer.php:705
+msgid "Widgets do not display images correctly"
+msgstr "Los widgets no muestran las imágenes correctamente"
+
+#: inc/customizer.php:706
+msgid ""
+"<p><strong>In order for images to be displayed correctly in widgets, "
+"featured images must have a minimum size of 576x432 pixels</strong>.</"
+"p><p>If the image thumbnails are not displayed correctly (because Salinger is "
+"not the first theme used) you will need to regenerate the thumbnails with a "
+"free plugin as"
+msgstr ""
+"<p><strong>Para que las imágenes sean mostradas correctamente en los "
+"widgets, las imágenes destacadas deben tener un tamaño mínimo de 576x432 "
+"pixels</strong>.</p><p>Si las miniaturas de las imágenes no se muestran "
+"correctamente (porque Salinger no es el primer tema que usas) necesitarás "
+"regenerar las miniaturas con un plugin gratuito como"
+
+#: index.php:39
+msgid "No posts to display"
+msgstr "No hay posts para mostrar"
+
+#: index.php:43
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+"¿Preparado para publicar tu primer post? <a href=\"%s\">Comienza aquí</a>."
+
+#: index.php:51 search.php:30 template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada."
+
+#: index.php:55 template-parts/content-none.php:16
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+"Disculpa, pero no se han encontrado resultados. Quizás puedas buscar una "
+"entrada relacionada."
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados de búsqueda para '%s'"
+
+#: search.php:34
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Lo sentimos pero no hay nada que se ajuste a tu criterio de búsqueda. Por "
+"favor, inténtalo de nuevo con otras palabras."
+
+#: searchform.php:13 searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr "Buscar"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "Buscar..."
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"
+
+#: template-parts/content-archive.php:61 template-parts/content-single.php:59
+#: template-parts/content.php:65
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Sigue leyendo <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/menu-movil.php:13 template-parts/menu-movil.php:15
+#: template-parts/searchform-toggle.php:2
+#: template-parts/searchform-toggle.php:4
+msgid "Search"
+msgstr "Buscar"
+
+#: template-parts/menu-movil.php:14 template-parts/searchform-toggle.php:3
+msgid "Search..."
+msgstr "Buscar..."
+
+#: template-parts/top-bar.php:40
+msgid "Social Menu"
+msgstr "Menú social"
+
+#: woocommerce/woocommerce-setup.php:42
+msgid "WooCommerce Sidebar"
+msgstr "Barra lateral de WooCommerce"
+
+#: woocommerce/woocommerce-setup.php:68
+msgid "Remove WooCommerce sidebar"
+msgstr "Eliminar barra lateral de WooCommerce"
+
+#: woocommerce/woocommerce-setup.php:70
+msgid ""
+"The change of this option is not seen in the customizer, but it will be "
+"effective in your website when you save the changes"
+msgstr ""
+"El cambio de esta opción no se muestra en el personalizador, pero será "
+"efectiva en tu página web cuando guardes los cambios"
+
+#~ msgid "Home"
+#~ msgstr "Inicio"
+
+#~ msgid "Show full content of the entries in the main page."
+#~ msgstr "Mostrar contenido completo de las entradas en la página principal"
+
+#~ msgid "Daily Archives: %s"
+#~ msgstr "Archivo por días: %s"
+
+#~ msgid "Monthly Archives: %s"
+#~ msgstr "Archivo por meses: %s"
+
+#~ msgctxt "monthly archives date format"
+#~ msgid "F Y"
+#~ msgstr "F Y"
+
+#~ msgid "Yearly Archives: %s"
+#~ msgstr "Archivo por años: %s"
+
+#~ msgctxt "yearly archives date format"
+#~ msgid "Y"
+#~ msgstr "Y"
+
+#~ msgid "Archives"
+#~ msgstr "Archivos"
+
+#~ msgid "Category Archives: %s"
+#~ msgstr "Archivo de la Categoría: %s"
+
+#~ msgid ""
+#~ "Appears inside the site header, at right. You can use it to show Google "
+#~ "AdSense ad."
+#~ msgstr ""
+#~ "Aparece dentro de la cabecera del sitio, a la derecha. Puedes usarlo para "
+#~ "mostrar publicidad de Google AdSense."
+
+#~ msgid "Mag Front Page: Below Header"
+#~ msgstr "Mag Front Page: Debajo de la cabecera"
+
+#~ msgid ""
+#~ "Appears on (Salinger) Magazine Front Page template only. Use the "
+#~ "\"(Salinger 5 Posts - Style 1\" widget in this widget area."
+#~ msgstr ""
+#~ "Solo aparece en la plantilla (Salinger) Magazine Front Page. Usa el widget "
+#~ "\"(Salinger) 5 Posts - Style 1\" en este área de widgets."
+
+#~ msgid "Mag Front Page: Main Content"
+#~ msgstr "Mag Front Page: Contenido Principal"
+
+#~ msgid ""
+#~ "Appears on (Salinger) Magazine Front Page template only. Use the (Salinger) "
+#~ "widgets to customize the content of your site front page."
+#~ msgstr ""
+#~ "Aparece solo en la plantilla (Salinger) Magazine Front Page. Utiliza los "
+#~ "widgets (Salinger) para personalizar el contenido de la página principal "
+#~ "de tu sitio."
+
+#~ msgid "Below Post Title"
+#~ msgstr "Debajo del título de entrada"
+
+#~ msgid "Appears below posts title"
+#~ msgstr "Aparece debajo del título de las entradas."
+
+#~ msgid "Appears at the end of posts content"
+#~ msgstr "Se muestra al final de los posts"
+
+#~ msgid ""
+#~ "Please go to Appearance > Customize > Widgets and add to the \"Mag Front "
+#~ "Page: Below Header\" widget area the recommended widget \"(Salinger) 5 "
+#~ "posts - Style 1\". You can also leave this area empty."
+#~ msgstr ""
+#~ "Por favor, ve a Apariencia > Personalizar > Widgets y añade al área de "
+#~ "widgets \"Mag Front Page: Debajo de la cabecera\" el widget recomendado "
+#~ "\"(Salinger) 5 Entradas - Estilo 1\". También puedes dejar este área vacía."
+
+#~ msgid ""
+#~ "if you set Header Image, it will replace logo set in Site Logo option and "
+#~ "Header widget area."
+#~ msgstr ""
+#~ "Si estableces una imagen de cabecera, esta remplazará al logo establecido "
+#~ "en la opción Site Logo y al área de widget de la cabecera."
+
+#~ msgid "Header, Content and Footer"
+#~ msgstr "Cabecera, Contenido y Pie"
+
+#~ msgid "Top bar black (Uncheck: Theme color)"
+#~ msgstr "Barra superior negra (Desmarcado: color del tema)"
+
+#~ msgid "(Uncheck: Light gray)"
+#~ msgstr "(Desmarcado: Gris claro)"
+
+#~ msgid "Center menu"
+#~ msgstr "Centrar menú"
+
+#~ msgid "Bottom"
+#~ msgstr "Inferior"
+
+#~ msgid "Top"
+#~ msgstr "Superior"
+
+#~ msgid "None"
+#~ msgstr "Ninguna"
+
+#~ msgid "Footer left text"
+#~ msgstr "Texto del pie izquierdo"
+
+#~ msgid "Footer center text"
+#~ msgstr "Texto del pie central"
+
+#~ msgid "Footer right text"
+#~ msgstr "Texto del pie derecho"
+
+#~ msgid "Setting up Magazine Home Page"
+#~ msgstr "Configuracion de la página principal (Magazine)"
+
+#~ msgid ""
+#~ "1. Create a new page (with any title, it does not matter)<br/>\n"
+#~ "2. In right column go to Page Attributes > Template and select (Salinger) "
+#~ "Magazine Front Page<br/>\n"
+#~ "3. Click on Publish<br/>\n"
+#~ "4. Go to Appearance > Customize > General settings > Static Front Page<br/"
+#~ ">\n"
+#~ "5. Select A static page<br/>\n"
+#~ "6. In Front Page, select the page that you created in the step 1<br/>\n"
+#~ "7. Save changes"
+#~ msgstr ""
+#~ "1. Crea una página nueva (con cualquier título, no importa)<br/>\n"
+#~ "2. En la columna derecha, ve a Atributos de página > Plantilla y "
+#~ "selecciona (Salinger) Magazine Front Page<br/>\n"
+#~ "3. Haz click en Publicar<br/>\n"
+#~ "4. Ve a Apariencia > Personalizar > Configuración general > Portada "
+#~ "estática<br/>\n"
+#~ "5. Selecciona Una página estática<br/>\n"
+#~ "6. En Portada, selecciona la página que creaste en el paso 1<br/>\n"
+#~ "7. Guarda los cambios"
+
+#~ msgid ""
+#~ "Displays the latest 3 post of specific category. This widget must use it "
+#~ "ONLY on the MAGAZINE FRONT PAGE."
+#~ msgstr ""
+#~ "Muestra las 3 últimas entradas de una categoría específica. Este widget "
+#~ "SOLO debe ser usado en la PÁGINA PRINCIPAL DEL MAGAZINE."
+
+#~ msgid "3 Posts"
+#~ msgstr "3 Entradas"
+
+#~ msgid "Title"
+#~ msgstr "Título"
+
+#~ msgid "Select category"
+#~ msgstr "Selecciona categoría"
+
+#~ msgid "All"
+#~ msgstr "Todas"
+
+#~ msgid "Number of post to pass over"
+#~ msgstr "Número de entradas a pasar por alto"
+
+#~ msgid "Frame"
+#~ msgstr "Marco"
+
+#~ msgid "Frameless"
+#~ msgstr "Sin marco"
+
+#~ msgid "Light frame"
+#~ msgstr "Marco claro"
+
+#~ msgid ""
+#~ "Displays the latest 5 posts of specific category. This widget must use it "
+#~ "ONLY on the MAGAZINE FRONT PAGE, in Mag Front Page: Below Header widget "
+#~ "area."
+#~ msgstr ""
+#~ "Muestra las 5 últimas entradas de una categoría concreta. Este widget "
+#~ "SOLO debe utilizarse en la PÁGINA PRINCIPAL DEL MAGAZINE, en el área de "
+#~ "widgets Mag Front Page: Debajo de la cabecera"
+
+#~ msgid "5 Posts - Style 1"
+#~ msgstr "5 Entradas - Estilo 1"
+
+#~ msgid ""
+#~ "This widget must use it ONLY on the FRONT PAGE, in Below Header widget "
+#~ "area."
+#~ msgstr ""
+#~ "Este widget SOLO debe utilizarse en la PÁGINA PRINCIPAL, en el área de "
+#~ "widgets Debajo de la cabecera."
+
+#~ msgid "Dark frame"
+#~ msgstr "Marco oscuro"
+
+#~ msgid ""
+#~ "Displays the latest 5 posts of specific category. This widget must use it "
+#~ "ONLY on the MAGAZINE FRONT PAGE."
+#~ msgstr ""
+#~ "Muestra las últimas 5 entradas de una categoría específica. Este widget "
+#~ "SOLO debe utilizarse en la PÁGINA PRINCIPAL DEL MAGAZINE."
+
+#~ msgid "5 Posts - Style 2"
+#~ msgstr "5 Entradas - Estilo 2"
+
+#~ msgid "Main item frame"
+#~ msgstr "Marco del elemento principal"
+
+#~ msgid ""
+#~ "Displays the latest posts of two specific categories (each category in a "
+#~ "column). This widget must use it ONLY on the MAGAZINE FRONT PAGE."
+#~ msgstr ""
+#~ "Muestra las últimas entradas de dos categorías específica (cada una en "
+#~ "una columna). Este widget SOLO debe utilizarse en la PÁGINA PRINCIPAL DEL "
+#~ "MAGAZINE."
+
+#~ msgid "Two Columns"
+#~ msgstr "Dos columnas"
+
+#~ msgid "Left Column"
+#~ msgstr "Columna izquierda"
+
+#~ msgid "Category"
+#~ msgstr "Categoría"
+
+#~ msgid "Right Column"
+#~ msgstr "Columna derecha"
+
+#~ msgid "Common"
+#~ msgstr "Común"
+
+#~ msgid "Number of posts to display"
+#~ msgstr "Número de entradas para mostrar"
+
+#~ msgid "Show excerpt"
+#~ msgstr "Mostrar extractos"
+
+#~ msgid ""
+#~ "Please go to Appearance > Customize > Widgets and add at least one widget "
+#~ "to the \"Mag Front Page: Main Content\" widget area. You must use the "
+#~ "\"(Salinger)\" widgets to set up the theme like the demo website."
+#~ msgstr ""
+#~ "Por favor, ve a Apariencia > Personalizar > Widgets y añade al menos un "
+#~ "widget al área de widgets \"Mag Front Page: Main Content\". Debes "
+#~ "utilizar los widgets \"(Salinger)\" para configurar el tema como en la web "
+#~ "de demostración."
+
+#~ msgid "Tag Archives: %s"
+#~ msgstr "Archivos de la etiqueta: %s"
+
+#~ msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "Ver todas las entradas de %s <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid "White color (Uncheck: black)"
+#~ msgstr "Blanco (Desmarcado: Negro)"
+
+#~ msgid "Post navigation"
+#~ msgstr "Navegación de post"
+
+#~ msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+#~ msgstr "<span class=\"meta-nav\">&larr;</span> Entradas más antiguas"
+
+#~ msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "Entradas más recientes <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid "Header Image"
+#~ msgstr "Imagen de cabecera"
+
+#~ msgid "Background Image"
+#~ msgstr "Imagen de fondo"
+
+#~ msgid "Static Front Page"
+#~ msgstr "Portada estática"
+
+#~ msgid "Colors"
+#~ msgstr "Colores"
+
+#~ msgid "Custom text"
+#~ msgstr "Texto personalizado"
+
+#~ msgid "Support Forum"
+#~ msgstr "Foro de soporte"
+
+#~ msgid "Featured post"
+#~ msgstr "Entrada destacada"
+
+#~ msgid "Main Sidebar"
+#~ msgstr "Barra lateral principal"
+
+#, fuzzy
+#~ msgid "Salinger: Header"
+#~ msgstr "Cabecera"
+
+#, fuzzy
+#~ msgid "Salinger: Below post title"
+#~ msgstr "Salinger: Bajo título de entradas"
+
+#, fuzzy
+#~ msgid "Salinger: End of post content"
+#~ msgstr "Salinger: Final de entrada"
+
+#, fuzzy
+#~ msgid "Salinger: Footer 1"
+#~ msgstr "Pie 1"
+
+#, fuzzy
+#~ msgid "Salinger: Footer 2"
+#~ msgstr "Pie 2"
+
+#, fuzzy
+#~ msgid "Salinger: Footer 3"
+#~ msgstr "Pie 3"
+
+#, fuzzy
+#~ msgid "Salinger: Footer 4"
+#~ msgstr "Pie 4"
+
+#~ msgid "Site Identity"
+#~ msgstr "Identidad del sitio"
+
+#~ msgid "Posts"
+#~ msgstr "Entradas"
+
+#~ msgid "Footer text left"
+#~ msgstr "Texto izquierdo del pie"
+
+#~ msgid "Footer text center"
+#~ msgstr "Texto central del pie"
+
+#, fuzzy
+#~ msgid "Footer text right"
+#~ msgstr "Texto derecho del pie"
+
+#~ msgid "Salinger Help"
+#~ msgstr "Ayuda Salinger"
+
+#~ msgid "Thank you for choosing Salinger"
+#~ msgstr "Gracias por elegir Salinger"
+
+#~ msgid ""
+#~ "Salinger is a simple and light WordPress theme with a clear and neat "
+#~ "design. Some its features are: header image or logo, custom theme color "
+#~ "(blue, green, orange or pink), right sidebar or left, excerpts or entire "
+#~ "entries on homepage, main menu on the left or centered, six different "
+#~ "Google Fonts, thumbnails rounded or squared, two widgets areas (beginning "
+#~ "and end of posts), related posts, customization panel, fully responsive, "
+#~ "custom header, custom background and more. Translation Ready (English and "
+#~ "spanish integrated). Required WordPress 4.1+."
+#~ msgstr ""
+#~ "Salinger es un tema para WordPress simple y ligero con un diseño claro y "
+#~ "ordenado. Algunas de sus características son: Imagen de cabecera o logo, "
+#~ "color de tema personalizable (azul, verde, naranja o rosa), sidebar a la "
+#~ "derecha o izquierda, extractos o entradas completas en página principal, "
+#~ "menú a la izquierda o centrado, seis fuentes diferentes de Google, "
+#~ "miniaturas de imagen redondeadas o cuadradas, dos áreas de widgets (al "
+#~ "principio y final de las entradas), entradas relacionadas, panel de "
+#~ "personalización, completamente adaptable, cabecera personalizable, fondo "
+#~ "personalizable y más. Listo para traducir (Inglés y español integrados). "
+#~ "Requiere WordPress 4.1+."
+
+#~ msgid "Salinger Quick Start Guide"
+#~ msgstr "Guía de inicio rápido de Salinger "
+
+#~ msgid "Important: thumbnails"
+#~ msgstr "Importante: thumbnails"
+
+#~ msgid ""
+#~ "For images appear on the homepage, you must set the featured image of the "
+#~ "posts."
+#~ msgstr ""
+#~ "Para que aparezcan las imagenes en los extractos de las entradas debes "
+#~ "establecer la imagen destacada de los posts"
+
+#~ msgid "Customize Salinger"
+#~ msgstr "Personalizar Salinger"
+
+#~ msgid "To customize Salinger go to <i>Appearance > Customize</i>"
+#~ msgstr "Para personalizar Salinger go to <i>Apariencia > Personalizar</i>"
+
+#~ msgid ""
+#~ "To receive support from us or other users visit the <a href=\"https://"
+#~ "wordpress.org/support/theme/salinger\">Salinger forum support on WordPress."
+#~ "org</a>"
+#~ msgstr ""
+#~ "Para recibir nuestro soporte o el de otros usuarios visita el <a href="
+#~ "\"https://wordpress.org/support/theme/salinger\">foro de soporte de "
+#~ "Salinger en WordPress.org</a>"
+
+#~ msgid "Logo in the header"
+#~ msgstr "Logo en la cabecera"
+
+#~ msgid ""
+#~ "if you choose a logo, instead full image for the header, check the option "
+#~ "\"Header image is a logo\" (at the end of the section Header Image). "
+#~ "Then, to apply margins and center the logo activates the appropriate "
+#~ "boxes."
+#~ msgstr ""
+#~ "Si eliges un logo, en lugar de una imagen completa para la cabecera,  "
+#~ "marca la opción \"La imagen de cabecera es un logo\" (al final de la "
+#~ "sección Imagen de Cabecera). Después, para aplicar márgenes o centrar el "
+#~ "logo, activa las opciones correspondientes."
+
+#~ msgid "Review Salinger"
+#~ msgstr "Reseñar y puntuar Salinger"
+
+#~ msgid ""
+#~ "With <strong>Salinger Pro</strong> you can set up your blog with "
+#~ "everything you need in minutes."
+#~ msgstr ""
+#~ "Con <strong>Salinger Pro</strong> puedes configurar tu blog con todo lo "
+#~ "necesario en sólo unos minutos."
+
+#~ msgid "Buy"
+#~ msgstr "Comprar"
+
+#~ msgid "Compare with Lite Version"
+#~ msgstr "Comparar con versión Lite"
+
+#~ msgid "Forum support"
+#~ msgstr "Foro de soporte"
+
+#~ msgid "Unlimited theme colors"
+#~ msgstr "Colores de tema ilimitados"
+
+#~ msgid ""
+#~ "CSS editor integrated in the customizer. You can make changes without "
+#~ "modifying the style.css file."
+#~ msgstr ""
+#~ "Editor CSS integrado en el personalizador. Puedes hacer cambios sin "
+#~ "modificar el archivo style.css."
+
+#~ msgid "Light gray main menu or black"
+#~ msgstr "Menú principal gris claro o negro"
+
+#~ msgid "Sidebar left or right"
+#~ msgstr "Sidebar a la izquierda o derecha"
+
+#~ msgid "Show extract or whole post on homepage."
+#~ msgstr "Mostrar extractos o posts completos en página principal"
+
+#~ msgid "7 widgets areas to add AdSense code or anything else"
+#~ msgstr ""
+#~ "7 &aacute;reas de widgets para insertar c&oacute;digo AdSense o cualquier "
+#~ "otra cosa"
+
+#~ msgid "Easily add yor Login Logo"
+#~ msgstr "Añade fácilmente tu logo de inicio de sesión"
+
+#~ msgid "Available 15 differents Google fonts"
+#~ msgstr "Disponibles 15 fuentes diferentes de Google Fonts"
+
+#~ msgid ""
+#~ "6 Custom widgets (Facebook Page Plugin, Recent posts with square "
+#~ "thumbnails or rounded, Popular posts with square thumbnails or rounded, "
+#~ "Recent comments with square avatars or rounded, Email subscription, Meta "
+#~ "Widget with dashicons and ability to show/hide links)"
+#~ msgstr ""
+#~ "6 Widgets propios (Facebook Page Plugin, Entradas recientes con "
+#~ "thumbnails cuadrados o redondos, Entradas populares con thumbnails "
+#~ "cuadrados o redondos, Comentarios recientes con avatares cuadrados o "
+#~ "redondos, Suscripción por email, Meta Widget con dashicons y posibilidad "
+#~ "de mostrar/ocultar enlaces)"
+
+#~ msgid "Related posts with thumbnails"
+#~ msgstr "Entradas relacionadas con thumbnails"
+
+#~ msgid "Show/Hide post meta (author, date, comments number)"
+#~ msgstr ""
+#~ "Mostrar/Ocultar post meta (autor, fecha, n&uacute;mero de comentarios)"
+
+#~ msgid "Breadcrumb navigation"
+#~ msgstr "Navegaci&oacute;n por breadcrumb"
+
+#~ msgid "Custom pagination"
+#~ msgstr "Paginación propia"
+
+#~ msgid "Custom shortcodes (Buttons, Messages, Accordion and Tabs)"
+#~ msgstr ""
+#~ "Shortcodes propios (Botones, Mensajes, Acorde&oacuten y Pesta&ntilde;as)"
+
+#~ msgid "Social networks in user profile"
+#~ msgstr "Redes sociales en perfil de usuario"
+
+#~ msgid "Google Plus Authorship Integration"
+#~ msgstr "Integraci&oacute;n con Google Plus Authorship"
+
+#~ msgid "Easily apply Salinger style to bbPress, just check the option."
+#~ msgstr ""
+#~ "Aplica f&aacute;cilmente el estilo de Salinger a bbPress, solo marca la "
+#~ "opci&oacute;n"
+
+#~ msgid "Google Analytics ready, just paste the code"
+#~ msgstr "Preparado para Google Analytics, solo pega el c&oacute;digo"
+
+#~ msgid "AddThis ready, just paste the code"
+#~ msgstr "Preparado para AddThis, solo pega el c&oacute;digo"
+
+#~ msgid "Translation Ready (.po file integrated)"
+#~ msgstr "Translation Ready (archivo .po integrado)"
+
+#~ msgid "Integrated Spanish and English"
+#~ msgstr "Español e inglés integrados"
+
+#, fuzzy
+#~ msgid "Header Widget Area"
+#~ msgstr "Cabecera"
+
+#, fuzzy
+#~ msgid "Appears on header."
+#~ msgstr "Aparece debajo de la cabecera del sitio"
+
+#~ msgid "Copyright 2015"
+#~ msgstr "Copyright 2015"
+
+#~ msgid "Blue WP"
+#~ msgstr "Azul WP"
+
+#~ msgid "Golden"
+#~ msgstr "Dorado"
+
+#~ msgid "Purple"
+#~ msgstr "Púrpura"
+
+#~ msgid "Apply to top bar"
+#~ msgstr "Aplicar a la barra superior"
+
+#~ msgid "Apply to the header when there is no image"
+#~ msgstr "Aplicar a la cabecera cuando no haya imagen"
+
+#~ msgid "(Uncheck: White)"
+#~ msgstr "(Desmarcado: Blanco)"
+
+#~ msgid "Top bar and social icons"
+#~ msgstr "Barra superior e iconos sociales"
+
+#~ msgid "(Leave blank text boxes to not display icons)"
+#~ msgstr "(Deja en blanco las cajas de texto para no mostrar los iconos)"
+
+#~ msgid "Display blog title in top bar"
+#~ msgstr "Mostrar el título del blog en la barra superior"
+
+#~ msgid "Twitter URL"
+#~ msgstr "URL de Twitter"
+
+#~ msgid "Facebook URL"
+#~ msgstr "URL de Facebook"
+
+#~ msgid "Google Plus URL"
+#~ msgstr "URL de Google Plus"
+
+#~ msgid "LinkedIn URL"
+#~ msgstr "URL de LinkedIn"
+
+#~ msgid "YouTube URL"
+#~ msgstr "URL de YouTube"
+
+#~ msgid "Instagram URL"
+#~ msgstr "URL de Instagram"
+
+#~ msgid "Pinterest URL"
+#~ msgstr "URL de Pinterest"
+
+#~ msgid "RSS URL"
+#~ msgstr "URL del RSS"
+
+#~ msgid "Header image is a logo"
+#~ msgstr "La imagen de cabecera es un logo"
+
+#~ msgid "(You must have this option checked to apply the following)"
+#~ msgstr "(Debes tener esta opción activada para aplicar las siguientes)"
+
+#~ msgid "Apply logo margins"
+#~ msgstr "Aplicar márgenes al logo"
+
+#~ msgid "With logo, white background"
+#~ msgstr "Con logo, fondo blanco"
+
+#~ msgid "Show line above the menu"
+#~ msgstr "Mostrar línea sobre el menú"
+
+#~ msgid ", "
+#~ msgstr ","
+
+#~ msgid "View all posts by %s"
+#~ msgstr "Ver todas las entradas de %s"
+
+#~ msgid ""
+#~ "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-"
+#~ "author\"> by %4$s</span>."
+#~ msgstr ""
+#~ "Esta entrada se publicó en %1$s y está etiquetada con %2$s el %3$s<span "
+#~ "class=\"by-author\"> por %4$s</span>."
+
+#~ msgid ""
+#~ "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</"
+#~ "span>."
+#~ msgstr ""
+#~ "Esta entrada fue publicada en %1$s el %3$s<span class=\"by-author\"> por "
+#~ "%4$s</span>."
+
+#~ msgid ""
+#~ "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+#~ msgstr ""
+#~ "Esta entrada fue publicada el %3$s<span class=\"by-author\"> por %4$s</"
+#~ "span>."
+
+#~ msgctxt "Previous post link"
+#~ msgid "&larr;"
+#~ msgstr "&larr;"
+
+#~ msgctxt "Next post link"
+#~ msgid "&rarr;"
+#~ msgstr "&rarr;"
+
+#~ msgid "Excerpt length (number of words)"
+#~ msgstr "Longitud del extracto (número de palabras)"
+
+#~ msgid "Back to top"
+#~ msgstr "Volver arriba"
+
+#~ msgid "Author: %s"
+#~ msgstr "Autor: %s"
+
+#~ msgid "Help"
+#~ msgstr "Ayuda"
+
+#, fuzzy
+#~ msgid "Show/Hide pages title"
+#~ msgstr "Mostrar/Ocultar t&iacute;tulos de p&aacute;gina"
+
+#, fuzzy
+#~ msgid "Salinger Guide"
+#~ msgstr "ZeroGravity - Gu&iacute;a"
+
+#, fuzzy
+#~ msgid ""
+#~ "Go to \"Appearance >> Customize >> Salinger Options\" and set the options "
+#~ "in the sections \"ZG: Color, Favicon and Sidebar\", \"ZG: Top bar and "
+#~ "social icons\", \"ZG: Logo in the header\", \"ZG: Posts and footer text"
+#~ "\", \"ZG: Fonts\"."
+#~ msgstr ""
+#~ "Ve a \"Apariencia >> Personalizar >> ZeroGravity Opciones\" y configura "
+#~ "las opciones en las secciones \"Color, Favicon and Sidebar\", \"Barra "
+#~ "superior e iconos sociales\", \"Logo en la cabecera\", \"ZG: Entradas y "
+#~ "textos del pie\", \"Fuentes\"."
+
+#, fuzzy
+#~ msgid "Salinger Options"
+#~ msgstr "Ajustes"
+
+#, fuzzy
+#~ msgid ""
+#~ "if you choose a logo, instead full image for the header, go to the "
+#~ "section \"Logo in the header\" and check the option \"Header image is a "
+#~ "logo\". You can too center the logo."
+#~ msgstr ""
+#~ "Si eliges un logo, en lugar de una imagen completa para la cabecera, ve a "
+#~ "la secci&oacute; \"Logo en la cabecera\" y marca la opci&oacuten \"La "
+#~ "imagen de cabecera es un logo\". Tambi&eacute; puedes centrar el logo."
+
+#, fuzzy
+#~ msgid "Before to check \"Header image is a logo\"."
+#~ msgstr "Antes de marcar \"La imagen de cabecera es un logo\"."
+
+#, fuzzy
+#~ msgid "After to check \"Header image is a logo\"."
+#~ msgstr "Despu&eacute;s de marcar \"La imagen de cabecera es un logo\""
+
+#, fuzzy
+#~ msgid "Customizable maximum width"
+#~ msgstr "Anchura máxima del sitio personalizable"
+
+#, fuzzy
+#~ msgid "Easily add your Favicon"
+#~ msgstr "A&ntilde;ade f&aacute;cilmente tu favicon"
+
+#, fuzzy
+#~ msgid ""
+#~ "Custom widgets (Recent posts with square thumbnails or rounded, Popular "
+#~ "posts with square thumbnails or rounded, Recent comments with square "
+#~ "avatars or rounded, Email subscription)"
+#~ msgstr ""
+#~ "Widgets propios (Entradas recientes con thumbnails cuadrados o redondos, "
+#~ "Entradas populares con thumbnails cuadrados o redondos, Comentarios "
+#~ "recientes con avatares cuadrados o redondos, Suscripción por email)"
+
+#, fuzzy
+#~ msgid "Center logo (Just if \"Header image is a logo\" is checked)"
+#~ msgstr ""
+#~ "Centrar logo (Solo si \"La imagen de cabecera es un logo\" est&aacute; "
+#~ "activada"
+
+#, fuzzy
+#~ msgid "More info"
+#~ msgstr "Informaci&oacute;n de contacto"

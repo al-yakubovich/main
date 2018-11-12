@@ -1,0 +1,855 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-07-29 00:35-0500\n"
+"PO-Revision-Date: 2016-06-19 01:08-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _n:1,2;_e;esc_html__;_nx:1,2;printf\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .git\n"
+"X-Poedit-SearchPathExcluded-1: assets\n"
+"X-Poedit-SearchPathExcluded-2: inc/kirki\n"
+
+#: comments.php:16
+msgid "Name"
+msgstr ""
+
+#: comments.php:22
+msgid "Email Address"
+msgstr ""
+
+#: comments.php:28
+msgid "Website"
+msgstr ""
+
+#: comments.php:32
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: comments.php:37
+msgid "Comments"
+msgstr ""
+
+#: comments.php:44
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:45
+msgid "Post your comment &raquo;"
+msgstr ""
+
+#: comments.php:94
+#, php-format
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: customize/customizer.php:24
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: customize/customizer.php:30
+msgid "General Settings"
+msgstr ""
+
+#: customize/customizer.php:37
+msgid "Front Page"
+msgstr ""
+
+#: customize/customizer.php:40
+msgid "Banner / Slider"
+msgstr ""
+
+#: customize/customizer.php:45 customize/theme-defaults.php:45
+msgid "Featured Posts"
+msgstr ""
+
+#: customize/customizer.php:50
+msgid "Highlight Post 1"
+msgstr ""
+
+#: customize/customizer.php:55
+msgid "Promo Category 1"
+msgstr ""
+
+#: customize/customizer.php:60
+msgid "Posts Strip"
+msgstr ""
+
+#: customize/customizer.php:65
+msgid "Featured Pages"
+msgstr ""
+
+#: customize/customizer.php:70
+msgid "Sidebar"
+msgstr ""
+
+#: customize/customizer.php:77
+msgid "Blog Feed"
+msgstr ""
+
+#: customize/customizer.php:83
+msgid "Posts"
+msgstr ""
+
+#: customize/customizer.php:89 inc/helper-functions.php:167
+msgid "Pages"
+msgstr ""
+
+#: customize/customizer.php:167
+msgid "CRESSIDA"
+msgstr ""
+
+#: customize/customizer.php:169 welcome-page/welcome-page.php:85
+msgid "Cressida Pro"
+msgstr ""
+
+#: customize/customizer.php:171
+msgid ""
+"Upgrade for the many awesome features and expert support included with the "
+"pro version of this theme."
+msgstr ""
+
+#: customize/customizer.php:179
+msgid "Current Theme: Cressida"
+msgstr ""
+
+#: customize/customizer.php:180
+msgid "Demo Site"
+msgstr ""
+
+#: customize/customizer.php:181
+msgid ""
+"Head on over to the Cressida demo to see what you can accomplish with this "
+"theme!"
+msgstr ""
+
+#: customize/customizer.php:184
+msgid ""
+"Read how to customize the theme, set up widgets, and learn of all the "
+"possible options available to you."
+msgstr ""
+
+#: customize/customizer.php:186
+msgid "Sample Data"
+msgstr ""
+
+#: customize/customizer.php:187
+msgid ""
+"You can install the content and settings shown on our demo site by importing "
+"this sample data."
+msgstr ""
+
+#: customize/customizer.php:189
+msgid "Feedback and Support"
+msgstr ""
+
+#: customize/customizer.php:190
+msgid ""
+"For feedback and support, please contact us and we would be happy to assist!"
+msgstr ""
+
+#: customize/customizer.php:204
+msgid "Copyright Text"
+msgstr ""
+
+#: customize/customizer.php:205
+msgid "Accepts HTML."
+msgstr ""
+
+#: customize/customizer.php:214
+msgid "Show Example Content?"
+msgstr ""
+
+#: customize/customizer.php:215
+msgid ""
+"Turning this off will disable all default/sample images for posts. It will "
+"also hide all default widgets in the Default Sidebar."
+msgstr ""
+
+#: customize/customizer.php:227
+msgid "Show Image Logo?"
+msgstr ""
+
+#: customize/customizer.php:228
+msgid "Choose whether to display the image logo."
+msgstr ""
+
+#: customize/customizer.php:240
+msgid "Text Logo"
+msgstr ""
+
+#: customize/customizer.php:241
+msgid ""
+"Displayed when `Show Image Logo?` is set to `Show` or if there is no logo "
+"image uploaded."
+msgstr ""
+
+#: customize/customizer.php:256
+msgid "Show Tagline?"
+msgstr ""
+
+#: customize/customizer.php:257
+msgid "Choose whether to display site tagline."
+msgstr ""
+
+#: customize/customizer.php:282
+msgid "Caption Heading"
+msgstr ""
+
+#: customize/customizer.php:291
+msgid "Caption Description"
+msgstr ""
+
+#: customize/customizer.php:300 customize/theme-defaults.php:33
+msgid "Button Label"
+msgstr ""
+
+#: customize/customizer.php:309
+msgid "Button Link"
+msgstr ""
+
+#: customize/customizer.php:321
+msgid "Frontpage Banner / Slider"
+msgstr ""
+
+#: customize/customizer.php:353
+msgid "Posts Slider"
+msgstr ""
+
+#: customize/customizer.php:354
+msgid "Add posts for Posts Slider."
+msgstr ""
+
+#: customize/customizer.php:384
+msgid "Show Featured Posts?"
+msgstr ""
+
+#: customize/customizer.php:385
+msgid "Choose whether to display the featured posts under the banner/slider."
+msgstr ""
+
+#: customize/customizer.php:410 customize/customizer.php:617
+msgid "Heading"
+msgstr ""
+
+#: customize/customizer.php:446
+msgid "Show Highlight Post 1?"
+msgstr ""
+
+#: customize/customizer.php:447
+msgid "Choose whether to display highlighted post on Frontpage."
+msgstr ""
+
+#: customize/customizer.php:460
+msgid "Select Post"
+msgstr ""
+
+#: customize/customizer.php:475
+msgid "Choose Background Color"
+msgstr ""
+
+#: customize/customizer.php:480
+msgid "Light"
+msgstr ""
+
+#: customize/customizer.php:481
+msgid "Dark"
+msgstr ""
+
+#: customize/customizer.php:495
+msgid "Show Promo Category 1?"
+msgstr ""
+
+#: customize/customizer.php:496
+msgid "Choose whether to display Promo Category 1 section on Frontpage."
+msgstr ""
+
+#: customize/customizer.php:509 customize/customizer.php:553
+msgid "Choose Category"
+msgstr ""
+
+#: customize/customizer.php:523
+msgid "Number of Posts to Show"
+msgstr ""
+
+#: customize/customizer.php:539
+msgid "Show Posts Strip?"
+msgstr ""
+
+#: customize/customizer.php:540
+msgid "Choose whether to display Posts Strip on Frontpage."
+msgstr ""
+
+#: customize/customizer.php:554
+msgid "Make sure that selected category is assigned to at least 6 posts."
+msgstr ""
+
+#: customize/customizer.php:571
+msgid "Show Featured Pages?"
+msgstr ""
+
+#: customize/customizer.php:572
+msgid "Choose whether to display Featured Pages section on Frontpage."
+msgstr ""
+
+#: customize/customizer.php:600
+msgid "Hide Sidebar on Mobile Screens?"
+msgstr ""
+
+#: customize/customizer.php:601
+msgid "Choose whether to display sidebar on the front page for small screens."
+msgstr ""
+
+#: customize/customizer.php:625 customize/customizer.php:698
+msgid "Show Meta?"
+msgstr ""
+
+#: customize/customizer.php:626
+msgid ""
+"Choose whether to display date, category, author, tags for posts in the blog "
+"feed. This applies to all blog feeds on all pages, including the front page."
+msgstr ""
+
+#: customize/customizer.php:638 customize/customizer.php:724
+msgid "Show Category?"
+msgstr ""
+
+#: customize/customizer.php:651 customize/customizer.php:711
+msgid "Show Date?"
+msgstr ""
+
+#: customize/customizer.php:673
+msgid "Show “View Post” link?"
+msgstr ""
+
+#: customize/customizer.php:681
+msgid "Label for “View Post” link"
+msgstr ""
+
+#: customize/customizer.php:699
+msgid ""
+"Choose whether to display date, category, author, tags for posts on the post "
+"page."
+msgstr ""
+
+#: customize/customizer.php:737
+msgid "Show Tags?"
+msgstr ""
+
+#: customize/customizer.php:757
+msgid "Show Featured Image?"
+msgstr ""
+
+#: customize/customizer.php:758
+msgid "Whether to show featured image at the beginning of the post."
+msgstr ""
+
+#: customize/customizer.php:766
+msgid "Show Next/Prev Posts Links?"
+msgstr ""
+
+#: customize/customizer.php:767
+msgid "Whether to show Next/Prev navigation below the post."
+msgstr ""
+
+#: customize/customizer.php:778
+msgid "Show Featured Image ?"
+msgstr ""
+
+#: customize/customizer.php:779
+msgid "Whether to show featured image at the beginning of the page."
+msgstr ""
+
+#: customize/theme-defaults.php:80 inc/helper-functions.php:171
+msgid "Recent Posts"
+msgstr ""
+
+#: customize/theme-defaults.php:85 parts/frontpage-promo-1.php:66
+msgid "View Post &raquo;"
+msgstr ""
+
+#: functions.php:58
+msgid "Main Menu"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2388
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2951
+#, php-format
+msgid "<div id=\"message\" class=\"updated\"><p>%1$s %2$s.</p></div>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-wp-bootstrap-navwalker.php:368
+msgid "Add a menu"
+msgstr ""
+
+#: inc/helper-functions.php:163 inc/helper-functions.php:204
+msgid "Search"
+msgstr ""
+
+#: inc/helper-functions.php:175
+msgid "Archives"
+msgstr ""
+
+#: inc/helper-functions.php:179
+msgid "Categories"
+msgstr ""
+
+#: inc/helper-functions.php:183
+msgid "Search by Tags"
+msgstr ""
+
+#: inc/template-functions.php:214
+msgid "Edit"
+msgstr ""
+
+#: inc/template-functions.php:233
+msgid "Reply"
+msgstr ""
+
+#: inc/template-functions.php:234
+msgid "Log in to reply."
+msgstr ""
+
+#: inc/template-tags.php:49
+msgid "Tags:"
+msgstr ""
+
+#: inc/template-tags.php:428
+msgid "View post &raquo;"
+msgstr ""
+
+#: parts/archive-navigation.php:13
+msgid "Previous posts"
+msgstr ""
+
+#: parts/archive-navigation.php:17
+msgid "Newer posts"
+msgstr ""
+
+#: parts/archive-pagination.php:9
+msgid "Prev"
+msgstr ""
+
+#: parts/archive-pagination.php:10
+msgid "Next"
+msgstr ""
+
+#: parts/entry-shop-post.php:18
+msgid "View more items &raquo;"
+msgstr ""
+
+#: welcome-page/class.welcomepage.php:117
+msgid "About %"
+msgstr ""
+
+#: welcome-page/class.welcomepage.php:120
+msgid "Welcome to %"
+msgstr ""
+
+#: welcome-page/class.welcomepage.php:124
+#, php-format
+msgid "Welcome! Thank you for choosing %s! "
+msgstr ""
+
+#: welcome-page/class.welcomepage.php:125
+msgid ""
+"To fully take advantage of the best our theme can offer please make sure you "
+"visit our "
+msgstr ""
+
+#: welcome-page/class.welcomepage.php:126
+msgid "welcome page"
+msgstr ""
+
+#: welcome-page/class.welcomepage.php:127
+#, php-format
+msgid "Get started with %s"
+msgstr ""
+
+#: welcome-page/class.welcomepage.php:222
+msgid "More Details"
+msgstr ""
+
+#: welcome-page/class.welcomepage.php:223
+msgid "View Demo"
+msgstr ""
+
+#: welcome-page/class.welcomepage.php:224
+msgid "Pro Version"
+msgstr ""
+
+#: welcome-page/class.welcomepage.php:340
+#: welcome-page/class.welcomepage.php:404
+#, php-format
+msgid "Upgrade to %s"
+msgstr ""
+
+#: welcome-page/class.welcomepage.php:341
+#: welcome-page/class.welcomepage.php:405
+msgid "Review Full Comparison"
+msgstr ""
+
+#: welcome-page/class.welcomepage.php:347
+msgid "Features"
+msgstr ""
+
+#: welcome-page/welcome-page.php:16 welcome-page/welcome-page.php:17
+msgid "Welcome to Cressida"
+msgstr ""
+
+#: welcome-page/welcome-page.php:19
+#, php-format
+msgid "Welcome to %s, version "
+msgstr ""
+
+#: welcome-page/welcome-page.php:25
+msgid "Getting Started"
+msgstr ""
+
+#: welcome-page/welcome-page.php:26
+msgid "Support"
+msgstr ""
+
+#: welcome-page/welcome-page.php:27
+msgid "Free vs Pro"
+msgstr ""
+
+#: welcome-page/welcome-page.php:35
+msgid "Required Actions"
+msgstr ""
+
+#: welcome-page/welcome-page.php:36
+msgid ""
+"Be sure to install and activate the Kirki plugin. It is required to make "
+"full use of the customization features of this theme."
+msgstr ""
+
+#: welcome-page/welcome-page.php:37
+msgid "Install Plugins"
+msgstr ""
+
+#: welcome-page/welcome-page.php:42 welcome-page/welcome-page.php:44
+#: welcome-page/welcome-page.php:71 welcome-page/welcome-page.php:73
+msgid "Documentation"
+msgstr ""
+
+#: welcome-page/welcome-page.php:43
+msgid ""
+"For more information on how to fully utilize all the features of Cressida, "
+"please review the full documentation."
+msgstr ""
+
+#: welcome-page/welcome-page.php:49
+msgid "Customize and Set Up"
+msgstr ""
+
+#: welcome-page/welcome-page.php:50
+msgid ""
+"Use the WordPress Customizer to set up and customize your website. Click the "
+"button below, or go to Appearance > Customize."
+msgstr ""
+
+#: welcome-page/welcome-page.php:51
+msgid "Go to the Customizer"
+msgstr ""
+
+#: welcome-page/welcome-page.php:64 welcome-page/welcome-page.php:66
+msgid "Contact Support"
+msgstr ""
+
+#: welcome-page/welcome-page.php:65
+msgid ""
+"If you need any help with theme set up, options, enhancements, or about how "
+"a feature works, please feel free to reach out and we'd be happy to assist. "
+"LyraThemes has a world class support team, and we try our best to respond to "
+"all queries within 24-48 hours."
+msgstr ""
+
+#: welcome-page/welcome-page.php:72
+msgid ""
+"For more information on how to fully utilize all the features of Cressida, "
+"please review the full documentation. We have tried to add as much "
+"information as possible, including screenshots and videos, to help you make "
+"the most of this theme."
+msgstr ""
+
+#: welcome-page/welcome-page.php:84
+msgid "Cressida"
+msgstr ""
+
+#: welcome-page/welcome-page.php:89
+msgid "Built-in Product Recommendation / Affiliate System for Posts"
+msgstr ""
+
+#: welcome-page/welcome-page.php:90
+msgid "Built-in Promo / Products Box (Sidebar)"
+msgstr ""
+
+#: welcome-page/welcome-page.php:91
+msgid "Built-in Promo / Products Box (Front Page)"
+msgstr ""
+
+#: welcome-page/welcome-page.php:92
+msgid "Built-in MailChimp Widget"
+msgstr ""
+
+#: welcome-page/welcome-page.php:93
+msgid "Front Page Custom Slider"
+msgstr ""
+
+#: welcome-page/welcome-page.php:94
+msgid "Special Category Page Layout"
+msgstr ""
+
+#: welcome-page/welcome-page.php:95
+msgid "Optional Sticky / Fixed Main Menu"
+msgstr ""
+
+#: welcome-page/welcome-page.php:96
+msgid "Built-in Affiliate Links Widget"
+msgstr ""
+
+#: welcome-page/welcome-page.php:97
+msgid "Built-in About Me Widget"
+msgstr ""
+
+#: welcome-page/welcome-page.php:98
+msgid "Built-in Image Box Widget"
+msgstr ""
+
+#: welcome-page/welcome-page.php:99
+msgid "Full Width Posts"
+msgstr ""
+
+#: welcome-page/welcome-page.php:100
+msgid "Full Width Pages"
+msgstr ""
+
+#: welcome-page/welcome-page.php:101
+msgid "Custom Colors"
+msgstr ""
+
+#: welcome-page/welcome-page.php:102
+msgid "Custom Fonts (600+ Google Fonts)"
+msgstr ""
+
+#: welcome-page/welcome-page.php:103
+msgid "Front Page Header Image / Banner"
+msgstr ""
+
+#: welcome-page/welcome-page.php:104
+msgid "Front Page Posts Slider"
+msgstr ""
+
+#: welcome-page/welcome-page.php:105
+msgid "Front Page Slider / Banner with Sidebar"
+msgstr ""
+
+#: welcome-page/welcome-page.php:106
+msgid "Front Page Featured Posts"
+msgstr ""
+
+#: welcome-page/welcome-page.php:107
+msgid "Front Page Highlight Post"
+msgstr ""
+
+#: welcome-page/welcome-page.php:108
+msgid "Front Page Promo Category"
+msgstr ""
+
+#: welcome-page/welcome-page.php:109
+msgid "Front Page Posts Strip"
+msgstr ""
+
+#: welcome-page/welcome-page.php:110
+msgid "Front Page Featured Pages / Links"
+msgstr ""
+
+#: welcome-page/welcome-page.php:111
+msgid "Hide Sidebar on Small Screens"
+msgstr ""
+
+#: welcome-page/welcome-page.php:112
+msgid "Video Posts"
+msgstr ""
+
+#: welcome-page/welcome-page.php:113
+msgid "MailChimp Support (Embedded Forms)"
+msgstr ""
+
+#: welcome-page/welcome-page.php:114
+msgid "Integration with WP Instagram Widget"
+msgstr ""
+
+#: welcome-page/welcome-page.php:115
+msgid "Easy to Create Social Media Icon Menus"
+msgstr ""
+
+#: welcome-page/welcome-page.php:116
+msgid "Header and Footer Area Widgets"
+msgstr ""
+
+#: widgets/widgets.php:17
+msgid "Sidebar - Default"
+msgstr ""
+
+#: widgets/widgets.php:25
+msgid "Sidebar - Default - Bordered"
+msgstr ""
+
+#: widgets/widgets.php:35
+msgid "Sidebar - Front Page"
+msgstr ""
+
+#: widgets/widgets.php:43
+msgid "Sidebar - Front Page - Bordered"
+msgstr ""
+
+#: widgets/widgets.php:51
+msgid "Sidebar - Front Page - Promo Category 1"
+msgstr ""
+
+#: widgets/widgets.php:61
+msgid "Header - Left"
+msgstr ""
+
+#: widgets/widgets.php:63
+msgid "Add widgets here to appear in the top left area."
+msgstr ""
+
+#: widgets/widgets.php:71
+msgid "Header - Right"
+msgstr ""
+
+#: widgets/widgets.php:73
+msgid "Add widgets here to appear in the top right area."
+msgstr ""
+
+#: widgets/widgets.php:82
+msgid "Front Page - Top"
+msgstr ""
+
+#: widgets/widgets.php:92
+msgid "Footer - Full 1"
+msgstr ""
+
+#: widgets/widgets.php:101
+msgid "Footer - Full 2"
+msgstr ""
+
+#: widgets/widgets.php:110
+msgid "Footer - Left"
+msgstr ""
+
+#: widgets/widgets.php:118
+msgid "Footer - Center"
+msgstr ""
+
+#: widgets/widgets.php:126
+msgid "Footer - Right"
+msgstr ""

@@ -1,0 +1,348 @@
+# Copyright (C) 2018 Iceable Media
+# This file is distributed under the GNU General Public License v2 (GPLv2).
+msgid ""
+msgstr ""
+"Project-Id-Version: BoldR Lite 1.2.16\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2018-01-31 13:33:51+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: index.php:84 single.php:52
+msgid "1"
+msgstr ""
+
+#: 404.php:17 page-templates/full-width.php:81
+msgid "404"
+msgstr ""
+
+#: 404.php:21
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:22 index.php:203 page-templates/full-width.php:86 page.php:74
+#: single.php:229
+msgid "What you are looking for isn't here..."
+msgstr ""
+
+#: 404.php:23
+msgid "Maybe a search will help ?"
+msgstr ""
+
+#: comments.php:14
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:19
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:31
+#. Translators: %1$s is the number of comments, %2$s is the post title
+msgid "%1$s Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:43
+msgid "Reply"
+msgstr ""
+
+#: comments.php:57
+msgid "Older comments"
+msgstr ""
+
+#: comments.php:65
+msgid "Newer comments"
+msgstr ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:37
+#. Translators: %1$s is the copyright date, %2$s is the site name (e.g.
+#. Copyright © 2018, My Website)
+msgid "Copyright &copy; %1$s %2$s."
+msgstr ""
+
+#: footer.php:44
+#. Translators: "Powered by" link to WordPress.org. %1$s is the localized
+#. wordpress.org url (e.g. https:en.wordpress.org), %2$s is title attribute for
+#. the link ("Semantic Personal Publishing Platform"), %3$s is the anchor
+#. ("WordPress")
+msgid "Proudly powered by <a href=\"%1$s\" title=\"%2$s\">%3$s</a>."
+msgstr ""
+
+#: footer.php:45
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:46
+msgid "Semantic Personal Publishing Platform"
+msgstr ""
+
+#: footer.php:47
+msgid "WordPress"
+msgstr ""
+
+#: footer.php:52
+#. Translators: %s is a link to the theme author's website with the name
+#. "Iceable Themes" as anchor
+msgid "BoldR design by %s."
+msgstr ""
+
+#: functions.php:116
+msgid "Default Sidebar"
+msgstr ""
+
+#: functions.php:129
+msgid "Footer"
+msgstr ""
+
+#: functions.php:231 functions.php:237
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/customizer.php:19
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/customizer.php:25
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer/customizer.php:33
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:40
+msgid "Misc"
+msgstr ""
+
+#: inc/customizer/customizer.php:48
+msgid "More"
+msgstr ""
+
+#: inc/customizer/customizer.php:67
+msgid "Upload your logo"
+msgstr ""
+
+#: inc/customizer/customizer.php:68
+msgid "If no logo is uploaded, the site title will be displayed instead."
+msgstr ""
+
+#: inc/customizer/customizer.php:89
+msgid "Blog Index Content"
+msgstr ""
+
+#: inc/customizer/customizer.php:94
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer/customizer.php:95
+msgid "Full content"
+msgstr ""
+
+#: inc/customizer/customizer.php:115
+msgid "Responsive Mode"
+msgstr ""
+
+#: inc/customizer/customizer.php:120 inc/customizer/customizer.php:146
+#: inc/customizer/customizer.php:171 inc/customizer/customizer.php:196
+#: inc/customizer/customizer.php:221
+msgid "On"
+msgstr ""
+
+#: inc/customizer/customizer.php:121 inc/customizer/customizer.php:147
+#: inc/customizer/customizer.php:172 inc/customizer/customizer.php:197
+#: inc/customizer/customizer.php:222
+msgid "Off"
+msgstr ""
+
+#: inc/customizer/customizer.php:141
+msgid "Display header on Homepage"
+msgstr ""
+
+#: inc/customizer/customizer.php:166
+msgid "Display header on Blog Index"
+msgstr ""
+
+#: inc/customizer/customizer.php:191
+msgid "Display header on Single Posts"
+msgstr ""
+
+#: inc/customizer/customizer.php:216
+msgid "Display header on Pages"
+msgstr ""
+
+#: inc/customizer/customizer.php:242
+msgid "Get BoldR Pro"
+msgstr ""
+
+#: inc/customizer/customizer.php:243
+msgid ""
+"Unleash the full potential of BoldR with tons of additional settings, "
+"advanced features and premium support."
+msgstr ""
+
+#: inc/customizer/customizer.php:265
+msgid "BoldR Lite support forums"
+msgstr ""
+
+#: inc/customizer/customizer.php:266
+msgid "Have a question? Need help?"
+msgstr ""
+
+#: inc/customizer/customizer.php:288
+msgid "Rate BoldR Lite"
+msgstr ""
+
+#: inc/customizer/customizer.php:289
+msgid "Like this theme? We'd love to hear your feedback!"
+msgstr ""
+
+#: inc/customizer/customizer.php:316
+msgid "Upgrade to BoldR Pro!"
+msgstr ""
+
+#: index.php:24
+#. Translators: %s is the search term.
+msgid "Search Results for \"%s\""
+msgstr ""
+
+#: index.php:83 single.php:51
+msgid "No"
+msgstr ""
+
+#: index.php:85 single.php:53
+msgid "%"
+msgstr ""
+
+#: index.php:90 index.php:91 single.php:58 single.php:59
+msgid "Comment"
+msgstr ""
+
+#: index.php:92 single.php:60
+msgid "Comments"
+msgstr ""
+
+#: index.php:94 single.php:62
+msgid "Comments Off"
+msgstr ""
+
+#: index.php:103 single.php:72
+msgid "by "
+msgstr ""
+
+#: index.php:108 page-templates/full-width.php:46 page.php:45 single.php:79
+msgid "Edit"
+msgstr ""
+
+#: index.php:145 single.php:113
+msgid "Posted in"
+msgstr ""
+
+#: index.php:164 single.php:138
+msgid "Tags"
+msgstr ""
+
+#: index.php:184 index.php:202 page-templates/full-width.php:85 page.php:73
+#: single.php:228
+msgid "Not Found"
+msgstr ""
+
+#: index.php:189
+#. Translators: %s is the search term
+msgid "Your search for \"%s\" did not return any result."
+msgstr ""
+
+#: index.php:194
+msgid "Would you like to try another search ?"
+msgstr ""
+
+#: index.php:216
+msgid "Previous Posts"
+msgstr ""
+
+#: index.php:222
+msgid "Next Posts"
+msgstr ""
+
+#: page-templates/full-width.php:29 page.php:29 single.php:125
+msgid "Pages:"
+msgstr ""
+
+#: page-templates/full-width.php:34 page.php:34 single.php:130
+msgid "Next page"
+msgstr ""
+
+#: page-templates/full-width.php:35 page.php:35 single.php:131
+msgid "Previous page"
+msgstr ""
+
+#: sidebar.php:20
+msgid "Recent Posts"
+msgstr ""
+
+#: sidebar.php:25
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:30
+msgid "Meta"
+msgstr ""
+
+#: single.php:154
+msgid "Previous Image"
+msgstr ""
+
+#: single.php:162
+msgid "Next Image"
+msgstr ""
+
+#: single.php:172 single.php:205
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:180 single.php:213
+msgid "Next Post"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "BoldR Lite"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.iceablethemes.com/shop/boldr-lite/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"BoldR Lite is a Bold, Responsive, Magazine-style theme for WordPress. "
+"Suitable for any website and perfect for tech or design oriented blogs and "
+"creative business websites. It features two widgetizable areas (Sidebar and "
+"optional Footer), two menu locations (Navbar and Footer), optional Tagline "
+"display, custom Logo and Favicon, Custom Header Image and Custom "
+"Background. BoldR Lite is Translation Ready (.pot file included) and "
+"already includes 7 user-contributed translations in addition to English: "
+"French (fr_FR), Russian (ru_RU), German (de_DE), Spanish (es_ES), Brazilian "
+"Portuguese (pt_BR), Polish (pl_PL) and Italian (it_IT)."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Iceable Media"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.iceablethemes.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full-width Page Template, No Sidebar"
+msgstr ""

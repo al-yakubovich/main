@@ -1,0 +1,370 @@
+/**
+ ************************************************************************************************************************
+ * Backdrop Core - screen.css
+ ************************************************************************************************************************
+ * @package        Backdrop
+ * @copyright      Copyright (C) 2018. Benjamin Lu
+ * @license        GNU General Public License v2 or later (https://www.gnu.org/licenses/gpl-2.0.html)
+ * @author         Benjamin Lu (https://benjlu.com)
+ ************************************************************************************************************************
+ */
+
+/**
+ ************************************************************************************************************************
+ * Table of Content
+ ************************************************************************************************************************
+ *  1.0 - Typography
+ *  2.0 - Elements
+ *  3.0 - Forms
+ *  4.0 - Alignments
+ *  5.0 - Accessibility
+ *  6.0 - Clearings
+ *  7.0 - Navigation (Links)
+ *  8.0 - Navigation (Pagination)
+ *  9.0 - Captions
+ * 10.0 - Galleries
+ ************************************************************************************************************************
+ */
+
+ /**
+ ************************************************************************************************************************
+ *  1.0 - Typography
+ ************************************************************************************************************************
+ */
+ h1 { 
+    display: block;
+    font-family: 'Fira Sans', serif;
+    font-size: 2em;
+    font-weight: 700;
+    margin: 0.67em 0;
+}
+
+h2 {
+    display: block;
+    font-family: 'Fira Sans', serif;
+    font-size: 1.5em;
+    font-weight: 700;
+    margin: 0.83em 0;
+}
+
+h3 { 
+    display: block;
+    font-family: 'Fira Sans', serif;
+    font-size: 1.17em;
+    font-weight: 700;
+    margin: 1em 0;
+}
+
+h4 { 
+    display: block;
+    font-family: 'Fira Sans', serif;
+    font-size: 1em;
+    font-weight: 700;
+    margin: 1.33em 0;
+}
+
+h5 { 
+    display: block;
+    font-family: 'Fira Sans', serif;
+    font-size: .83em;
+    font-weight: 700;
+    margin: 1.67em 0;
+}
+
+h6 { 
+    display: block;
+    font-family: 'Fira Sans', serif;
+    font-size: .67em;
+    font-weight: 700;
+    margin: 2.33em 0;
+}
+
+/**
+ ************************************************************************************************************************
+ *  2.0 - Elements
+ ************************************************************************************************************************
+ */
+ html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after { 
+	box-sizing: inherit;
+}
+
+body {
+    font-family: 'Merriweather', serif;
+}
+
+img {
+    height: auto;
+    max-width: 100%;
+}
+
+figure {
+    margin: 0;
+}
+
+/**
+ ************************************************************************************************************************
+ *  3.0 - Forms
+ ************************************************************************************************************************
+ */
+ input[type="submit"] {
+     background: #ffffff;
+     border: 0.063em solid #cccccc;
+     cursor: pointer;
+     font-family: 'Merriweather', serif;
+     padding: 0.5em 1em;
+ }
+
+ input[type="submit"]:hover {
+    background: #000000;
+    border: 0.063em solid #cccccc;
+    color: #ffffff;
+    cursor: pointer;
+    padding: 0.5em 1em;
+}
+
+input[type="password"] {
+    border: 0.063em solid #cccccc;
+    padding: 0.5em;
+    width: 20em;
+}
+
+ /**
+ ************************************************************************************************************************
+ *  4.0 - Alignments
+ ************************************************************************************************************************
+ */
+ .alignleft {
+	float: left;
+	margin-right: 1.5em;
+}
+
+.alignright {
+	float: right;
+	margin-left: 1.5em;
+}
+
+.aligncenter {
+	clear: both;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/**
+ ************************************************************************************************************************
+ *  5.0 - Accessibility
+ ************************************************************************************************************************
+ */
+ .screen-reader-text {
+    clip: rect(0.063em, 0.063em, 0.063em, 0.063em);
+    height: 0.063em;
+    overflow: hidden;
+    position: absolute !important;
+    width: 0.063em;
+}
+
+.screen-reader-text:focus {
+    background: #f1f1f1;
+    border-radius: 0.188em;
+    box-shadow: 0 0 0.125em 0.125em;
+    clip: auto !important;
+    color: #21759b;
+    display: block;
+    font-size: 0.875em;
+    font-weight: bold;
+    height: auto;
+    left: 5px;
+    line-height: normal;
+    padding: 0.938em 1.5em 0.938em;
+    text-decoration: none;
+    top: 5px;
+    width: auto;
+    z-index: 100000;
+}
+
+/**
+ ************************************************************************************************************************
+ *  6.0 - Clearings
+ ************************************************************************************************************************
+ */
+ .site-container:before,
+ .site-container:after,
+ .site-header:before,
+ .site-header:after,
+ .main-navigation:before,
+ .main-navigation:after,
+ .site-content:before,
+ .site-content:after,
+ .entry-content:before,
+ .entry-content:after,
+ .entry-excerpt:before,
+ .entry-excerpt:after,
+ .post-navigation:before,
+ .page-links:before,
+ .page-links:after,
+ .post-navigation:after,
+ .posts-navigation:before,
+ .posts-navigation:after {
+     clear: both;
+     content: "";
+     display: table;
+ }
+
+ /**
+ ************************************************************************************************************************
+ *  7.0 - Navigation (Links)
+ ************************************************************************************************************************
+ */
+a {
+    color: #111111;
+    text-decoration: none;
+}
+
+a:hover,
+a:focus {
+    color: #666666;
+}
+
+ /**
+ ************************************************************************************************************************
+ *  8.0 - Navigation (Pagination)
+ ************************************************************************************************************************
+ */
+ .pagination {
+    margin: 1.125em 0;
+    text-align: center;
+}
+
+.page-numbers {
+    background: #ffffff;
+    border: 0.063em solid #c3c3c3;
+    color: #333333;
+	display: inline-block;
+	padding: 0.5em 1em;
+	text-decoration: none;
+}
+
+.page-numbers:hover {
+	background: #000;
+	color: #fff;
+	border-color: #000;
+}
+
+.page-number:hover a {
+    color: #ffffff;
+}
+
+.page-numbers.current {
+    background: #000000;
+    color: #ffffff;
+}
+
+.page-links > a {
+    border: 0.063em solid #999999;
+    padding: 0.5em 1em;
+    text-decoration: none;
+}
+
+.page-links > a:hover {
+    background: #000000;
+    color: #ffffff;
+}
+
+.page-links > span {
+    background: #000000;
+    border: 0.063em solid #666666;
+    color: #ffffff;
+    padding: 0.5em 1em;
+}
+
+.posts-navigation,
+.post-navigation {
+    clear: both;
+}
+
+.posts-navigation .nav-links .nav-previous,
+.post-navigation .nav-links .nav-previous {
+    float: left;
+    margin: 0.5em 0;
+}
+
+.posts-navigation .nav-links .nav-next,
+.post-navigation .nav-links .nav-next {
+    float: right;
+    margin: 0.5em 0;
+}
+
+.posts-navigation .nav-links .nav-previous .post-previous,
+.post-navigation .nav-links .nav-previous .post-previous {
+    display: block;
+    font-size: 0.9375em;
+    font-weight: 700;
+    text-align: left;
+}
+
+.posts-navigation .nav-links .nav-next .post-next,
+.post-navigation .nav-links .nav-next .post-next {
+    display: block;
+    font-size: 0.9375em;
+    font-weight: 700;
+    text-align: right
+}
+
+.posts-navigation .nav-links .nav-previous .post-title,
+.post-navigation .nav-links .nav-previous .post-title {
+    font-size: 0.813em;
+}
+
+.posts-navigation .nav-links .nav-next .post-title,
+.post-navigation .nav-links .nav-next .post-title {
+    font-size: 0.813em;
+}
+
+.link-pages {
+    text-align: center; 
+}
+
+/**
+ ************************************************************************************************************************
+ *  9.0 - Captions
+ ************************************************************************************************************************
+ */
+ .wp-caption {
+    max-width: 100%;
+    margin-bottom: 1.5em;
+}
+
+.wp-caption img[class*="wp-image-"] {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.wp-caption-text { 
+    text-align: center; 
+}
+
+.wp-caption .wp-caption-text,
+.gallery-caption {
+    background: #eeeeee;
+    font-size: 0.938em;
+    padding: 0.313em;
+    text-align: center;
+}
+
+.wp-caption p {
+    margin: 0;
+    padding: 0;
+}
+
+/**
+ ************************************************************************************************************************
+ * 10.0 - Galleries
+ ************************************************************************************************************************
+ */

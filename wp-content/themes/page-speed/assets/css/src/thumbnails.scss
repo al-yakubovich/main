@@ -1,0 +1,31 @@
+.post-thumbnail img:hover{
+  -webkit-transition: 0.6s ease;
+  transition: 0.6s ease;
+  -webkit-transform: scale(1.05) rotate(-2deg);
+  transform: scale(1.05) rotate(-2deg);
+
+}
+.post-thumbnail img.alignleft {
+  margin-right: 10px;
+}
+
+.post-thumbnail img.alignright {
+  margin-left: 10px;
+}
+
+.post-thumbnail img.aligncenter {
+  margin-bottom: $vr;
+}
+
+article:nth-child(even) .alternate {
+  float: left;
+  margin-right: 10px;
+}
+
+article:nth-child(odd) .alternate {
+  float: right;
+  margin-left: 10px;
+}
+
+// Mobile specific thumbnail code moved to af-layout-responsive.
+

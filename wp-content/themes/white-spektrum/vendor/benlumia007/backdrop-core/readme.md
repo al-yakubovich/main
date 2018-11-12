@@ -1,0 +1,2 @@
+## Backdrop Framework
+Backdrop framework was created to make my live easier when I deployed a theme. With this, It will be easier for me to achieve the same thing without the need to retype everything from scratch. This Framework does it all from displaying your posts to pages and even loads the default core features automatically. 

@@ -1,0 +1,60 @@
+li[id^="accordion-panel"] > h3.accordion-section-title:before,
+li[id^="accordion-section"] > h3.accordion-section-title:before{
+    font-family: dashicons;
+    font-size: 20px;
+    padding-right: 5px;
+    vertical-align: middle;
+    -webkit-font-smoothing: antialiased;
+}
+li#accordion-section-salinger_first_steps_links > h3.accordion-section-title:before{
+    content: "\f118";
+}
+li#accordion-panel-salinger_panel_general_settings > h3.accordion-section-title:before {
+    content: "\f111";
+}
+li#accordion-panel-salinger_panel_header > h3.accordion-section-title::before,
+li#accordion-panel-salinger_panel_content > h3.accordion-section-title::before,
+li#accordion-panel-salinger_panel_footer > h3.accordion-section-title::before{
+    content: "\f134";
+}
+
+li#accordion-panel-nav_menus > h3.accordion-section-title:before{
+    content: "\f333";
+}
+li#accordion-panel-widgets > h3.accordion-section-title::before{
+    content: "\f116";
+}
+li#accordion-panel-woocommerce > h3.accordion-section-title::before{
+    content: "\f174";
+}
+li#accordion-section-custom_css > h3.accordion-section-title::before{
+    content: "\f499";
+}
+h3[class^="salinger-heading-"]{
+    margin: 0 -12px 0;
+    padding: 10px;
+    font-size: 16px;
+}
+h3.salinger-heading-1-blue{
+    background-color: #0073AA;
+    color:#ffffff;
+    border-left: 4px solid #003C58;
+}
+h3.salinger-heading-1-white{
+    background-color: #ffffff;
+    color:#0073AA;
+    border-left: 4px solid #0073AA;
+}
+a.gt-customizer-link-button{
+    display: block;
+    margin:7px 0;
+    text-align: center;
+    padding:3px 0;
+    background-color:#555555;
+    color:#ffffff;
+    text-decoration: none;
+    font-style:normal;
+}
+a.gt-customizer-link-button:hover{
+    background-color:#0073AA;
+}

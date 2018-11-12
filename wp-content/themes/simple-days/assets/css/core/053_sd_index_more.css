@@ -1,0 +1,16 @@
+.more_read_box {
+  text-align: right;
+  margin: 17px 0 0; }
+
+.more_read {
+  border: 1px solid #eee;
+  padding: 10px;
+  font-size: 14px;
+  border-radius: 3px;
+  transition: background 0.3s; }
+  .more_read:hover {
+    background: #222;
+    color: #fff;
+    border-color: #222; }
+
+

@@ -1,0 +1,4 @@
+@import url("../fonts/fontawesome/style.min.css");.alert_box_s_d{margin:10px auto;border:1px solid transparent;padding:15px 15px 15px 60px;position:relative;border-radius:3px}
+.alert_box_s_d:before{font-family:"FontAwesome";font-size:36px;position:absolute;top:50%;left:26.5px;transform:translate(-50%,-50%)}
+.success_s_d{background:#bed8be}.success_s_d:before{color:#94c395;content:"\f058"}.danger_s_d{background:#efa882}.danger_s_d:before{color:#d9544f;content:"\f057"}
+.info_s_d{background:#dceaea}.info_s_d:before{color:#7ec3d8;content:"\f05a"}.warning_s_d{background:#f9e4a5}.warning_s_d:before{color:#efad4f;content:"\f071"}

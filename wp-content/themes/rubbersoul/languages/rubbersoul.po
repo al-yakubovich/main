@@ -1,0 +1,628 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RubberSoul\n"
+"POT-Creation-Date: 2017-09-27 07:00+0100\n"
+"PO-Revision-Date: 2017-09-27 07:01+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: archive.php:17
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:19
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:19
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:21
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:21
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:23
+msgid "Archives"
+msgstr ""
+
+#: author.php:20
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: author.php:39 content.php:99
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: category.php:15
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: comments.php:24
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:37
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:11 index.php:48 search.php:30
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:15 index.php:52
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: content-page.php:20 content.php:60 image.php:98
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:23 content.php:82 functions.php:339 image.php:33
+msgid "Edit"
+msgstr ""
+
+#: content.php:12
+msgid "Featured post"
+msgstr ""
+
+#: content.php:59
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content.php:103
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: footer.php:53
+msgid "by"
+msgstr ""
+
+#: footer.php:54
+msgid "Powered by"
+msgstr ""
+
+#: footer.php:54
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:54
+msgid "Semantic Personal Publishing Platform"
+msgstr ""
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. * by Open Sans, translate this to 'off'. Do not translate into your own language.
+#.
+#: functions.php:99
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: To add an additional Open Sans character subset specific to your language,
+#. * translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not translate into your own language.
+#.
+#: functions.php:105
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: functions.php:243
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:245
+msgid "Appears on posts and pages except Full-width Page Template"
+msgstr ""
+
+#: functions.php:253
+msgid "RubberSoul: Below entries title"
+msgstr ""
+
+#: functions.php:254
+msgid "Appears below entries title"
+msgstr ""
+
+#: functions.php:263
+msgid "RubberSoul: End of entries"
+msgstr ""
+
+#: functions.php:264
+msgid "Appears at the end of entries content"
+msgstr ""
+
+#: functions.php:280
+msgid "&laquo; Previous"
+msgstr ""
+
+#: functions.php:281
+msgid "Next &raquo;"
+msgstr ""
+
+#: functions.php:307
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:307
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:322
+msgid "Post author"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: functions.php:328
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:334
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:343
+msgid "Reply"
+msgstr ""
+
+#: functions.php:426
+msgid "Read more"
+msgstr ""
+
+#: image.php:22
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+
+#: image.php:37
+msgid "&larr; Previous"
+msgstr ""
+
+#: image.php:38
+msgid "Next &rarr;"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:108
+msgid "Show title and description"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:116
+msgid "No change in capital title and description."
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:123 inc/rsoul-lite-guide.php:115
+msgid "RubberSoul Options"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:133
+msgid "Logo, Color and Sidebar"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:141
+msgid "Overflow logo"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:149
+msgid "Adjust the width of the logo to 60px"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:157
+msgid "Maintain transparency logo"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:165
+msgid "Logo square"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:176
+msgid "Select theme color"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:181
+msgid "Blue"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:182
+msgid "Blue WP"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:183
+msgid "Black"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:184
+msgid "Green"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:185
+msgid "Orange"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:186
+msgid "Pink"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:187
+msgid "Purple"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:188
+msgid "Red"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:189
+msgid "Yellow"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:199
+msgid "Apply to entry title in excerpts"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:207
+msgid "Apply to the background color of the selected text."
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:218
+msgid "Select sidebar position"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:223
+msgid "Left"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:224
+msgid "Right"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:236
+msgid "Fonts"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:245
+msgid "Select font"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:274
+msgid "Posts and footer text"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:281
+msgid "Show full posts on homepage."
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:288
+msgid "Excerpt's thumbnail image rounded"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:295
+msgid "Entry text justified"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:302
+msgid "Display related posts at the end of entries"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:309
+msgid "Display 'Back to top' button"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:313
+msgid "Copyright 2015"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:316
+msgid "Footer text left"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:320 inc/rsoul-lite-customizer.php:323
+msgid "Footer text center"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:333
+msgid "Social icons"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:340
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:347
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:354
+msgid "Google Plus URL"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:361
+msgid "LinkedIn URL"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:368
+msgid "YouTube URL"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:375
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:382
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/rsoul-lite-customizer.php:389
+msgid "RSS URL"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:8
+msgid "RubberSoul Guide"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:103
+msgid "Thank you for choosing RubberSoul"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:105
+msgid ""
+"RubberSoul is a simple and light WordPress theme with a clear and neat "
+"design. Some its features are: left sidebar or right, custom theme color "
+"(blue, black, green, orange, red, pink, yellow or purple), custom favicon, "
+"six different Google Fonts, logo rounded or square, thumbnails rounded or "
+"squared, two widgets areas (beginning and end of posts), customization "
+"panel, fully responsive, custom header, custom background and more. "
+"Translation Ready (English and spanish integrated). Required WordPress 4.1+."
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:107
+msgid "RubberSoul Quick Start Guide"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:109
+msgid "Important: thumbnails"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:110
+msgid ""
+"For images appear on the homepage, you must set the featured image of the "
+"posts."
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:112
+msgid ""
+"If RubberSoul is not the first theme you use, you must regenerate the "
+"thumbnails of image with some free plugin as"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:114
+msgid "Customize RubberSoul"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:115
+msgid ""
+"Go to \"Appearance >> Customize >> RubberSoul Options\" and set the options "
+"in the sections \"Color, Logo, Favicon and Sidebar\", \"Social icons\", "
+"\"Posts and footer text\", \"Fonts\"."
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:119
+msgid "Rating and Review"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:120
+msgid ""
+"Please, if you are happy with the theme, say it on wordpress.org and give "
+"RubberSoul a nice review. Thank you."
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:123
+msgid "Review RubberSoul"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:132
+msgid ""
+"With <strong>RubberSoul Pro</strong> you can set up your blog with "
+"everything you need in minutes."
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:140
+msgid "Live Demo"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:141
+msgid "Buy"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:142
+msgid "Compare with Lite Version"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:148
+msgid "Features"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:152
+msgid "Forum support"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:153
+msgid "Unlimited theme colors"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:154
+msgid "Sidebar left or right"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:155
+msgid "Show extract or whole post on homepage and archive pages."
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:156
+msgid "7 widgets areas to add AdSense code or anything else"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:157
+msgid "Easily add your Favicon"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:158
+msgid "Easily add yor Login Logo"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:159
+msgid "Available 15 differents Google fonts"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:160
+msgid ""
+"Custom widgets (Recent posts with thumbnails, Popular posts with thumbnails, "
+"Recent comments with avatar, Email subscription)"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:161
+msgid "Related posts with thumbnails"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:162
+msgid "Show/Hide post meta (author, date, comments number)"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:163
+msgid "Show/Hide pages title"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:164
+msgid "Breadcrumb navigation"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:165
+msgid "Custom pagination"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:166
+msgid "Custom shortcodes (Buttons, Messages, Accordion and Tabs)"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:167
+msgid "Social networks in user profile"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:168
+msgid "Google Plus Authorship Integration"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:169
+msgid "Easily apply RubberSoul style to bbPress, just check the option."
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:170
+msgid "Google Analytics ready, just paste the code"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:171
+msgid "AddThis ready, just paste the code"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:172
+msgid "Translation Ready (.po file integrated)"
+msgstr ""
+
+#: inc/rsoul-lite-guide.php:173
+msgid "Integrated Spanish and English"
+msgstr ""
+
+#: index.php:37
+msgid "No posts to display"
+msgstr ""
+
+#: index.php:41
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:34
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:3 searchform.php:5 template-parts/menu-movil.php:12
+#: template-parts/menu-movil.php:14 template-parts/searchform-toggle.php:3
+#: template-parts/searchform-toggle.php:5
+msgid "Search"
+msgstr ""
+
+#: tag.php:15
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: template-parts/menu-movil.php:13
+msgid "Search..."
+msgstr ""
+
+#: template-parts/related-posts.php:28
+msgid "Related posts"
+msgstr ""

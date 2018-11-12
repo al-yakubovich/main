@@ -1,0 +1,24 @@
+/**
+ * Customizer Custom CSS
+ */
+.our-blog-ads {
+	background-color: #ffcc66;
+	text-align: center;
+}
+.our-blog-ads .button {
+	background-color: #ffcc66;
+    border: 1px solid #FFF;
+    border-radius: 4px;
+    color: #000000;
+    font-weight: bold;
+	margin: 15px 0;
+	transition: all 0.5s ease-in-out 0s;
+	-webkit-transition:all 0.5s ease-in-out 0s;
+	-moz-transition:all 0.5s ease-in-out 0s;
+}
+.our-blog-ads .button:hover,
+.our-blog-ads .button:focus
+{
+	background-color: #808080 ;
+	color: #000000;
+}

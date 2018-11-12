@@ -1,0 +1,158 @@
+//Colors
+$primary: #007AFF;
+$white: #FFF;
+$black: #000;
+
+$alpha: 1;
+$shades-from: $primary;
+$saturation: 8;
+
+$hue: hue($shades-from);
+
+$invert: 0;
+
+$btn-red: rgb(255, 59, 48);
+$btn-orange: rgb(255, 149, 0);
+$btn-yellow: rgb(255, 204, 1);
+$btn-green: rgb(76, 217, 99);
+$btn-teal: rgb(90, 200, 250);
+$btn-blue: rgb(0, 122, 255);
+$btn-purple: rgb(88, 86, 214);
+$btn-pink: rgb(255, 44, 85);
+
+// Don't remove the below lines.
+// 1. Takes the hue, saturation from the color scheme and
+// makes them available to generate the shades.
+// 2. Used for overriding the hue, saturation and primary color.
+
+/**colors_from_color_scheme**/
+
+/**colors_override**/
+
+///* Generated colors */
+
+$light-1: hsla($hue, $saturation, 97, $alpha);
+$light-2: hsla($hue, $saturation, 94, $alpha);
+$light-3: hsla($hue, $saturation, 91, $alpha);
+$light-4: hsla($hue, $saturation, 88, $alpha);
+$light-5: hsla($hue, $saturation, 85, $alpha);
+$light-6: hsla($hue, $saturation, 80, $alpha);
+
+$dark-1: hsla($hue, $saturation, 04, $alpha);
+$dark-2: hsla($hue, $saturation, 08, $alpha);
+$dark-3: hsla($hue, $saturation, 12, $alpha);
+$dark-4: hsla($hue, $saturation, 16, $alpha);
+$dark-5: hsla($hue, $saturation, 20, $alpha);
+$dark-6: hsla($hue, $saturation, 24, $alpha);
+
+@if ($invert == 1) {
+  $dark-1: hsla($hue, $saturation, 97, $alpha);
+  $dark-2: hsla($hue, $saturation, 94, $alpha);
+  $dark-3: hsla($hue, $saturation, 91, $alpha);
+  $dark-4: hsla($hue, $saturation, 88, $alpha);
+  $dark-5: hsla($hue, $saturation, 85, $alpha);
+  $dark-6: hsla($hue, $saturation, 80, $alpha);
+
+  $light-6: hsla($hue, $saturation, 04, $alpha);
+  $light-5: hsla($hue, $saturation, 08, $alpha);
+  $light-4: hsla($hue, $saturation, 12, $alpha);
+  $light-3: hsla($hue, $saturation, 16, $alpha);
+  $light-2: hsla($hue, $saturation, 20, $alpha);
+  $light-1: hsla($hue, $saturation, 24, $alpha);
+}
+
+$border-color: rgba($dark-6, .1);
+$border-color-light: rgba($dark-6, .07);
+$border-color-dark: rgba($dark-4, .1);
+
+///* Generic Colors */
+$body-color: $dark-3;
+$link-color: $dark-1;
+$meta-color: rgba($dark-6, .8);
+$wp-caption-text-color: $dark-4;
+$sticky-header-bg: rgba($dark-1, 0.75);
+
+$button-bg: $primary;
+$button-color: #FFF;
+
+///* Layout colors */
+$body-bg: $dark-1;
+$wrapper-bg: rgba($light-1, 1);
+$content-bg: $light-1;
+$main-bg: $light-1;
+$sb1-bg: rgba(darken($light-1, .025), .9);
+$sb2-bg: rgba(darken($light-1, .04), .9);
+$footer-bg: $dark-2;
+$footer-color: $light-3;
+
+///* Header Colors */
+$header-bg: rgba($light-1, 1);
+$site-title-color: $dark-3;
+$site-description-color: $dark-4;
+
+///* Navigation colors */
+$primary-nav-bg: $dark-3;
+$primary-nav-color: $light-1;
+$secondary-nav-bg: $dark-2;
+$secondary-nav-color: $light-3;
+
+///* Widgets */
+$sb-widget-title-color: $dark-3;
+$sb-widget-title-bg: $light-1;
+$sb-widget-border-color: $border-color-dark;
+$sb-widget-bg: $light-1;
+$sb-widget-color: $dark-3;
+$sb-widget-link-color: $dark-1;
+
+$sb1-widget-title-color: $sb-widget-title-color;
+$sb1-widget-title-bg: $sb-widget-title-bg;
+$sb1-widget-border-color: $sb-widget-border-color;
+$sb1-widget-bg: $sb-widget-bg;
+$sb1-widget-color: $sb-widget-color;
+$sb1-widget-link-color: $sb-widget-link-color;
+
+$sb1-widget-title-color: $sb-widget-title-color;
+$sb1-widget-title-bg: $sb-widget-title-bg;
+$sb1-widget-border-color: $sb-widget-border-color;
+$sb1-widget-bg: $sb-widget-bg;
+$sb1-widget-color: $sb-widget-color;
+$sb1-widget-link-color: $sb-widget-link-color;
+
+$footer-widget-title-color: $light-3;
+$footer-widget-title-bg: transparent;
+$footer-widget-border-color: transparent;
+$footer-widget-bg: transparent;
+$footer-widget-color: $light-3;
+$footer-widget-link-color: $light-1;
+
+// Copyright colors
+
+$copyright-bg: darken($footer-bg, .025);;
+$copyright-color: $light-3;
+$copyright-link-color: $light-1;
+
+
+@if ($is_sleek_header == 1) {
+  $primary-nav-bg: $dark-2
+}
+@if ($invert == 1){
+  $card-bg:$light-2
+} @else{
+  $card-bg:#FFF
+
+}
+// Don't remove the below line.
+// It's used for overriding the variables.
+// 1. All colors from color scheme.
+// 2. Hand picked colors from colors and gradients panel.
+
+/**color_scheme**/
+/**handpicked_colors_raw**/
+/**handpicked_colors**/
+/**SCSS_override**/
+//
+
+//@todo use contrast ratio.
+@if (abs(lightness($primary-nav-bg) - lightness($primary-nav-color)) < 30) {
+  $primary-nav-color: set-color($primary-nav-bg);
+}

@@ -1,0 +1,108 @@
+/** Forms **/
+input,
+textarea {
+  width: 100%;
+  max-width: 800px;
+  border: solid 1px $border-color;
+  background: $light-2;
+  box-sizing: border-box;
+  font-size: 1.1em;
+  color: $dark-3;
+  font-weight: lighter;
+  @include border-radius(3px)
+}
+
+textarea {
+  min-height: 100px;
+  max-width: 100%;
+}
+
+input[type="image"],
+input[type="checkbox"],
+input[type="button"],
+input[type="radio"] {
+  width: auto;
+  height: auto;
+}
+
+input {
+  height: 2.25em
+}
+
+button {
+  height: 2.475em;
+  line-height: 1.75em;
+}
+
+input:active,
+textarea:active,
+input:focus,
+textarea:focus {
+  background: $light-1;
+}
+
+input[type=hidden] {
+  display: none;
+}
+
+input[type=submit],
+button {
+  width: auto;
+  padding: 5px 20px;
+  background: $primary;
+  @include gradient(top, lighten($primary, .1), darken($primary, .1));
+  border: none;
+  color: rgba($light-1, 1);
+  margin-left: 0;
+  margin-right: 0;
+  font-family: $body-font-stack;
+}
+
+.stacked-form {
+  input:not([type='submit']), textarea {
+    top: -1px;
+    position: relative;
+  }
+  .first {
+    top: 0 !important;
+    -webkit-border-bottom-right-radius: 0;
+    -webkit-border-bottom-left-radius: 0;
+    -moz-border-radius-bottomright: 0;
+    -moz-border-radius-bottomleft: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+
+  .last {
+    -webkit-border-top-left-radius: 0;
+    -webkit-border-top-right-radius: 0;
+    -moz-border-radius-topleft: 0;
+    -moz-border-radius-topright: 0;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
+
+  input[type='submit'] {
+    display: block;
+    width: 100%;
+  }
+}
+
+.compact {
+  input,
+  textarea {
+    width: 340px;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (max-width: $mobile_width) {
+  .inline-form {
+    input,
+    textarea {
+      margin: auto auto $padding/2;
+      width: 100%;
+      max-width: 540px;
+    }
+  }
+}

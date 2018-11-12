@@ -1,0 +1,1211 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: JustBlog\n"
+"POT-Creation-Date: 2018-04-22 06:26-0700\n"
+"PO-Revision-Date: 2018-03-29 20:03-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404"
+msgstr ""
+
+#: 404.php:16
+msgid "Not found!"
+msgstr ""
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Try searching."
+msgstr ""
+
+#. translators: %s: author name
+#: author-bio.php:23
+#, php-format
+msgid "Read articles by %s"
+msgstr ""
+
+#: comments.php:29
+msgid "Reader Comments"
+msgstr ""
+
+#: comments.php:48
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:26
+msgid "Copyright &copy;"
+msgstr ""
+
+#: footer.php:27
+msgid "Y"
+msgstr ""
+
+#: footer.php:28
+msgid "All rights reserved."
+msgstr ""
+
+#: functions.php:67
+msgid "Primary"
+msgstr ""
+
+#: functions.php:68
+msgid "Social"
+msgstr ""
+
+#: functions.php:140
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:145
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:150
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: header.php:21
+msgid "Skip to content"
+msgstr ""
+
+#: image.php:38
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:39
+msgid "Next Image"
+msgstr ""
+
+#: inc/customizer.php:35 inc/theme-info/justblog-info.php:133
+msgid "JustBlog Pro"
+msgstr ""
+
+#: inc/customizer.php:36
+msgid ""
+"Opt in for the pro version of JustBlog and enjoy many additional features "
+"that will add more options. Here is a sample of what you will get:"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid "Pro Features:"
+msgstr ""
+
+#: inc/customizer.php:39
+msgid "&bull; 14 Blog Styles"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "&bull; 17 Sidebar Positions"
+msgstr ""
+
+#: inc/customizer.php:41
+msgid "&bull; 4 Header Styles"
+msgstr ""
+
+#: inc/customizer.php:42
+msgid "&bull; Thumbnail Creation for the Blogs"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "&bull; Add More Google Fonts"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "&bull; Typography Options"
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "&bull; Custom Archive Titles"
+msgstr ""
+
+#: inc/customizer.php:46
+msgid "&bull; Page Builder Ready"
+msgstr ""
+
+#: inc/customizer.php:49 inc/theme-info/justblog-info.php:42
+msgid "Get the Pro"
+msgstr ""
+
+#: inc/customizer.php:63
+msgid "Background Images"
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/customizer.php:87
+msgid "Get The Pro Version:"
+msgstr ""
+
+#: inc/customizer.php:94 inc/theme-info/justblog-info.php:275
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:105
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/customizer.php:108
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer.php:109
+msgid "Boxed 1800px Width"
+msgstr ""
+
+#: inc/customizer.php:110
+msgid "Boxed 1600px Width"
+msgstr ""
+
+#: inc/customizer.php:111
+msgid "Boxed 1400px Width"
+msgstr ""
+
+#: inc/customizer.php:122
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/customizer.php:125
+msgid "Default With Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:126
+msgid "Default With Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:127
+msgid "Grid With No Sidebar"
+msgstr ""
+
+#: inc/customizer.php:128
+msgid "Grid With Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:129
+msgid "Grid With Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:139
+msgid "Full Post Style"
+msgstr ""
+
+#: inc/customizer.php:142
+msgid "Single With Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "Single With Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:144
+msgid "Single With No Sidebars"
+msgstr ""
+
+#: inc/customizer.php:154
+msgid "Use Excerpts"
+msgstr ""
+
+#: inc/customizer.php:155
+msgid ""
+"Use excerpts for your blog post summaries or uncheck the box to use the "
+"standard Read More tag. NOTE: Some blog styles only use excerpts."
+msgstr ""
+
+#: inc/customizer.php:167
+msgid "Excerpt Size"
+msgstr ""
+
+#: inc/customizer.php:168
+msgid ""
+"You can change the size of your blog summary excerpts with increments of 5 "
+"words."
+msgstr ""
+
+#: inc/customizer.php:183
+msgid "Use FontAwesome 4"
+msgstr ""
+
+#: inc/customizer.php:184
+msgid ""
+"For compatibility reasons when using the new FontAwesome version 4 (turned "
+"off by default). You also have the option to disable both v4 and v5 if you "
+"are using a plugin for Font Awesome."
+msgstr ""
+
+#: inc/customizer.php:195
+msgid "Use FontAwesome 5"
+msgstr ""
+
+#: inc/customizer.php:196
+msgid ""
+"For compatibility reasons when using the new FontAwesome version 5 (turned "
+"on by default), if you find icons are missing or look odd, you can switch to "
+"FontAwesome version 4. You also have the option to disable both v4 and v5 if "
+"you are using a plugin for Font Awesome."
+msgstr ""
+
+#: inc/customizer.php:208
+msgid "Show the Featured Tag"
+msgstr ""
+
+#: inc/customizer.php:209
+msgid ""
+"This lets you show the featured tag in the post meta info. Note: It does not "
+"show on the blog 13 blog style."
+msgstr ""
+
+#: inc/customizer.php:220
+msgid "Show the Post Format"
+msgstr ""
+
+#: inc/customizer.php:221
+msgid "This lets you show the post format linked tag in the post meta info."
+msgstr ""
+
+#: inc/customizer.php:232
+msgid "Show the Featured Image Captions"
+msgstr ""
+
+#: inc/customizer.php:233
+msgid "This lets you show or hide the post summary featured image caption."
+msgstr ""
+
+#: inc/customizer.php:245
+msgid "Show the Full Post Featured Image"
+msgstr ""
+
+#: inc/customizer.php:246
+msgid "This lets you show the featured image also on the full post view."
+msgstr ""
+
+#: inc/customizer.php:257
+msgid "Show the Full Post Footer Group"
+msgstr ""
+
+#: inc/customizer.php:258
+msgid ""
+"This lets you show or hide the full post footer group that includes the tags "
+"list."
+msgstr ""
+
+#: inc/customizer.php:269
+msgid "Show the Post Navigation"
+msgstr ""
+
+#: inc/customizer.php:270
+msgid ""
+"This lets you show the Next and Previous post navigation on the full post "
+"view."
+msgstr ""
+
+#: inc/customizer.php:281
+msgid "Show the Author Bio Section"
+msgstr ""
+
+#: inc/customizer.php:282
+msgid ""
+"This lets you show the author biography info section on the full article "
+"view."
+msgstr ""
+
+#: inc/customizer.php:294
+msgid "Show the Related Posts Section"
+msgstr ""
+
+#: inc/customizer.php:295
+msgid "This lets you show the related posts section on the full article view."
+msgstr ""
+
+#: inc/customizer.php:306
+msgid "Default Style Blog Thumbnails"
+msgstr ""
+
+#: inc/customizer.php:307
+msgid ""
+"This will create featured images for the blog 1 and 2 styled layouts. Size = "
+"740x400 pixels."
+msgstr ""
+
+#: inc/customizer.php:318
+msgid "Grid Style Blog Thumbnails"
+msgstr ""
+
+#: inc/customizer.php:319
+msgid ""
+"This will create featured images for the grid styled layouts. Size = 660x350 "
+"pixels."
+msgstr ""
+
+#: inc/customizer.php:330
+msgid "Enable Related Post Thumbnail Creation"
+msgstr ""
+
+#: inc/customizer.php:331
+msgid ""
+"When enabled, a custom thumbnail will be created for the related posts "
+"sections on the full post view. (Images will be 210x150 pixels."
+msgstr ""
+
+#: inc/customizer.php:344
+msgid "Related Posts Displayed From:"
+msgstr ""
+
+#: inc/customizer.php:348
+msgid "Related Posts By Categories"
+msgstr ""
+
+#: inc/customizer.php:349
+msgid "Related Posts By Tags"
+msgstr ""
+
+#: inc/customizer.php:359
+msgid "Your Copyright Name"
+msgstr ""
+
+#: inc/customizer.php:371
+msgid "Site Title Colour"
+msgstr ""
+
+#: inc/customizer.php:382
+msgid "Site Tagline Colour"
+msgstr ""
+
+#: inc/customizer.php:395
+msgid "Header Curve Background"
+msgstr ""
+
+#: inc/customizer.php:405
+msgid "Header Curve Colour"
+msgstr ""
+
+#: inc/customizer.php:406
+msgid ""
+"This will colour the curve area, but should only be changed if you need it "
+"to match the main content area background colour - if changed."
+msgstr ""
+
+#: inc/customizer.php:417
+msgid "Main Content Area Background"
+msgstr ""
+
+#: inc/customizer.php:428
+msgid "Main Content Top Borders"
+msgstr ""
+
+#: inc/customizer.php:439
+msgid "Copyright Background"
+msgstr ""
+
+#: inc/customizer.php:450
+msgid "Copyright Area Text"
+msgstr ""
+
+#: inc/customizer.php:461
+msgid "Main Content Text Colour"
+msgstr ""
+
+#: inc/customizer.php:472
+msgid "Headings Colour"
+msgstr ""
+
+#: inc/customizer.php:483
+msgid "Post Meta Info Colour"
+msgstr ""
+
+#: inc/customizer.php:494
+msgid "Post Featured Label Background"
+msgstr ""
+
+#: inc/customizer.php:505
+msgid "Post Featured Label"
+msgstr ""
+
+#: inc/customizer.php:516
+msgid "Alternating Blog Style Background"
+msgstr ""
+
+#: inc/customizer.php:517
+msgid "This is for the Alternating blog style background."
+msgstr ""
+
+#: inc/customizer.php:528
+msgid "Footer Sidebar Background"
+msgstr ""
+
+#: inc/customizer.php:539
+msgid "Footer Sidebar Text"
+msgstr ""
+
+#: inc/customizer.php:550
+msgid "Top Social Icon Background"
+msgstr ""
+
+#: inc/customizer.php:561
+msgid "Top Social Icon"
+msgstr ""
+
+#: inc/customizer.php:572
+msgid "Link Colour"
+msgstr ""
+
+#: inc/customizer.php:573
+msgid ""
+"This also colours the hover state of Left Sidebar and Right Sidebar list "
+"based links as well."
+msgstr ""
+
+#: inc/customizer.php:584
+msgid "Link Visited Colour"
+msgstr ""
+
+#: inc/customizer.php:585
+msgid "This shows your visitors that they have already clicked on a link."
+msgstr ""
+
+#: inc/customizer.php:596
+msgid "Widget Tags Background Colour"
+msgstr ""
+
+#: inc/customizer.php:607
+msgid "Widget Tags Text Colour"
+msgstr ""
+
+#: inc/customizer.php:618
+msgid "Post Entry Tags Background"
+msgstr ""
+
+#: inc/customizer.php:629
+msgid "Post Entry Tags Text"
+msgstr ""
+
+#: inc/customizer.php:640
+msgid "Comments Container Background"
+msgstr ""
+
+#: inc/customizer.php:651
+msgid "Widget Menu"
+msgstr ""
+
+#: inc/customizer.php:652
+msgid "This is the colour for your Left and Right sidebar Widget Menu links."
+msgstr ""
+
+#: inc/customizer.php:663
+msgid "Mobile Menu Toggle Background"
+msgstr ""
+
+#: inc/customizer.php:664
+msgid "This is the colour for your toggle button background."
+msgstr ""
+
+#: inc/customizer.php:675 inc/customizer.php:687
+msgid "Mobile Menu Toggle Icon"
+msgstr ""
+
+#: inc/customizer.php:676
+msgid "This is the colour for your toggle button icon."
+msgstr ""
+
+#: inc/customizer.php:688
+msgid "This is the colour for your mobile menu background flyout panel."
+msgstr ""
+
+#: inc/customizer.php:699
+msgid "Mobile Menu Links"
+msgstr ""
+
+#: inc/customizer.php:710
+msgid "Mobile Menu Hover Links"
+msgstr ""
+
+#: inc/customizer.php:721
+msgid "Main Menu Links"
+msgstr ""
+
+#: inc/customizer.php:732
+msgid "Main Menu Hover & Active Colour"
+msgstr ""
+
+#: inc/customizer.php:744
+msgid "Main Menu Submenu Border"
+msgstr ""
+
+#: inc/customizer.php:755
+msgid "Main Menu Submenu Bottom Border"
+msgstr ""
+
+#: inc/customizer.php:766
+msgid "Button Background"
+msgstr ""
+
+#: inc/customizer.php:776
+msgid "Button Label"
+msgstr ""
+
+#: inc/customizer.php:786
+msgid "Button Hover Background"
+msgstr ""
+
+#: inc/customizer.php:796
+msgid "Button Hover Label"
+msgstr ""
+
+#: inc/customizer.php:807
+msgid "Input Field Background"
+msgstr ""
+
+#: inc/customizer.php:818
+msgid "Input Field Border"
+msgstr ""
+
+#: inc/customizer.php:830
+msgid "Content Bottom Background Image"
+msgstr ""
+
+#: inc/customizer.php:831
+msgid "This adds a background photo to the bottom of your pages."
+msgstr ""
+
+#: inc/related-posts.php:12
+msgid "You may also like these posts:"
+msgstr ""
+
+#: inc/related-posts.php:25
+msgid "related-post"
+msgstr ""
+
+#: inc/sidebars.php:9
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:11
+msgid "Right sidebar for the blog"
+msgstr ""
+
+#: inc/sidebars.php:18
+msgid "Blog Left Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:20
+msgid "Left sidebar for the blog"
+msgstr ""
+
+#: inc/sidebars.php:27
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:29
+msgid "Right sidebar for pages"
+msgstr ""
+
+#: inc/sidebars.php:36
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:38
+msgid "Left sidebar for pages"
+msgstr ""
+
+#: inc/sidebars.php:45
+msgid "Banner"
+msgstr ""
+
+#: inc/sidebars.php:47
+msgid "For Images and Sliders."
+msgstr ""
+
+#: inc/sidebars.php:54
+msgid "Post Banner"
+msgstr ""
+
+#: inc/sidebars.php:56
+msgid ""
+"For Images and Sliders, but ONLY shows up on posts and pages that use the "
+"left and/or right sidebar columns."
+msgstr ""
+
+#: inc/sidebars.php:63
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/sidebars.php:65
+msgid ""
+"For adding breadcrumb navigation if using a plugin, or you can add content "
+"here."
+msgstr ""
+
+#: inc/sidebars.php:73
+msgid "Bottom 1"
+msgstr ""
+
+#: inc/sidebars.php:75
+msgid "Bottom 1 position"
+msgstr ""
+
+#: inc/sidebars.php:82
+msgid "Bottom 2"
+msgstr ""
+
+#: inc/sidebars.php:84
+msgid "Bottom 2 position"
+msgstr ""
+
+#: inc/sidebars.php:91
+msgid "Bottom 3"
+msgstr ""
+
+#: inc/sidebars.php:93
+msgid "Bottom 3 position"
+msgstr ""
+
+#: inc/sidebars.php:100
+msgid "Bottom 4"
+msgstr ""
+
+#: inc/sidebars.php:102
+msgid "Bottom 4 position"
+msgstr ""
+
+#: inc/sidebars.php:109
+msgid "Footer 1"
+msgstr ""
+
+#: inc/sidebars.php:111
+msgid "Footer 1 position"
+msgstr ""
+
+#: inc/sidebars.php:118
+msgid "Footer 2"
+msgstr ""
+
+#: inc/sidebars.php:120
+msgid "Footer 2 position"
+msgstr ""
+
+#: inc/sidebars.php:127
+msgid "Footer 3"
+msgstr ""
+
+#: inc/sidebars.php:129
+msgid "Footer 3 position"
+msgstr ""
+
+#: inc/sidebars.php:136
+msgid "Footer 4"
+msgstr ""
+
+#: inc/sidebars.php:138
+msgid "Footer 4 position"
+msgstr ""
+
+#: inc/template-functions.php:45
+msgid "&hellip;Continue Reading"
+msgstr ""
+
+#: inc/template-tags.php:30
+msgid "Featured"
+msgstr ""
+
+#. translators: %s: post date
+#: inc/template-tags.php:46 inc/template-tags.php:129
+#, php-format
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:59 inc/template-tags.php:149
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:77 inc/template-tags.php:167
+#: template-parts/page/content-page.php:42
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:123
+#, php-format
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#: inc/template-tags.php:133
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:136
+#, php-format
+msgid "In %1$s"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:206
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/theme-info/justblog-info-class-about.php:168
+msgid "Dismiss this notice."
+msgstr ""
+
+#: inc/theme-info/justblog-info-class-about.php:571
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/theme-info/justblog-info-class-about.php:575
+msgid "You do not have the necessary permission to perform this action."
+msgstr ""
+
+#. translators: %1$s: menu title under appearance
+#. translators: %1$s: page name
+#: inc/theme-info/justblog-info.php:23 inc/theme-info/justblog-info.php:25
+#, php-format
+msgid "About %1$s"
+msgstr ""
+
+#. translators: %1$s: welcome title
+#: inc/theme-info/justblog-info.php:27
+#, php-format
+msgid "Welcome to %1$s - v"
+msgstr ""
+
+#. translators: %1$s: welcome content
+#: inc/theme-info/justblog-info.php:29
+#, php-format
+msgid ""
+"%1$s is a clean and minimal blog theme that is perfect for bloggers who need "
+"to focus on writing articles and giving your readers a feeling of pleasure "
+"without too many distractions. JustBlog is the perfect personal blog theme "
+"that mixes classic and modern style for a unique design that incorporates a "
+"responsive curved header. This theme is a perfect choice for you if you want "
+"a simple easy to use theme."
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:39
+#, php-format
+msgid "Get the Pro for 25% off"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:40
+#, php-format
+msgid ""
+"Save 25% off the JustBlog Pro regular price of $59. Offer EXPIRES Soon! Use "
+"the above coupon code at checkout."
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:46
+msgid "Getting Started"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:47 inc/theme-info/justblog-info.php:284
+msgid "Support"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:48
+msgid "Reviews"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:49 inc/theme-info/justblog-info.php:88
+msgid "Changelog"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:50
+msgid "Free VS PRO"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:55
+msgid "Setup Documentation"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:56
+msgid ""
+"To help you get started with the initial setup of this theme and to learn "
+"about the various features, you can check out detailed setup documentation."
+msgstr ""
+
+#. translators: %1$s: theme name
+#: inc/theme-info/justblog-info.php:58
+#, php-format
+msgid "View %1$s Tutorials"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:65 inc/theme-info/justblog-info.php:67
+msgid "Go to Customizer"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:66
+msgid ""
+"Using the WordPress Customizer you can easily customize every aspect of the "
+"theme."
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:75
+msgid "Using a Child Theme"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:76
+msgid ""
+"If you plan to customize this theme, I recommend looking into using a child "
+"theme. To learn more about child themes and why it's important to use one, "
+"check out the WordPress documentation."
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:77
+msgid "Child Themes"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:89
+msgid ""
+"I generally recommend you always read the CHANGELOG before updating so that "
+"you can see what was fixed, changed, deleted, or added to the theme."
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:99
+msgid "Free Support"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:101
+msgid ""
+"Get free support by signing up for the Free Theme Membership (it's free) and "
+"you can then login and submit a support ticket."
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:102
+msgid "Get Free Support"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:108
+msgid "Common Problems"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:110
+msgid ""
+"For quick answers to the most common problems, you can check out the "
+"tutorials which can provide instant solutions and answers."
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:111
+msgid "Get Answers"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:121
+msgid "Theme Review"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:123
+msgid ""
+"We would love to request a 5-star rating from you! Visit the the theme "
+"review page and at the bottom, add your star rating. If you plan to switch "
+"to a different theme, please contact us and let us know why and what can we "
+"do to make immediate changes to improve the theme. If you run into any "
+"problems, request support and we will be happy to help you out."
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:124
+msgid "Add Your Star Rating"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:135
+msgid "Get JustBlog Pro"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:138
+msgid "Mobile Friendly"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:147
+msgid "Unlimited Colours"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:156
+msgid "Boxed Layouts"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:166
+msgid "Background Image"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:175
+msgid "Built-In Social Buttons"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:184
+msgid "Show or Hide Elements"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:193
+msgid "Custom Error Page"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:203
+msgid "Blog Styles"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:212
+msgid "Sidebar Positions"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:221
+msgid "Page Templates"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:230
+msgid "Custom Page Bottom Images"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:231
+msgid "Add a background photo to the bottom of your content area page."
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:239
+msgid "Font Awesome (New version 5) Icons"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:248
+msgid "Recent Posts Widget with Thumbnails"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:257
+msgid "Related Posts with Thumbnails"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:266
+msgid "Featured Image Captions for Posts"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:267
+msgid "Enhance your post featured images with captions"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:293
+msgid "Header Options"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:294
+msgid "4 Header styles for the Pro version"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:302
+msgid "Custom Blog Title &amp; Introduction"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:303
+msgid ""
+"WordPress does not have this, but we have added a customizable blog title "
+"and intro option."
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:311
+msgid "Blog Thumbnail Creation"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:312
+msgid "Automatically have post featured images cropped when uploading."
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:321
+msgid "Add Google Fonts"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:322
+msgid "Add up to 2 more Google Fonts."
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:330
+msgid "Typography Options"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:331
+msgid "Change the font for your main text and headings, and more."
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:339
+msgid "Customized Archive Titles"
+msgstr ""
+
+#: inc/theme-info/justblog-info.php:340
+msgid "We customized the style of archive titles for tags, categories, etc."
+msgstr ""
+
+#: inc/widgets/class-justblog-recent-posts-widget.php:24
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/class-justblog-recent-posts-widget.php:30
+msgid "JustBlog: Recent Posts"
+msgstr ""
+
+#: inc/widgets/class-justblog-recent-posts-widget.php:32
+msgid ""
+"A widget that displays your recent posts from all categories or a category "
+"with thumbnails."
+msgstr ""
+
+#: inc/widgets/class-justblog-recent-posts-widget.php:73
+msgid "No Image"
+msgstr ""
+
+#: inc/widgets/class-justblog-recent-posts-widget.php:128
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/class-justblog-recent-posts-widget.php:132
+msgid "Number of posts to show:"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:11
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: template-parts/layouts/blog-default.php:26
+#: template-parts/layouts/blog-grid.php:28
+msgid "Posts"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: template-parts/layouts/blog-default.php:90
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/layouts/blog-default.php:95
+#: template-parts/page/content-page.php:29
+#: template-parts/post/content-single.php:46
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/navigation/navigation-blog.php:8
+msgid "Previous page"
+msgstr ""
+
+#: template-parts/navigation/navigation-blog.php:9
+msgid "Next page"
+msgstr ""
+
+#: template-parts/navigation/navigation-blog.php:10
+msgid "Page"
+msgstr ""
+
+#: template-parts/navigation/navigation-post.php:8
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/navigation/navigation-post.php:9
+msgid "Next post:"
+msgstr ""
+
+#: template-parts/navigation/navigation-post.php:11
+msgid "Previous Post"
+msgstr ""
+
+#: template-parts/navigation/navigation-post.php:12
+msgid "Previous post:"
+msgstr ""
+
+#: template-parts/navigation/navigation-social.php:9
+msgid "Social Menu"
+msgstr ""
+
+#: template-parts/post/content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: %1$s: link to create post
+#: template-parts/post/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/post/content-none.php:23
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "JustBlog"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.bloggingthemestyles.com/free-wordpress-themes/justblog/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"JustBlog is a clean and minimal blog theme that is perfect for bloggers who "
+"need to focus on writing articles and giving your readers a feeling of "
+"pleasure without too many distractions. JustBlog is the perfect personal "
+"blog theme that mixes classic and modern style for a unique design that "
+"incorporates a responsive curved header. This theme is a perfect choice for "
+"you if you don’t need a saturation features you will never need. It's super "
+"simple and easy to setup and you will get a high quality, responsive, well "
+"crafted blog out of the box. Enjoy features like 5 blog layouts, boxed "
+"layouts, and Off-Canvas mobile menu, custom backgrounds, 15 sidebar "
+"positions, and more. Be sure to read more About JustBlog under the "
+"Appearance admin menu."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Blogging Theme Styles"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.bloggingthemestyles.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Left &amp; Right Column"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Left Column"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page Builder"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Right Column"
+msgstr ""
