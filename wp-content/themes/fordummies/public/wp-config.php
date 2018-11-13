@@ -1,2 +1,2 @@
-define('WP_HOME','http://example.com');
-define('WP_SITEURL','http://example.com');
+define('WP_HOME','http://yakubovich.net/');
+define('WP_SITEURL','http://yakubovich.net/');
