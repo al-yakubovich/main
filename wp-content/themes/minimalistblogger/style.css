@@ -1195,9 +1195,11 @@ object {
 	border: none
 }
 
-.main-navigation ul.pmenu>li:first-child a {
+/*  MY REMOVAL*/
+/* .main-navigation ul.pmenu>li:first-child a {
 	padding-left: 0
-}
+} */
+/*  */
 
 .secondary-menu .arrow-menu {
 	position: absolute;
@@ -1900,7 +1902,10 @@ object {
 	}
 	.toggle-mobile-menu:before {
 		font-family: FontAwesome;
-		content: "\f0c9";
+/* 		MY REMOVAL */
+/* 		content: "\f0c9"; */
+	content: ""; 
+		
 		font-size: 18px;
 		line-height: 50px;
 		margin-right: 10px;
